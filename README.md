@@ -1,5 +1,5 @@
-# GeneralsRussianLoca
-German Unuct Localization for Generals Zero Hour
+# GeneralsGermanUncutLoca
+German Uncut Localization for Generals Zero Hour
 
 #### Important folders and files
 * GermanUncut > Contains all german source and build files for Generals
