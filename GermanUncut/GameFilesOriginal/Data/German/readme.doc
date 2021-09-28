@@ -1,0 +1,442 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times};}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f4\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Helvetica;}
+{\f35\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}{\f38\froman\fcharset238\fprq2 Times New Roman CE{\*\falt Times};}{\f39\froman\fcharset204\fprq2 Times New Roman Cyr{\*\falt Times};}
+{\f41\froman\fcharset161\fprq2 Times New Roman Greek{\*\falt Times};}{\f42\froman\fcharset162\fprq2 Times New Roman Tur{\*\falt Times};}{\f43\froman\fcharset177\fprq2 Times New Roman (Hebrew){\*\falt Times};}
+{\f44\froman\fcharset178\fprq2 Times New Roman (Arabic){\*\falt Times};}{\f45\froman\fcharset186\fprq2 Times New Roman Baltic{\*\falt Times};}{\f46\froman\fcharset163\fprq2 Times New Roman (Vietnamese){\*\falt Times};}
+{\f58\fmodern\fcharset238\fprq1 Courier New CE;}{\f59\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f61\fmodern\fcharset161\fprq1 Courier New Greek;}{\f62\fmodern\fcharset162\fprq1 Courier New Tur;}{\f63\fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f64\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f65\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f66\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}{\f78\fswiss\fcharset238\fprq2 Helvetica CE;}{\f79\fswiss\fcharset204\fprq2 Helvetica Cyr;}
+{\f81\fswiss\fcharset161\fprq2 Helvetica Greek;}{\f82\fswiss\fcharset162\fprq2 Helvetica Tur;}{\f83\fswiss\fcharset177\fprq2 Helvetica (Hebrew);}{\f84\fswiss\fcharset178\fprq2 Helvetica (Arabic);}{\f85\fswiss\fcharset186\fprq2 Helvetica Baltic;}
+{\f86\fswiss\fcharset163\fprq2 Helvetica (Vietnamese);}{\f388\fswiss\fcharset238\fprq2 Tahoma CE;}{\f389\fswiss\fcharset204\fprq2 Tahoma Cyr;}{\f391\fswiss\fcharset161\fprq2 Tahoma Greek;}{\f392\fswiss\fcharset162\fprq2 Tahoma Tur;}
+{\f393\fswiss\fcharset177\fprq2 Tahoma (Hebrew);}{\f394\fswiss\fcharset178\fprq2 Tahoma (Arabic);}{\f395\fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f396\fswiss\fcharset163\fprq2 Tahoma (Vietnamese);}{\f397\fswiss\fcharset222\fprq2 Tahoma (Thai);}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
+\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\fs24\lang1033\langfe1036\cgrid\langnp1033\langfenp1036 \snext0 Normal;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\*\cs15 \additive \v\f2\fs24\cf12\sub tw4winMark;}{\*\cs16 \additive \f2\fs40\cf4 
+tw4winError;}{\*\cs17 \additive \cf2 tw4winTerm;}{\*\cs18 \additive \f2\cf11\lang1024\langfe1024\noproof tw4winPopup;}{\*\cs19 \additive \f2\cf10\lang1024\langfe1024\noproof tw4winJump;}{\*\cs20 \additive \f2\cf15\lang1024\langfe1024\noproof 
+tw4winExternal;}{\*\cs21 \additive \f2\cf6\lang1024\langfe1024\noproof tw4winInternal;}{\*\cs22 \additive \f2\cf13\lang1024\langfe1024\noproof DO_NOT_TRANSLATE;}{\*\cs23 \additive \ul\cf2 \sbasedon10 Hyperlink;}{
+\s24\ql \li0\ri0\sb120\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \b\f4\fs36\lang2057\langfe1036\cgrid\langnp2057\langfenp1036 \sbasedon0 \snext24 HEAD 2;}{
+\s25\ql \fi-360\li720\ri0\sb120\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 \f4\fs20\lang2057\langfe1036\cgrid\langnp2057\langfenp1036 \sbasedon0 \snext25 Bullet;}{\s26\ql \li0\ri0\sb120\sa120\widctlpar
+\tqc\tx4320\tqr\tx8640\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f4\fs20\lang2057\langfe1036\cgrid\langnp2057\langfenp1036 \sbasedon0 \snext26 header;}{\s27\ql \li0\ri0\sb120\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\b\scaps\f4\fs36\lang1036\langfe1036\cgrid\langnp1036\langfenp1036 \sbasedon24 \snext27 HEAD 1;}{\s28\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \cbpat9 \f35\fs24\lang1033\langfe1036\cgrid\langnp1033\langfenp1036 
+\sbasedon0 \snext28 \ssemihidden Document Map;}{\s29\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f35\fs16\lang1033\langfe1036\cgrid\langnp1033\langfenp1036 \sbasedon0 \snext29 \ssemihidden \styrsid13438930 Balloon Text;}}
+{\*\listtable{\list\listtemplateid1991387784\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li1080
+\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li6840\jclisttab\tx6840\lin6840 }{\listname ;}\listid112482551}{\list\listtemplateid971114498\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360
+\levelindent0{\leveltext\leveltemplateid67698703\'02\'00.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698713\'04\'00.\'01.;}{\levelnumbers\'01\'03;}\b\fs24\fbias0 \fi-420\li1500\jclisttab\tx1500\lin1500 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'06\'00.\'01.\'02.;}{\levelnumbers\'01\'03\'05;}\b\fs24\fbias0 \fi-720\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698703\'08\'00.\'01.\'02.\'03.;}{\levelnumbers\'01\'03\'05\'07;}\b\fs24\fbias0 \fi-720\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698713\'0a\'00.\'01.\'02.\'03.\'04.;}{\levelnumbers\'01\'03\'05\'07\'09;}\b\fs24\fbias0 \fi-1080\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid67698715\'0c\'00.\'01.\'02.\'03.\'04.\'05.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b;}\b\fs24\fbias0 \fi-1080\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'0e\'00.\'01.\'02.\'03.\'04.\'05.\'06.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d;}\b\fs24\fbias0 \fi-1080\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'10\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f;}\b\fs24\fbias0 \fi-1440\li2520\jclisttab\tx2520\lin2520 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'12\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}\b\fs24\fbias0 
+\fi-1440\li2520\jclisttab\tx2520\lin2520 }{\listname ;}\listid450440904}{\list\listtemplateid-400517350\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li720\jclisttab\tx720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}
+\f0\fbias0 \fi-360\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2880
+\jclisttab\tx2880\lin2880 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3600\jclisttab\tx3600\lin3600 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li4320\jclisttab\tx4320\lin4320 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li6480\jclisttab\tx6480\lin6480 }{\listname ;}\listid595290114}{\list\listtemplateid112871992\listhybrid{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers
+;}\f3\fbias0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6120
+\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li6840\jclisttab\tx6840\lin6840 }
+{\listname ;}\listid884758340}{\list\listtemplateid-1253032276{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360
+\jclisttab\tx360\lin360 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li3960
+\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listname ;}\listid1036807915}{\list\listtemplateid-1253032276\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}
+\f2\fbias0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li4680
+\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5400\jclisttab\tx5400\lin5400 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li6840\jclisttab\tx6840\lin6840 }{\listname ;}\listid1084180333}{\list\listtemplateid2018809962
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2\levelspace120\levelindent720{\leveltext\'02\'00.;}{\levelnumbers\'01;}\b \fi-720\li720\lin720 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat15
+\levelspace120\levelindent720{\leveltext\'04\'00.\'01.;}{\levelnumbers\'01\'03;}\b \fi-720\li1440\lin1440 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace120\levelindent720{\leveltext
+\'06\'00.\'01.\'02.;}{\levelnumbers\'01\'03\'05;}\b \fi-720\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace120\levelindent720{\leveltext\'08\'00.\'01.\'02.\'03.;}{\levelnumbers\'01\'03\'05\'07;}\b 
+\fi-720\li2880\lin2880 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace120\levelindent1080{\leveltext\'0a\'00.\'01.\'02.\'03.\'04.;}{\levelnumbers\'01\'03\'05\'07\'09;}\b \fi-1080\li3960\lin3960 }{\listlevel
+\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace120\levelindent1080{\leveltext\'0c\'00.\'01.\'02.\'03.\'04.\'05.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b;}\b \fi-1080\li5040\lin5040 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace120\levelindent1440{\leveltext\'0e\'00.\'01.\'02.\'03.\'04.\'05.\'06.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d;}\b \fi-1440\li6480\lin6480 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace120\levelindent1440{\leveltext\'10\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f;}\b \fi-1440\li7920\lin7920 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace120\levelindent1800{\leveltext\'12\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}\b \fi-1800\li9720\lin9720 }{\listname ;}\listid1377199714}{\list\listtemplateid-1421698586\listhybrid
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698703\'02\'00.;}{\levelnumbers\'01;}\fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat2\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'04\'00.\'01.;}{\levelnumbers\'01\'03;}\b\fs24\fbias0 \fi-360\li1440\jclisttab\tx1440\lin1440 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'06\'00.\'01.\'02.;}{\levelnumbers\'01\'03\'05;}\b\fs24\fbias0 \fi-720\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'08\'00.\'01.\'02.\'03.;}{\levelnumbers\'01\'03\'05\'07;}\b\fs24\fbias0 \fi-720\li1800\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'0a\'00.\'01.\'02.\'03.\'04.;}{\levelnumbers\'01\'03\'05\'07\'09;}\b\fs24\fbias0 \fi-1080\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'0c\'00.\'01.\'02.\'03.\'04.\'05.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b;}\b\fs24\fbias0 \fi-1080\li2160\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'0e\'00.\'01.\'02.\'03.\'04.\'05.\'06.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d;}\b\fs24\fbias0 \fi-1080\li2160
+\jclisttab\tx2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'10\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.;}{\levelnumbers
+\'01\'03\'05\'07\'09\'0b\'0d\'0f;}\b\fs24\fbias0 \fi-1440\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715
+\'12\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}\b\fs24\fbias0 \fi-1440\li2520\jclisttab\tx2520\lin2520 }{\listname ;}\listid1415395266}{\list\listtemplateid616343874\listhybrid{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li766\jclisttab\tx766\lin766 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1486\jclisttab\tx1486\lin1486 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li2206\jclisttab\tx2206\lin2206 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li2926\jclisttab\tx2926\lin2926 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3646\jclisttab\tx3646\lin3646 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li4366\jclisttab\tx4366\lin4366 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers
+;}\f3\fbias0 \fi-360\li5086\jclisttab\tx5086\lin5086 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li5806
+\jclisttab\tx5806\lin5806 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li6526\jclisttab\tx6526\lin6526 }
+{\listname ;}\listid1847213336}{\list\listtemplateid-1406352710\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}
+\f3\fbias0 \fi-360\li1080\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1800
+\jclisttab\tx1800\lin1800 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li2520\jclisttab\tx2520\lin2520 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f0\fbias0 \fi-360\li6840\jclisttab\tx6840\lin6840 }{\listname ;}\listid2087190712}}{\*\listoverridetable{\listoverride\listid595290114\listoverridecount0\ls1}{\listoverride\listid884758340\listoverridecount0\ls2}
+{\listoverride\listid1847213336\listoverridecount0\ls3}{\listoverride\listid2087190712\listoverridecount0\ls4}{\listoverride\listid1377199714\listoverridecount0\ls5}{\listoverride\listid1084180333\listoverridecount0\ls6}{\listoverride\listid1036807915
+\listoverridecount0\ls7}{\listoverride\listid1415395266\listoverridecount0\ls8}{\listoverride\listid450440904\listoverridecount0\ls9}{\listoverride\listid112482551\listoverridecount0\ls10}}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}
+{\*\rsidtbl \rsid289527\rsid663665\rsid926975\rsid1665376\rsid3162413\rsid3373338\rsid4226543\rsid4539810\rsid5126650\rsid6962403\rsid7083242\rsid7109823\rsid7214642\rsid7235841\rsid7352899\rsid7950254\rsid8534463\rsid8864557\rsid8870824\rsid8918151
+\rsid9137058\rsid9395112\rsid11762362\rsid12740814\rsid13438930\rsid14750625\rsid16074743\rsid16076828}{\*\generator Microsoft Word 10.0.4009;}{\info
+{\title Video cards that are unsupported by Command & Conquer Generals under Windows 98 include the following}{\author Amer Ajami}{\operator Preferred Customer}{\creatim\yr2003\mo1\dy13\hr16\min25}{\revtim\yr2003\mo1\dy15\hr13\min56}
+{\printim\yr2003\mo1\dy7\hr22\min52}{\version5}{\edmins16}{\nofpages7}{\nofwords2472}{\nofchars14094}{\*\company EA Pacific}{\nofcharsws16533}{\vern16465}}{\*\userprops {\propname _AdHocReviewCycleID}\proptype3{\staticval -1779577103}
+{\propname _EmailSubject}\proptype30{\staticval Final readme}{\propname _AuthorEmail}\proptype30{\staticval AAjami@ea.com}{\propname _AuthorEmailDisplayName}\proptype30{\staticval Ajami, Amer}{\propname _ReviewingToolsShownOnce}\proptype30{\staticval }}
+\margl1417\margr1417\margt1417\margb1417 \widowctrl\ftnbj\aenddoc\hyphhotz425\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1417\dgvorigin1417\dghshow1\dgvshow1
+\jexpand\viewkind4\viewscale200\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\rsidroot13438930 \fet0\sectd \linex0\endnhere\sectlinegrid360\sectdefaultcl\sftnbj {\*\pnseclvl1
+\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5
+\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \qc \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin-720\lin0\itap0 
+\fs24\lang1033\langfe1036\cgrid\langnp1033\langfenp1036 {\b\i\lang1031\langfe1036\langnp1031\insrsid5126650 Command & Conquer}{\b\i\lang1031\langfe1036\langnp1031\insrsid6962403 (tm)}{\b\i\lang1031\langfe1036\langnp1031\insrsid5126650  Generals
+\par }\pard \qc \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\adjustright\rin-720\lin0\itap0 {\cf1\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \qc \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin-720\lin0\itap0 {\b\i\fs40\lang1031\langfe1036\langnp1031\insrsid5126650 STATUSBERICHT VOM SCHLACHTFELD
+\par }\pard \qc \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\adjustright\rin-720\lin0\itap0 {\cf1\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }{\fs16\cf1\lang1031\langfe1036\langnp1031\insrsid5126650\charrsid14750625 \'a9 2003 Electronic Arts Inc. }{\fs16\cf1\lang1031\langfe1036\langnp1031\insrsid5126650 Alle Rechte vorbehalten.}{\cf1\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par 
+\par }{\lang1031\langfe1036\langnp1031\insrsid5126650 11. Februar 2003
+\par }{\cf1\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }{\lang1031\langfe1036\langnp1031\insrsid5126650 Die neuesten Nachrichten und Updates sind erh\'e4ltlich unter GENERALS.EA.COM
+\par }{\cf1\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\adjustright\rin-720\lin0\itap0 {\b\cf1\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }{\b\fs20\cf1\lang1031\langfe1036\langnp1031\insrsid5126650 - - Hereinkommende \'dcbertragung - -
+\par }{\fs20\cf1\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 General,
+\par 
+\par der Sieg \'fcber unsere Feinde ist nah, aber um die Bedingungen auf dem Schlachtfeld f\'fcr lange Zeit zu unseren Gunsten zu gestalten, m\'fcssen wir weiterhin wachsam sein. Unsere Streitkr\'e4fte haben eine Liste von wich
+tigen Punkten aufgestellt, die Sie beachten m\'fcssen, wenn wir unser wichtigstes Ziel der globalen Herrschaft erreichen wollen. 
+\par 
+\par }\pard \ql \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin-720\lin0\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Viel Gl\'fcck.
+\par }\pard \ql \li0\ri-720\widctlpar\aspalpha\aspnum\faauto\adjustright\rin-720\lin0\itap0 {\fs20\cf1\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\fs22\lang1031\langfe1036\langnp1031\insrsid5126650 - - Ende der \'dcbertragung - -}{\b\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }{\b\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }{\b\fs20\insrsid5126650\charrsid7083242 1. }{\fs20\ul\insrsid5126650\charrsid7083242 WINDOWS 98/98SE/ME/2000/XP
+\par }{\b\fs20\insrsid5126650\charrsid7083242 
+\par \tab 1.1. Microsoft DirectX}{\fs20\ul\insrsid5126650\charrsid7083242 
+\par }{\b\fs20\insrsid5126650\charrsid7083242 
+\par }{\b\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 2. }{\fs20\ul\lang1031\langfe1036\langnp1031\insrsid5126650 PROBLEML\'d6SUNGEN
+\par 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 2.1. Bevor du beginnst 
+\par 2.2. Minimale Systemvoraussetzungen
+\par 2.3. Bekannte Probleme mit Grafikkarten
+\par 2.4. Bekannte Probleme mit Soundkarten
+\par 2.5. Einstellungen des Virtuellen Speichers
+\par 2.6. AutoPlay
+\par 2.7  Ostasiatische Schriftzeichen
+\par 2.8. Updates und Patches
+\par 2.9. Firewall-Probleme
+\par 2.10. Firewall-/NAT Port-Nummern
+\par 2.11. Deinstallieren
+\par }{\b\fs20\lang1031\langfe1036\langnp1031\insrsid3373338\charrsid3373338 2.12. Windows XP Probleme}{\b\fs20\lang1031\langfe1036\langnp1031\insrsid3373338 
+\par }{\fs20\ul\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }{\b\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 3.}{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650  }{\fs20\ul\lang1031\langfe1036\langnp1031\insrsid5126650 ERWEITERTE ANZEIGE-EIGENSCHAFTEN}{
+\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par 
+\par \tab }{\b\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 3.1.}{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650  }{\b\fs20\lang1031\langfe1036\langnp1031\insrsid5126650\charrsid289527 Erkl\'e4rungen zu den Erweiterte Anzeige-Eigenschaften}{
+\b\fs20\ul\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }{\b\fs20\ul\lang1031\langfe1036\langnp1031\insrsid14750625 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14750625 {\b\fs20\lang1031\langfe1036\langnp1031\insrsid14750625 4.}{\fs20\lang1031\langfe1036\langnp1031\insrsid14750625  }{
+\fs20\ul\lang1031\langfe1036\langnp1031\insrsid14750625 EA Technischer Kundendienst}{\fs20\lang1031\langfe1036\langnp1031\insrsid14750625 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }{\b\lang1031\langfe1036\langnp1031\insrsid8870824 \tab }{\b\fs20\lang1031\langfe1036\langnp1031\insrsid8870824 4.1. }{\b\fs20\lang1031\langfe1036\langnp1031\insrsid8870824\charrsid289527 EA Technischer Support
+\par \tab 4.2. Spiel\'e4nderungen
+\par }{\b\lang1031\langfe1036\langnp1031\insrsid926975 \page }{\b\lang1031\langfe1036\langnp1031\insrsid5126650\charrsid926975 1. WINDOWS 98/98SE/ME/2000/XP}{\lang1031\langfe1036\langnp1031\insrsid5126650\charrsid926975 
+\par 
+\par \tab }{\b\lang1031\langfe1036\langnp1031\insrsid5126650\charrsid926975 1.1. Microsoft DirectX\~:
+\par }{\ul\lang1031\langfe1036\langnp1031\insrsid5126650\charrsid926975 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+Command & Conquer Generals ist eine Microsoft DirectX-Anwendung. Version 8.1 von Microsoft DirectX ist auf der CD enthalten und du hast die M\'f6glichkeit, es zu installieren, wenn Command & Conquer Generals installiert wird.
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par 2. PROBLEML\'d6SUNGEN
+\par 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\lang1031\langfe1036\langnp1031\insrsid5126650 2.1. Bevor du beginnst:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Bevor du Command & Conquer Generals startest, solltest du sicherstellen, dass die neuesten Treiber f\'fc
+r deine Grafik- und Soundkarte auf deinem PC installiert sind. Du kannst die passenden Treiber von der Internetseite der Kartenhersteller herunterladen. 
+\par 
+\par Stelle sicher, dass du Anti-Aliasing in deinen Windows Anzeige-Eigenschaften ausgeschaltet hast, bevor du Command & Conquer Generals startest. Wenn diese Funktion aktiviert bleibt, kann dies ein Problem mit einigen der Spieleffekte hervorrufen. 
+\par 
+\par Lass keine anderen Programme im Hintergrund laufen, da dies ein Problem mit Command & Conquer Generals hervorrufen kann. Dies schlie\'dft auch Anti-Viren-Programme ein, die auf deinem Computer laufen.
+\par 
+\par Wenn du Schwierigkeiten hast, Command & Conquer Generals zu starten, nachdem du \'c4nderungen an den Spieloptionen vorgenommen hast, kannst du diese immer auf die Standardeinstellungen zur\'fccksetzen, indem du die Datei "options.ini" l\'f6
+schst. Solltest du Windows XP benutzen, kannst du diese Datei finden, indem du auf das Icon "Arbeitsplatz" doppelklickst, den Ordner "Eigene Dateien" \'f6ffnest und dann das 
+\par "Command }{\fs20\lang1031\langfe1036\langnp1031\insrsid7083242 and}{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650  Conquer}{\fs20\lang1031\langfe1036\langnp1031\insrsid7083242  Generals}{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+ Data" Verzeichnis. 
+\par 
+\par Falls du Windows 98, 98SE, ME oder 2000 benutzt, doppelklickst du einfach auf den Ordner "Eigene Dateien", der sich auf deinem Windows-Desktop befindet, und \'f6ffnest dann den Ordner "C}{\fs20\lang1031\langfe1036\langnp1031\insrsid7083242 
+ommand and Conquer }{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Generals Data". Die Datei "options.ini" befindet sich dort. 
+\par 
+\par 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\lang1031\langfe1036\langnp1031\insrsid5126650 2.2. Minimale Systemvoraussetzungen:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Die minimalen Systemvoraussetzungen, um Command & Conquer Generals spielen zu k\'f6nnen, sind:
+\par 
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid12740814\charrsid12740814 \bullet \tab }{\fs20\lang1031\langfe1036\langnp1031\insrsid8918151 Windows }{\fs20\lang1031\langfe1036\langnp1031\insrsid12740814\charrsid12740814 XP/ME/2000/98 (Windows 95/NT w}{
+\fs20\lang1031\langfe1036\langnp1031\insrsid12740814 ir}{\fs20\lang1031\langfe1036\langnp1031\insrsid12740814\charrsid12740814 d nicht unterst\'fctzt)
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 \bullet \tab Pentium III oder entsprechender AMD-Prozessor mit 800 MHz
+\par \bullet \tab 128 MB RAM
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid12740814 \bullet \tab }{\fs20\lang1031\langfe1036\langnp1031\insrsid8864557 8}{\fs20\lang1031\langfe1036\langnp1031\insrsid12740814 -fach CD/DVD-R}{\fs20\lang1031\langfe1036\langnp1031\insrsid663665 OM L}{
+\fs20\lang1031\langfe1036\langnp1031\insrsid12740814 aufwerk
+\par }\pard \ql \fi-720\li1440\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0\pararsid12740814 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 \bullet \tab }{\fs20\lang1031\langfe1036\langnp1031\insrsid12740814 Nvidia }{
+\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 GeForce 2-Grafikkarte }{\fs20\lang1031\langfe1036\langnp1031\insrsid12740814 / ATI Radeon 7500 AGP }{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 mit 32 MB RAM}{
+\fs20\lang1031\langfe1036\langnp1031\insrsid16074743 ,}{\fs20\lang1031\langfe1036\langnp1031\insrsid12740814  sowie kompatiblen Treiber f\'fcr DirectX 8.1 }{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par \bullet \tab 1,}{\fs20\lang1031\langfe1036\langnp1031\insrsid12740814 8}{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650  GB freier Festplattenspeicher}{\fs20\lang1031\langfe1036\langnp1031\insrsid12740814 , sowie zus\'e4tzlicher Speicher f\'fc
+r Spielst\'e4nde und DirectX 8.1}{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 \bullet \tab 56K-Modem f\'fcr Multiplayer}{\fs20\lang1031\langfe1036\langnp1031\insrsid11762362 -Spiele}{
+\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid16074743 \bullet \tab DirectX 8.1 kompatible PCI 16-Bit Soundkarte}{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid16074743 \bullet \tab Tastatur und Mouse
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid16074743\charrsid7235841 
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid16074743\charrsid16074743 Die folgenden Systemvoraussetzungen w}{\fs20\lang1031\langfe1036\langnp1031\insrsid11762362 e}{\fs20\lang1031\langfe1036\langnp1031\insrsid16074743\charrsid16074743 rden f\'fc
+r Multiplayer-Spiele ben\'f6tigt:
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid16074743 
+\par \bullet \tab 256 MB RAM f\'fcr 3-8 Spieler
+\par }\pard \ql \fi-720\li1440\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0\pararsid16074743 {\fs20\lang1031\langfe1036\langnp1031\insrsid16074743 \bullet \tab Jeweils ein komplettes Spiel pro Spieler. CD 1 und CD 2 k\'f6
+nnen bei einem Multiplayer-Spiel nicht gleichzeitig auf mehreren Rechnern ben}{\fs20\lang1031\langfe1036\langnp1031\insrsid11762362 u}{\fs20\lang1031\langfe1036\langnp1031\insrsid16074743 tzt werden.
+\par \bullet \tab }{\b\fs20\lang1031\langfe1036\langnp1031\insrsid16074743\charrsid16074743 Internet }{\b\fs20\lang1031\langfe1036\langnp1031\insrsid16074743 (}{\b\fs20\lang1031\langfe1036\langnp1031\insrsid16074743\charrsid16074743 2-4 Spieler}{
+\b\fs20\lang1031\langfe1036\langnp1031\insrsid16074743 ):\tab }{\fs20\lang1031\langfe1036\langnp1031\insrsid16074743 56k Modem oder schnellere Internetverbindung
+\par \bullet \tab }{\b\fs20\lang1031\langfe1036\langnp1031\insrsid16074743 Internet (5-8 Spieler):\tab }{\fs20\lang1031\langfe1036\langnp1031\insrsid16074743 DSL oder schnellere Internetverbindung
+\par \bullet \tab }{\b\fs20\lang1031\langfe1036\langnp1031\insrsid16074743\charrsid16074743 Netzwerk}{\b\fs20\lang1031\langfe1036\langnp1031\insrsid16074743  (2-8 Spieler):\tab }{\fs20\lang1031\langfe1036\langnp1031\insrsid16074743 TCP/IP kompatibles Netzwerk
+
+\par 
+\par Empfohlene Systemvoraussetzungen:
+\par 
+\par \bullet \tab Pentium oder entsprechender AMD-Prozessor mit mindestens 1.8 GHz}{\b\fs20\lang1031\langfe1036\langnp1031\insrsid16074743  
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid16074743 \bullet \tab 128 MB RAM (oder mehr)
+\par \bullet \tab 4-fach CD/DVD-R}{\fs20\lang1031\langfe1036\langnp1031\insrsid663665 OM}{\fs20\lang1031\langfe1036\langnp1031\insrsid16074743  Laufwerk (oder schneller)
+\par \bullet \tab 1,8 GB freier Festplattenspeicher, sowie zus\'e4tzlicher Speicher f\'fcr gespeicherte Spielst\'e4nde 
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid7214642 \bullet \tab Nvidia GeForce 3-Grafikkarte oder \'e4hnliche Direct3D-f\'e4hige Grafikkarte
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid16074743 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Hinweis:}{\fs20\lang1031\langfe1036\langnp1031\insrsid3162413  Bei Computern mit einem VIA KT133a Chipsatz k\'f6nnen 
+Probleme beim Spielen von Command & Conquer Generals auftreten.}{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\lang1031\langfe1036\langnp1031\insrsid5126650 2.3. Bekannte Probleme mit Grafikkarten:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 F\'fc
+r eine optimale grafische Leistung empfehlen wir dringend die Nutzung einer AGP-Grafikkarte beim Spielen von Command & Conquer Generals. PCI-Grafikkarten sind f\'fcr gew\'f6
+hnlich viel langsamer als AGP-Karten, daher kommt es bei der Nutzung einer PCI-Karte zu einer au\'dfergew\'f6hnlich schlechten Darstellung des Spiels. Dar\'fcber hinaus erf\'fcllen die folgenden Grafikkarten die minimal unterst\'fc
+tzten Anforderungen nicht. 
+\par }\pard \ql \li360\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1040\langfe1036\langnp1040\insrsid5126650 \bullet \tab Leadtek Winfast GeForce 2 GTS (AGP, 32MB)
+\par }{\fs20\lang2057\langfe1036\langnp2057\insrsid5126650 \bullet \tab SiS Xabre (AGP, 64MB)
+\par \bullet \tab Gainward Xabre 400 (AGP, 64MB)
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\lang2057\langfe1036\langnp2057\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Zus\'e4
+tzlich kann es bei Besitzern von Karten mit Nvidia GeForce 2 MX vorkommen, dass die Movies ruckelnd dargestellt werden. 
+\par Solltest du versuchen, Command & Conquer Generals bei einer Aufl\'f6sung von 1600x1200 und einer Nvidia GeForce 2-Grafikkarte mit 32 MB zu starten, wird das Spiel abst\'fcrzen und zum Desktop zur\'fcckkehren. Wenn dies passiert, solltest du die Aufl\'f6
+sung des Spiels heruntersetzen.
+\par 
+\par Bei allen Aufl\'f6sungen kann es passieren, dass einige Objekte, wie z.B. B\'e4ume, Mauern und Pfeiler ein wenig flimmern. Falls dieser Effekt auftritt, reicht es, wenn du speicherst und dann das Spiel neu l\'e4dst, um das Problem zu beheben.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\lang1031\langfe1036\langnp1031\insrsid5126650 2.4. Bekannte Probleme mit Soundkarten:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Bevor du Command & Conquer Generals startest, solltest du sicherstellen, dass du die neues
+ten Treiber deiner Soundkarte auf deinem PC installiert hast. Du kannst die passenden Audiotreiber von der Internetseite des Kartenherstellers herunterladen. 
+\par 
+\par {\listtext\pard\plain\f3\fs20\lang1031\langfe1036\langnp1031\langfenp1036\insrsid5126650 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li1080\ri0\widctlpar\jclisttab\tx1080\aspalpha\aspnum\faauto\ls4\adjustright\rin0\lin1080\itap0 {
+\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Command & Conquer Generals unterst\'fctzt keine ISA-Soundkarten. Solltest du eine ISA- Soundkarte besitzen, kann es zum Ausfall der Soundeffekte kommen sowie zu h\'e4ufigen Pausen w\'e4hrend des Spiels. 
+
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }{\b\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\lang1031\langfe1036\langnp1031\insrsid5126650 2.5. Einstellungen Virtueller Speicher:
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Command & Conquer Generals wird vielleicht mehr RAM ben\'f6tigen, als in deinem System verf\'fc
+gbar ist. Windows wird in einem solchen Fall daf\'fcr sogen, dass gen\'fcgend Speicher zur Verf\'fcgung steht, indem es den \'93Virtuellen Speicher\'94 einsetzt. Dabei wird Speicherplatz auf deiner Festplatte benutzt, um den ben\'f6
+tigten Arbeitsspeicher zu simulieren und bei Bedarf Daten auf die Festplatte zu transferieren. }{\fs20\lang1031\langfe1036\langnp1031\insrsid7109823 
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Trotzdem solltest du sicherstellen, dass mindestens 512MB verf\'fcgbar sind.
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par 
+\par 2.6. AutoPlay:
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Sollte die Command & Conquer Generals-CD nicht automatisch 
+starten, wenn sie in das Laufwerk eingelegt wird, dann ist diese Funktion wahrscheinlich ausgeschaltet. }{\fs20\lang1031\langfe1036\langnp1031\insrsid16076828 Lies bitte in deinem Windows-Benutzerhandbuch nach, wie du }{
+\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 AutoPlay aktivier}{\fs20\lang1031\langfe1036\langnp1031\insrsid16076828 en kannst.}{\fs20\lang1031\langfe1036\langnp1031\insrsid7109823 
+\par  }{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par Wenn dein Rechner unter Windows XP l\'e4uft, sollte AutoPlay von vornherein aktiviert sein. Du kannst deine AutoPlay-Einstellungen \'fcberpr\'fcfen, indem du deinen \'93Arbeitsplatz\'94 \'f6
+ffnest, auf das Icon deines CD-ROM- oder DVD-Laufwerks rechtsklickst, dann "Eigenschaften" ausw\'e4hlst und die Karteikarte "AutoPlay" 
+\par anklickst.
+\par 
+\par Falls AutoPlay nicht vern\'fcnftig funktionieren sollte, }{\fs20\lang1031\langfe1036\langnp1031\insrsid16076828 lies bitte }{\fs20\lang1031\langfe1036\langnp1031\insrsid7109823 in deinem Windows}{\fs20\lang1031\langfe1036\langnp1031\insrsid16076828 
+ XP-Benutzerhandbuch nach.}{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par 
+\par 
+\par 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\lang1031\langfe1036\langnp1031\insrsid5126650 2.7. Ostasiatische Schriftzeichen:
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Alle Spieler, die eine }{\fs20\lang1031\langfe1036\langnp1031\insrsid9395112 westliche}{
+\fs20\lang1031\langfe1036\langnp1031\insrsid5126650  Windows-Version verwenden, sehen in der Command & Conquer Generals-Online-Lobby K\'e4
+stchen anstelle des asiatischen Textes. Wenn auf deinem Computer Windows XP installiert ist,  kannst du die asiatischen Schriftzeichen installieren, indem du die Systemsteuerung in Windows \'f6ffnest, auf das Icon \'93Regions- und Sprachoptionen\'93
+ doppelklickst, die Registerkarte \'84Sprachen\'93 ausw\'e4hlst und das K\'e4stchen \'84Dateien f\'fcr ostasiatische Sprachen installieren\'93 mit einem H\'e4kchen versiehst. Du wirst nach deiner Windows XP-CD gefragt und musst einen Neustart durchf\'fc
+hren. Nach diesem Vorgang solltest du sicherstellen, dass die Option \'84Asiatischer Text\'93 im Bildschirm \'84}{\fs20\lang1031\langfe1036\langnp1031\insrsid7109823 \'dcber mich}{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 \'93
+ im Command & Conquer Generals "Online-"Men\'fc ausgew\'e4hlt wurde.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\lang1031\langfe1036\langnp1031\insrsid5126650 2.8. Updates und Patches:
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\i\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Command & Conquer Generals }{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+hat eine automatische Update-Funktion, die dich automatisch wissen l\'e4sst, wenn neue Patches und Updates f\'fcr dich zur Verf\'fcgung stehen. Wenn ein Update f\'fcr das Spiel zur Verf\'fc
+gung steht, wirst du dazu aufgefordert, es herunterzuladen und zu inst
+allieren, sobald du im Hauptmenu des Spiels auf "Multiplayer" klickst. Solltest du Generals nicht online spielen, aber dennoch die neuesten Updates herunterladen wollen, kannst du dies entweder auf der offiziellen Generals-Website generals.ea.com tun oder
+ die Option "Nach Updates suchen" der AutoPlay-Funktion von Command & Conquer Generals ausw\'e4hlen. 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\lang1031\langfe1036\langnp1031\insrsid5126650 2.9. Firewall-Probleme:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+Wenn du eine Firewall benutzt (insbesondere von NETGEAR) und nicht in der Lage bist, dich zu anderen Spielern in der Command & Conquer Generals-Multiplayer-Lobby zu verbinden, aktiviere das \'84Delay Senden\'93 K\'e4
+stchen in den Netzwerkoptionen des Optionen-Men\'fcs. Wenn du weiterhin Verbindungsprobleme haben solltest, versuche die Firewall in den DMZ-Modus zu schalten. (WARNUNG: 
+\par Diese Aktion \'f6ffnet deine Firewall-Ports f\'fcr jeden und sollte nur als letzte M\'f6glichkeit in Betracht gezogen werden). Wenn du nicht wei\'dft, wie man die Firewall-Einstellungen \'e4
+ndert, schlage im Handbuch zu deiner Firewall nach oder frage deinen Internet Service Provider.
+\par 
+\par Wenn du \'c4nderungen an den Firewall-Einstellungen vorgenommen hast, nachdem du Command & Conquer Generals das letzte Mal online gespielt hast, und nun Verbindungsprobleme haben solltest, aktiviere das \'84NAT aktualis.\'93-K\'e4
+stchen in den Netzwerkoptionen des Optionen-Men\'fcs. Es wird empfohlen, diese Option jedes Mal zu aktivieren, wenn du \'c4nderungen an den Internet- oder Firewall-Einstellungen 
+\par vorgenommen hast. 
+\par 
+\par 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\lang1031\langfe1036\langnp1031\insrsid5126650 2.10. Firewall-/NAT Port-Nummern:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Das Spiel kommuniziert mit externen Servern, die folgende Port-Nummern benutzen. Diese Ports m\'fc
+ssen in deiner Firewall ge\'f6ffnet sein, um Generals Online spielen zu k\'f6nnen.
+\par 
+\par TCP Ports:
+\par 80, 6667, 28910, 29900, 29920
+\par  
+\par UDP Ports:
+\par 4321, 27900
+\par 
+\par Wenn deine Firewall ausgehende Pakete an offene Ports f\'fc
+r eingehenden Nachrichtenverkehr nicht erlaubt oder Verbindungsprobleme zu anderen Spielern auftreten, musst du Command & Conquer Generals mitteilen, welche Ports benutzt werden sollen, um mit anderen Spielern zu kommunizieren. Um dies zu tun, f\'fchre f
+olgende Schritte aus.
+\par 
+\par \'d6ffne das Verzeichnis \'93Eigene Dateien\'94 und gehe in das \'93Command and Conquer Generals}{\fs20\lang1031\langfe1036\langnp1031\insrsid7083242  Data}{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 \'94
+- Verzeichnis. Rechtsklicke auf die Datei options.ini und w\'e4hle \'84Bearbeiten\'93 aus.
+\par  
+\par Suche nach dem Eintrag \'93FirewallPortOverride\'94. Falls du diesen Eintrag nicht finden solltest, f\'fcge ihn als neue Zeile hinzu. Weise dann diesem Eintrag einen Port zu. Nachdem du diese \'c4
+nderung vorgenommen hast, sollte der Eintrag wie folgt aussehen:
+\par 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 FirewallPortOverride = XXXX
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650  
+\par XXXX steht f\'fcr den Port, den du ausgew\'e4hlt hast. Du wirst den ausgew\'e4hlten Port in deiner Firewall \'f6ffnen m\'fcssen, um mit Spielern au\'dferhalb deiner Firewall oder NAT-Elemente kommunizieren zu k\'f6
+nnen. Wenn du die Port Override Funktion benutzt, kann der Port, den du ausgew\'e4hlt hast, nicht durch  NAT-Elemente 
+\par verschleiert werden.
+\par 
+\par 
+\par }{\b\lang1031\langfe1036\langnp1031\insrsid5126650 2.11. Deinstallieren:}{\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\lang1031\langfe1036\langnp1031\insrsid5126650 \tab }{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+Wenn du bei der Neuinstallation von Command & Conquer Generals Probleme haben solltest, nachdem das Spiel zuvor deinstalliert wurde, lege die erste Spiel CD in dein CD-ROM Laufwerk ein, w\'e4hle \'84Installieren\'93 im Autostart-Men\'fc
+ aus, und klicke dann auf  die Option \'84Reparieren\'93. Wenn dieser Vorgang beendet wurde, kannst du das Spiel erneut installieren.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid7235841 {\b\lang1031\langfe1036\langnp1031\insrsid7235841 2.1}{\b\lang1031\langfe1036\langnp1031\insrsid4539810 2}{
+\b\lang1031\langfe1036\langnp1031\insrsid7235841 . Windows XP Probleme:
+\par 
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid7235841\charrsid7083242 Um Command & Conquer Generals auf }{\fs20\lang1031\langfe1036\langnp1031\insrsid7083242 dein}{\fs20\lang1031\langfe1036\langnp1031\insrsid7235841\charrsid7083242 em Rechner}{
+\fs20\lang1031\langfe1036\langnp1031\insrsid7083242  installieren zu k\'f6nnen, musst du}{\fs20\lang1031\langfe1036\langnp1031\insrsid7235841\charrsid7083242  als Administrator angemeldet sein. Wenn }{\fs20\lang1031\langfe1036\langnp1031\insrsid7083242 
+du }{\fs20\lang1031\langfe1036\langnp1031\insrsid7235841\charrsid7083242 nur ein Benutzer-Konto eingerichtet ha}{\fs20\lang1031\langfe1036\langnp1031\insrsid7083242 st}{\fs20\lang1031\langfe1036\langnp1031\insrsid7235841\charrsid7083242 , m}{
+\fs20\lang1031\langfe1036\langnp1031\insrsid7083242 usst du d}{\fs20\lang1031\langfe1036\langnp1031\insrsid7235841\charrsid7083242 ie Admininstrator-Rechte aktivieren um das Spiel installieren zu k\'f6nnen.
+\par Bei Problemen schaue bitte in }{\fs20\lang1031\langfe1036\langnp1031\insrsid7083242 deinem W}{\fs20\lang1031\langfe1036\langnp1031\insrsid7235841\charrsid7083242 indows XP Benutzerhandbuch nach.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid7235841 
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }{\b\lang1031\langfe1036\langnp1031\insrsid5126650 3. ERWEITERTE ANZEIGE-EIGENSCHAFTEN
+\par 
+\par \tab 3.1. Erkl\'e4rungen zu den Erweiterten Anzeige-Eigenschaften}{\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Wenn das Spiel bei dir zu langsam l\'e4
+uft, kannst du eine oder mehrere der Erweiterten Anzeige- Eigenschaften im Optionen-Men\'fc von Command & Conquer Generals \'e4ndern. Um die Erweiterten Anzeige-Eigenschaften aufzurufen, w\'e4hle }{\fs20\lang1031\langfe1036\langnp1031\insrsid7109823 
+Individuell}{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650  im Detailtiefe Pulldown-Men\'fc aus. Durch das Abschalten der folgenden Funktionen kann die Spielgeschwindigkeit verbessert werden.
+\par }\pard \ql \fi-720\li1440\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 \bullet \tab 3D-Schatten: Diese Funktion schaltet die dynamischen 3D-Schatten von Einheiten und Geb\'e4
+ude ein oder aus.
+\par \bullet \tab 2D-Schatten: Diese Funktion schaltet 2D-Schatten ein oder aus.
+\par \bullet \tab Wolken-Schatten: Diese Funktion schaltet die sich bewegenden Wolkenschatten auf dem Boden ein oder aus.
+\par \bullet \tab Extra Boden-Lichteffekte: Diese Funktion schaltet die detaillierten Lichteffekte am Boden ein oder aus.
+\par \bullet \tab Sanfte Wasser\'fcberg\'e4nge: Diese Funktion schaltet die sanften Wasser\'fcberg\'e4nge entlang der K\'fcsten ein oder aus.
+\par \bullet \tab Umrisse hinter Geb\'e4uden: Diese Funktion schaltet die Umrisse der Einheiten hinter Geb\'e4uden ein oder aus.
+\par \bullet \tab }{\fs20\lang1031\langfe1036\langnp1031\insrsid4226543 Zus\'e4tzliche Objekte}{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 : Diese Funktion schaltet die Anzeige der B\'e4ume und Str\'e4ucher, die \'fc
+ber die Level verteilt sind, ein oder aus.
+\par \bullet \tab Extra-Animationen: Dies Funktion schaltet die zus\'e4tzlichen Animation, wie sich im Wind wiegende B\'e4ume, ein oder aus.
+\par \bullet \tab Dynamisches LOD: Diese Funktion schaltet die dynamische Detaillevel-Einstellung ein oder aus. F\'fcr die bestm\'f6gliche Leistung solltest du diese Option deaktiviert lassen.
+\par \bullet \tab Schieberegler Texturaufl\'f6sung: Ziehe den Regler nach links, um die Sch\'e4rfe der Texturen herabzusetzen. Dadurch wird die Spielgeschwindigkeit verbessert.
+\par \bullet \tab Schieberegler Partikeldichte: Ziehe den Regler nach links, um die Dichte der Partikeleffekte, wie Explosionen und Staubwolken, zu verringern. Dadurch wird die Spielgeschwindigkeit verbessert.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\lang1031\langfe1036\langnp1031\insrsid5126650 4.}{\b\lang1031\langfe1036\langnp1031\insrsid16076828  Zus\'e4tzliche Informationen
+\par 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid16076828 {\b\lang1031\langfe1036\langnp1031\insrsid16076828\charrsid16076828 4.1. }{\b\lang1031\langfe1036\langnp1031\insrsid5126650\charrsid16076828 
+ EA Technischer Kundendienst:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+Wenn du Fragen zum Programm hast oder Probleme mit Command & Conquer Generals auftreten, lies dir bitte das Handbuch durch. Command & Conquer Generals beinhaltet au\'dferdem eine EA-Hilfedatei, die L\'f6sungen und Antworten zu h\'e4
+ufigen Schwierigkeiten und Fragen anbietet. Zus\'e4tzlich kannst du einen detaillierten Problembericht direkt zum Technischen Kundendienst per E-Mail oder Fax schicken. 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }{\b\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 So gelangst du zur EA-Hilfedatei:
+\par {\listtext\pard\plain\fs20\lang1031\langfe1036\langnp1031\langfenp1036\insrsid5126650 \hich\af0\dbch\af0\loch\f0 1.\tab}}\pard \ql \fi-360\li1440\ri0\widctlpar\jclisttab\tx1440\aspalpha\aspnum\faauto\ls8\adjustright\rin0\lin1440\itap0 {
+\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Starte das Windows-Betriebssystem.
+\par {\listtext\pard\plain\fs20\lang1031\langfe1036\langnp1031\langfenp1036\insrsid5126650 \hich\af0\dbch\af0\loch\f0 2.\tab}Lege die Command & Conquer Generals-CD in dein CD-ROM-/DVD-ROM-Laufwerk ein. Das AutoStart-Men\'fc erscheint.
+\par {\listtext\pard\plain\fs20\lang1031\langfe1036\langnp1031\langfenp1036\insrsid5126650 \hich\af0\dbch\af0\loch\f0 3.\tab}Wenn das AutoStart-Men\'fc nicht automatisch erscheint, linksklicke auf den Button "Start" in der Windows-Steuerungsleiste und w\'e4
+hle Starten ... Gib D:\\}{\fs20\lang1031\langfe1036\langnp1031\insrsid9137058 Autorun.exe}{\fs20\lang1031\langfe1036\langnp1031\insrsid5126650  ein, klicke dann auf OK (gib den korrekten Buchstaben deines CD-ROM-/DVD-ROM-Laufwerks ein, falls es nicht 
+\lquote D:\rquote  ist).
+\par {\listtext\pard\plain\fs20\lang1031\langfe1036\langnp1031\langfenp1036\insrsid5126650 \hich\af0\dbch\af0\loch\f0 4.\tab}Klicke dann im AutoStart-Men\'fc auf den Button }{\fs20\lang1031\langfe1036\langnp1031\insrsid14750625 \'84Hilfe\'93}{
+\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 . Die EA-Hilfedatei wird ge\'f6ffnet.
+\par }\pard \ql \li1080\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1080\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Solltest du danach immer noch Probleme haben, kannst du die EA-Hilfedatei auch
+ nutzen, um den  Technischen Kundendienst zu kontaktieren. Die EA-Hilfedatei enth\'e4
+lt ein Programm, das die Hardware-Eigenschaften deines Systems erkennt und diese in einem detaillierten Bericht zusammenstellt. Dieser Bericht hilft dem Technischen Kundendienst, dein Problem so schnell wie m\'f6glich zu l\'f6
+sen. Bitte beachte, dass du dein Command & Conquer Generals-Spiel registrieren musst, bevor du diesen Service nutzen kannst.
+\par 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Das Programm starten:
+\par {\listtext\pard\plain\fs20\lang1031\langfe1036\langnp1031\langfenp1036\insrsid5126650 \hich\af0\dbch\af0\loch\f0 1.\tab}}\pard \ql \fi-360\li1440\ri0\widctlpar\jclisttab\tx1440\aspalpha\aspnum\faauto\ls9\adjustright\rin0\lin1440\itap0 {
+\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Starte die EA-Hilfedatei.
+\par {\listtext\pard\plain\fs20\lang1031\langfe1036\langnp1031\langfenp1036\insrsid5126650 \hich\af0\dbch\af0\loch\f0 2.\tab}Gehe zu Seite 2 des Willkommen-Bildschirms, indem du auf den kleinen Pfeil in der unteren Ecke klickst.
+\par {\listtext\pard\plain\fs20\lang1031\langfe1036\langnp1031\langfenp1036\insrsid5126650 \hich\af0\dbch\af0\loch\f0 3.\tab}Klicke auf den Button Technischen Kundendienst kontaktieren. Das Programm wird ge\'f6ffnet.
+\par {\listtext\pard\plain\fs20\lang1031\langfe1036\langnp1031\langfenp1036\insrsid5126650 \hich\af0\dbch\af0\loch\f0 4.\tab}Klicke auf OK, um den Vorgang zu starten.
+\par }\pard \ql \li1080\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1080\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\fs20\lang1031\langfe1036\langnp1031\insrsid5126650 Ist der Vorgang beendet, kannst du dir die g
+esammelten Informationen ansehen, indem du dir die verschiedenen Kategorien anschaust. Um diese Informationen an den Technischen Kundendienst zu senden, f\'fcllst du die leeren Felder im Abschnitt Benutzer aus, einschlie\'df
+lich einer genauen Beschreibung des Problems, und klickst auf Senden (wenn eine offene Internetverbindung besteht) oder auf Informationen speichern (wenn du die Datei manuell faxen oder per E-Mail versenden m\'f6
+chtest). Eine Kopie des Berichts wird automatisch auf deinem Windows-Desktop gespeichert.
+\par }{\fs20\lang1031\langfe1036\langnp1031\insrsid8870824 
+\par }{\lang1031\langfe1036\langnp1031\insrsid8870824 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8870824 {\b\lang1031\langfe1036\langnp1031\insrsid8870824 4.2 Spiel\'e4nderungen:
+\par 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid8870824 {\fs20\lang1031\langfe1036\langnp1031\insrsid8870824\charrsid8870824 Im Handbuch wurde }{\fs20\lang1031\langfe1036\langnp1031\insrsid1665376 f\'e4
+lschlicherweise}{\fs20\lang1031\langfe1036\langnp1031\insrsid8870824\charrsid8870824  beschrieben, das der Spieler bei Online-Spielen einen Punkt f\'fcr jedes verlorene Match erh\'e4lt. Diese Einstellung wurde ge\'e4
+ndert, so dass der Spieler nur Punkte bei einem Sieg erh\'e4lt. F\'fcr jedes gewonnene Spiel bekommt der Spieler 3 Punkte.
+\par }{\b\lang1031\langfe1036\langnp1031\insrsid8870824 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8870824 {\b\lang1031\langfe1036\langnp1031\insrsid8870824 
+\par \tab }{\lang1031\langfe1036\langnp1031\insrsid8870824 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0\pararsid8870824 {\lang1031\langfe1036\langnp1031\insrsid8870824 
+\par }}
