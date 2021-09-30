@@ -5,4 +5,5 @@ call %ThisDir1%\SETUP_Folders.bat
 del /f /q /s %GeneratedReleaseUnpackedDir%\*.bik
 
 :: Copy files
-xcopy /y /s %GameFilesDir0%\Data\%SourceLanguage%\Movies\*.bik %GeneratedReleaseUnpackedDir%\Data\%TargetLanguage%\Movies\
+xcopy /y %GameFilesDir0%\Data\%SourceLanguage%\Movies\*.bik %GeneratedReleaseUnpackedDir%\Data\%TargetLanguage%\Movies\
+xcopy /y %GameFilesDir0%\Data\Movies\*.bik                  %GeneratedReleaseUnpackedDir%\Data\Movies\

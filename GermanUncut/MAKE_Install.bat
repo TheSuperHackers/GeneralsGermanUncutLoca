@@ -28,6 +28,7 @@ echo on
 set ThisDir0="%~dp0."
 call %ThisDir0%\Scripts\MAKE_ArtGermanUncut.bat
 call %ThisDir0%\Scripts\MAKE_AudioGermanUncut.bat
+call %ThisDir0%\Scripts\MAKE_MapsGermanUncut.bat
 call %ThisDir0%\Scripts\MAKE_Movies.bat
 call %ThisDir0%\Scripts\MAKE_GermanUncut.bat
 call %ThisDir0%\Scripts\MAKE_SpeechGermanUncut.bat
@@ -37,4 +38,4 @@ call %ThisDir0%\Scripts\MAKE_SpeechGermanUncut.bat
 call %ThisDir0%\SETUP_UserSettings.bat
 
 ::Copy release files to game
-xcopy /Y /S %GeneratedReleaseUnpackedDir% %GameRootDir%
+xcopy /y /s %GeneratedReleaseUnpackedDir% %GameRootDir%
