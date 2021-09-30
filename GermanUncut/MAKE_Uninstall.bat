@@ -32,14 +32,11 @@ set ThisDir0="%~dp0."
 :: Apply user settings
 call %ThisDir0%\SETUP_UserSettings.bat
 
-:: Install
-call %ThisDir0%\MAKE_Install.bat
-
-:: Run game
-set GameExeArgs0=%GameExeArgs:"=%
-%GameRootDir%\%GameExeFile% %GameExeArgs0%
-
-:: Uninstall
-call %ThisDir0%\MAKE_Uninstall.bat
+:: Restore files as per setup in SETUP_UserSettings.bat
+for %%f in (%GameFilesToDisable%) do (
+  if exist %GameRootDir%\%%f.GERMANUNCUT (
+    ren %GameRootDir%\%%f.GERMANUNCUT %%f
+  )
+)
 
 endlocal
