@@ -1,4 +1,4 @@
-# Patch104pZH
+# GermanUncutZH
 
 #### How to make game changes
 * Add and edit game files in **GameFilesEdited** folder.
