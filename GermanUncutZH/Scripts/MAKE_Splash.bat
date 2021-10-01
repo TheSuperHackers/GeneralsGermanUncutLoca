@@ -5,4 +5,4 @@ call %ThisDir1%\SETUP_Folders.bat
 del /f /q %GeneratedReleaseUnpackedDir%\*.bmp
 
 :: Copy files
-xcopy /y %GameFilesDir0%\*.bmp %GeneratedReleaseUnpackedDir%\
+xcopy /y %GameFilesOriginalGermanDir%\*.bmp %GeneratedReleaseUnpackedDir%\
