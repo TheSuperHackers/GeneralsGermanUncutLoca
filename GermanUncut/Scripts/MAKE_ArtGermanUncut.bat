@@ -9,14 +9,14 @@ del /f /q /s %GeneratedBigFilesUnpackedDir%\%BigName%
 del /f /q    %GeneratedBigFilesDir%\%BigName%.big
 
 :: Copy .big contents
-xcopy /y %GameFilesDir0%\Art\Textures\*.*                             %GeneratedBigFilesUnpackedDir%\%BigName%\Art\Textures\
-xcopy /y %GameFilesDir0%\Art\W3D\*.*                                  %GeneratedBigFilesUnpackedDir%\%BigName%\Art\W3D\
+xcopy /y %GameFilesOriginalGermanDir%\Art\Textures\*.*                              %GeneratedBigFilesUnpackedDir%\%BigName%\Art\Textures\
+xcopy /y %GameFilesOriginalGermanDir%\Art\W3D\*.*                                   %GeneratedBigFilesUnpackedDir%\%BigName%\Art\W3D\
 :: Use simplified German2 badges to preserve original style
-xcopy /y %GameFilesDir1%\Art\Textures\scshelluserinterface512_006.tga %GeneratedBigFilesUnpackedDir%\%BigName%\Art\Textures\
-xcopy /y %GameFilesDir1%\Art\Textures\scshelluserinterface512_007.tga %GeneratedBigFilesUnpackedDir%\%BigName%\Art\Textures\
-xcopy /y %GameFilesDir1%\Art\Textures\scshelluserinterface512_008.tga %GeneratedBigFilesUnpackedDir%\%BigName%\Art\Textures\
-xcopy /y %GameFilesDir1%\Art\Textures\scshelluserinterface512_009.tga %GeneratedBigFilesUnpackedDir%\%BigName%\Art\Textures\
-xcopy /y %GameFilesDir1%\Art\Textures\scshelluserinterface512_010.tga %GeneratedBigFilesUnpackedDir%\%BigName%\Art\Textures\
+xcopy /y %GameFilesOriginalGerman2Dir%\Art\Textures\scshelluserinterface512_006.tga %GeneratedBigFilesUnpackedDir%\%BigName%\Art\Textures\
+xcopy /y %GameFilesOriginalGerman2Dir%\Art\Textures\scshelluserinterface512_007.tga %GeneratedBigFilesUnpackedDir%\%BigName%\Art\Textures\
+xcopy /y %GameFilesOriginalGerman2Dir%\Art\Textures\scshelluserinterface512_008.tga %GeneratedBigFilesUnpackedDir%\%BigName%\Art\Textures\
+xcopy /y %GameFilesOriginalGerman2Dir%\Art\Textures\scshelluserinterface512_009.tga %GeneratedBigFilesUnpackedDir%\%BigName%\Art\Textures\
+xcopy /y %GameFilesOriginalGerman2Dir%\Art\Textures\scshelluserinterface512_010.tga %GeneratedBigFilesUnpackedDir%\%BigName%\Art\Textures\
 
 :: Compress TGA and PSD to DDS and delete intermediate source copies
 call %ThisDir1%\CrunchTextures.bat %GeneratedBigFilesUnpackedDir%\%BigName%
