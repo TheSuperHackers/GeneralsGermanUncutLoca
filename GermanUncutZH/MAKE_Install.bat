@@ -25,16 +25,27 @@ if '%errorlevel%' NEQ '0' (
 :--------------------------------------
 echo on
 
+setlocal
+
 set ThisDir0="%~dp0."
+
+:: Apply user settings
+call %ThisDir0%\SETUP_UserSettings.bat
 call %ThisDir0%\Scripts\MAKE_AudioGermanUncutZH.bat
 call %ThisDir0%\Scripts\MAKE_Movies.bat
 call %ThisDir0%\Scripts\MAKE_GermanUncutZH.bat
 call %ThisDir0%\Scripts\MAKE_SpeechGermanUncutZH.bat
-::call %ThisDir0%\Scripts\MAKE_Splash.bat
+call %ThisDir0%\Scripts\MAKE_Splash.bat
 call %ThisDir0%\Scripts\MAKE_W3DGermanUncutZH.bat
 
-:: Apply user settings
-call %ThisDir0%\SETUP_UserSettings.bat
+:: Rename files as per setup in SETUP_UserSettings.bat
+for %%f in (%GameFilesToDisable%) do (
+  if exist %GameRootDir%\%%f (
+    ren %GameRootDir%\%%f %%f.GERMANUNCUT
+  )
+)
 
-::Copy release files to game
-xcopy /Y /S %GeneratedReleaseUnpackedDir% %GameRootDir%
+:: Copy release files to game
+xcopy /y /s %GeneratedReleaseUnpackedDir% %GameRootDir%
+
+endlocal
