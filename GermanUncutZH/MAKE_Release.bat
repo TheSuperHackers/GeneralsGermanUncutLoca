@@ -10,7 +10,7 @@ call %ThisDir0%\Scripts\MAKE_W3DGermanUncutZH.bat
 xcopy /y /s %ReleaseUnpackedDir%\* %GeneratedReleaseUnpackedDir%\*
 
 :: Define archive name(s)
-set ArchiveName=%TargetLanguage%ZH_v1.0
+set ArchiveName=GeneralsZH-104-%TargetLanguage%-v1.0
 
 :: Generate Archive(s)
 tar.exe -a -c -C %GeneratedReleaseUnpackedDir% -f %ReleaseDir%\%ArchiveName%.zip *.*
