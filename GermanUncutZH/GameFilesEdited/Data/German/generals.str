@@ -1,4 +1,4 @@
-GUI:GameOptions
+﻿GUI:GameOptions
 "Spieloptionen"
 END
 
@@ -183,7 +183,7 @@ GUI:Stop
 END
 
 GUI:Continue
-"WEITER"
+"Weiter"
 END
 
 GUI:MaxPing
@@ -763,11 +763,11 @@ GUI:DirectConnect
 END
 
 GUI:WorldBuilder
-"World-Editor"
+"World-Builder"
 END
 
 GUI:WorldBuilderLoadFailed
-"Laden des World-Editors nicht möglich."
+"Laden des World-Builders nicht möglich"
 END
 
 GUI:DontUseAccount
@@ -851,11 +851,11 @@ GUI:LadderDetails
 END
 
 GUI:SystemMaps
-"Offiziell"
+"Offizielle Karten"
 END
 
 GUI:UserMaps
-"Inoffiziell"
+"Inoffizielle Karten"
 END
 
 GUI:WaitingToBeginConnection
@@ -1043,7 +1043,7 @@ GUI:WestwoodPacific
 END
 
 GUI:ClickToDisplayGameInfo
-"GUI:ClickToDisplayGameInfo"
+"Anklicken um Spielinfo anzuzeigen"
 END
 
 GUI:GameInfo
@@ -1171,7 +1171,7 @@ TOOLTIP:Cost
 END
 
 TOOLTIP:SupplyWarehouse
-"\nnoch $%d."
+"\nnoch: $ %d."
 END
 
 TOOLTIP:LobbyPlayers
@@ -1179,7 +1179,7 @@ TOOLTIP:LobbyPlayers
 END
 
 TOOLTIP:StartWorldBuilder
-"Starte den Welten-Editor."
+"Starte den World-Builder."
 END
 
 TOOLTIP:GetUpdate
@@ -1207,11 +1207,11 @@ TOOLTIP:Options
 END
 
 TOOLTIP:Exit
-"Generäle - Die Stunde Null beenden. Viel Glück, Commander!"
+"Generäle - Die Stunde Null beenden. Viel Glück, General!"
 END
 
 TOOLTIP:ExitGame
-"Generäle - Die Stunde Null beenden. Viel Glück, Commander!"
+"Generäle - Die Stunde Null beenden. Viel Glück, General!"
 END
 
 TOOLTIP:LoadGame
@@ -1283,7 +1283,7 @@ TOOLTIP:RestartGame
 END
 
 TOOLTIP:Help
-"TOOLTIP:Help"
+"."
 END
 
 TOOLTIP:StartLocation
@@ -1331,7 +1331,7 @@ TOOLTIP:SpeakerSelect
 END
 
 TOOLTIP:DontUseAccount
-"Wenn du dich nicht mit deinem Generäle - Die Stunde Null Online-Account anmeldest, hast du keinen Zugriff auf deine Spielfigur und den Kommunikator."
+"Wenn du dich nicht mit deinem Generäle - Die Stunde Null Online-Account anmeldest, hast du keinen Zugriff auf Online Spiele und den Kommunikator."
 END
 
 TOOLTIP:CommunicatorButton
@@ -1371,7 +1371,7 @@ TOOLTIP:Back
 END
 
 TOOLTIP:BattleHonors
-"Die Auszeichnungen eines Spielers. Wenn du im Einzelspieler- oder Multiplayer-Modus bestimmte Ziele erreichst, bekommst du Auszeichnungen"
+"Die Auszeichnungen eines Spielers. Wenn du im Einzelspieler- oder Multiplayer-Modus bestimmte Ziele erreichst, bekommst du Auszeichnungen."
 END
 
 TOOLTIP:BattleHonorStreak3
@@ -1407,15 +1407,15 @@ TOOLTIP:BattleHonorEndurance
 END
 
 TOOLTIP:BattleHonorCampaignUSA
-"Ehrenmedaille der WA\nDer Spieler hat die WA-Kampagne gemeistert. Meistere die Kampagne im höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten"
+"Ehrenmedaille der WA\nDer Spieler hat die WA-Kampagne gemeistert. Meistere die Kampagne auf dem höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten."
 END
 
 TOOLTIP:BattleHonorCampaignChina
-"AP Ehrenmedaille\nDer Spieler hat die AP-Kampagne gemeistert. Meistere die Kampagne im höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten"
+"AP Ehrenmedaille\nDer Spieler hat die AP-Kampagne gemeistert. Meistere die Kampagne auf dem höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten."
 END
 
 TOOLTIP:BattleHonorCampaignGLA
-"Ehrenmedaille der IBG\nDer Spieler hat die IBG-Kampagne gemeistert. Meistere die Kampagne im höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten"
+"Ehrenmedaille der IBG\nDer Spieler hat die IBG-Kampagne gemeistert. Meistere die Kampagne auf dem höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten."
 END
 
 TOOLTIP:BattleHonorChallenge
@@ -1579,15 +1579,15 @@ GUI:MoveScrollAnchor
 END
 
 GUI:GroupRoom1
-"1 gg. 1"
+"1 vs. 1"
 END
 
 GUI:GroupRoom2
-"2 gg. 2"
+"2 vs. 2"
 END
 
 GUI:GroupRoom3
-"3 gg. 3"
+"3 vs. 3"
 END
 
 GUI:Email
@@ -1599,7 +1599,7 @@ GUI:NoLadder
 END
 
 GUI:ChooseLadder
-"RANGLISTE WÄHLEN"
+"Rangliste wählen"
 END
 
 GUI:UnknownLadder
@@ -1611,7 +1611,7 @@ GUI:WOLLogin
 END
 
 GUI:PleaseEnterWOLInfo
-"GUI:PleaseEnterWOLInfo"
+"Anmeldeinformationen eingeben"
 END
 
 GUI:Username
@@ -1695,7 +1695,7 @@ GUI:LastUpdated
 END
 
 GUI:WOLIconKey
-"GUI:WOLIconKey"
+"Icon Key"
 END
 
 GUI:MyInfo
@@ -1823,7 +1823,7 @@ GUI:GSDisconReason13
 END
 
 GUI:GSDisconReason14
-"Registrierungsdatei ist beschädigt und wurde geändert."
+"Registrierungsdatei ist beschädigt oder wurde geändert."
 END
 
 GUI:GSDisconReason15
@@ -1875,7 +1875,7 @@ GUI:GSKicked
 END
 
 GUI:NATNegotiationFailed
-"Verbindungsaufbau nicht möglich."
+"Verbindungsaufbau zu anderen Spielern nicht möglich."
 END
 
 GUI:GPErrorTitle
@@ -1971,11 +1971,11 @@ GUI:Level
 END
 
 GUI:Tac
-"GUI:Tac"
+"Tac"
 END
 
 GUI:Strat
-"GUI:Strat"
+"Strat"
 END
 
 GUI:Struct
@@ -1987,7 +1987,7 @@ GUI:Waypt
 END
 
 GUI:WOLStatus
-"GUI:WOLStatus"
+"C&C Generäle - Die Stunde Null Online Status"
 END
 
 GUI:AIDifficulty
@@ -2039,7 +2039,7 @@ GUI:ScreenshotCaptureDescription
 END
 
 GUI:Null
-"GUI:Null"
+""
 END
 
 GUI:CRCMismatch
@@ -2199,7 +2199,7 @@ GUI:SuperweaponEMPPulse
 END
 
 GUI:SuperweaponA10ThunderboltMissileStrike
-"E10-Luftangriff"
+"A10-Luftangriff"
 END
 
 GUI:SuperweaponCrateDrop
@@ -2239,7 +2239,7 @@ GUI:SuperweaponBlackMarketNuke
 END
 
 GUI:SuperweaponAnthraxBomb
-"Ra&ketenangriff"
+"Anthrax-Bombe"
 END
 
 GUI:SuperweaponDemoralize
@@ -2371,7 +2371,7 @@ FTP:StatusDone
 END
 
 FTP:StatusNone
-"–"
+"Keiner"
 END
 
 WOL:InternalError
@@ -2723,7 +2723,7 @@ LAN:HostNotResponding
 END
 
 LAN:PlayerDropped
-"%ls ausgeschlossen; Spieler hat nicht reagiert"
+"%ls ausgeschlossen. Spieler hat nicht reagiert"
 END
 
 LAN:NeedMorePlayers
@@ -2819,7 +2819,7 @@ INI:FactionGLA
 END
 
 INI:FactionChinaHacker
-"Cyborg-Hacker"
+"Hacker"
 END
 
 SIDE:America
@@ -2891,7 +2891,7 @@ TOOLTIP:Quickmatch
 END
 
 TOOLTIP:GameLobbys
-"TOOLTIP:GameLobbys"
+"."
 END
 
 TOOLTIP:ClearButton
@@ -2911,7 +2911,7 @@ TOOLTIP:WidenSearch
 END
 
 TOOLTIP:Emote
-"TOOLTIP:Emote"
+"."
 END
 
 TOOLTIP:JoinGame
@@ -2919,7 +2919,7 @@ TOOLTIP:JoinGame
 END
 
 TOOLTIP:BuddyButton
-"TOOLTIP:BuddyButton"
+"Spielliste nach Freunden sortieren"
 END
 
 TOOLTIP:matchingprogress
@@ -3047,7 +3047,7 @@ TOOLTIP:IgnoreButton
 END
 
 TOOLTIP:closeButton
-"TOOLTIP:closeButton"
+"."
 END
 
 TOOLTIP:GameOptions
@@ -3111,27 +3111,27 @@ GUI:RallyPointSet
 END
 
 GUI:MouseType
-"GUI:MouseType"
+"Maustyp"
 END
 
 GUI:Com
-"GUI:Com"
+"EAPIM"
 END
 
 GUI:CONTROL
-"GUI:CONTROL"
+"Kontrolle"
 END
 
 GUI:INFORMATION
-"GUI:INFORMATION"
+"Information"
 END
 
 GUI:INTERFACE
-"GUI:INTERFACE"
+"Bedienfeld"
 END
 
 GUI:SELECTION
-"GUI:SELECTION"
+"Auswahl"
 END
 
 GUI:TAUNT
@@ -3143,11 +3143,11 @@ GUI:MISC
 END
 
 GUI:DEBUG
-"GUI:DEBUG"
+"Debug"
 END
 
 GUI:Cheer
-"GUI:Cheer"
+"Jubeln"
 END
 
 GUI:CheerDescription
@@ -3319,19 +3319,19 @@ GUI:SelectPrevUnitDescription
 END
 
 GUI:SelectNextWorker
-"Nächster Arbeitsbot"
+"Nächster Arbeiter"
 END
 
 GUI:SelectNextWorkerDescription
-"Wähle den nächsten Arbeitsbot."
+"Wähle den nächsten Arbeiter."
 END
 
 GUI:SelectPrevWorker
-"Vorheriger Arbeitsbot"
+"Vorheriger Arbeiter"
 END
 
 GUI:SelectPrevWorkerDescription
-"Wähle den vorherigen Arbeitsbot."
+"Wähle den vorherigen Arbeiter."
 END
 
 GUI:TypeSelect
@@ -3591,35 +3591,35 @@ GUI:RemoteIPDesc
 END
 
 GUI:SaveCamera
-"GUI:SaveCamera"
+"Kamera in Wiederholungen speichern"
 END
 
 GUI:UseCamera
-"GUI:UseCamera"
+"Gespeicherte Kamera in Wiederholungen verwenden"
 END
 
 Mouse:Windows
-"Mouse:Windows"
+"Windows Mauszeiger"
 END
 
 Mouse:W3D
-"Mouse:W3D"
+"W3D Mauszeiger"
 END
 
 Mouse:Poly
-"Mouse:Poly"
+"Polygon Mauszeiger"
 END
 
 Mouse:DX8
-"Mouse:DX8"
+"DX8 Mauszeiger"
 END
 
 Mouse:Heal
-"Reparieren"
+"Heilen"
 END
 
 Mouse:GetRepaired
-"Instandsetzen"
+"Reparieren"
 END
 
 Mouse:Dock
@@ -3711,7 +3711,7 @@ Mouse:TankHunterTNTAttack
 END
 
 Mouse:A10ThunderboltStrike
-"Ziel für E10-Luftangriff"
+"Ziel für A10-Luftangriff"
 END
 
 Mouse:StabAttack
@@ -3747,11 +3747,11 @@ Mouse:PlaceBeacon
 END
 
 SCRIPT:TestString
-"SCRIPT:TestString"
+"This is like a test string, dude."
 END
 
 SCRIPT:LongTestString
-"SCRIPT:LongTestString"
+"This is like a really long test string, dude. It makes sure that the word wrap and the spacing works."
 END
 
 SCIENCE:GeneralName
@@ -3767,11 +3767,11 @@ SCIENCE:Rank
 END
 
 SCIENCE:TempName
-"SCIENCE:TempName"
+"Wissenschaft einen Namen geben"
 END
 
 SCIENCE:TempDescription
-"SCIENCE:TempDescription"
+"Bitte nehmen Sie sich die Zeit, meine Beschreibung in Science.ini auszufüllen! Vielen Dank"
 END
 
 SCIENCE:USAPaladin
@@ -3803,15 +3803,15 @@ SCIENCE:USAParaDrop3
 END
 
 SCIENCE:USAA10Strike1
-"E10-Luftangriff 1"
+"A10-Luftangriff 1"
 END
 
 SCIENCE:USAA10Strike2
-"E10-Luftangriff 2"
+"A10-Luftangriff 2"
 END
 
 SCIENCE:USAA10Strike3
-"E10-Luftangriff 3"
+"A10-Luftangriff 3"
 END
 
 SCIENCE:USADaisyCutter
@@ -3823,7 +3823,7 @@ SCIENCE:ChinaNukeLauncher
 END
 
 SCIENCE:ChinaRedGuardTraining
-"Cyborg-Training"
+"Rotgardisten-Ausbildung"
 END
 
 SCIENCE:ChinaClusterMines
@@ -3879,15 +3879,15 @@ SCIENCE:GLATechnicalTraining
 END
 
 SCIENCE:GLARebelAmbush1
-"Hinterhalt 1"
+"Rebellenhinterhalt 1"
 END
 
 SCIENCE:GLARebelAmbush2
-"Hinterhalt 2"
+"Rebellenhinterhalt 2"
 END
 
 SCIENCE:GLARebelAmbush3
-"Hinterhalt 3"
+"Rebellenhinterhalt 3"
 END
 
 SCIENCE:GLACashBounty1
@@ -3903,7 +3903,7 @@ SCIENCE:GLACashBounty3
 END
 
 SCIENCE:GLAAnthraxBomb
-"Säurebombe"
+"Anthrax-Bombe"
 END
 
 CONTROLBAR:Demoralize
@@ -3911,7 +3911,7 @@ CONTROLBAR:Demoralize
 END
 
 CONTROLBAR:CIAIntelligence
-"AI&C"
+"&CIA"
 END
 
 CONTROLBAR:CombatDrop
@@ -3955,7 +3955,7 @@ CONTROLBAR:FireWall
 END
 
 CONTROLBAR:UpgradeGLAArmTheMob
-"Cyborg-Trupp &bewaffnen"
+"Mob &bewaffnen"
 END
 
 CONTROLBAR:UpgradeChinaOverlordGattlingCannon
@@ -3975,7 +3975,7 @@ CONTROLBAR:FireBomb
 END
 
 CONTROLBAR:UnderConstructionDesc
-"Fortschritt: %.0f%%"
+"Konstruktion zu\n%.f%% fertig."
 END
 
 CONTROLBAR:OCLTimerDesc
@@ -4015,7 +4015,7 @@ CONTROLBAR:ConstructAmericaPowerPlant
 END
 
 CONTROLBAR:ConstructAmericaBarracks
-"Cyborg-&Kaserne"
+"&Kaserne"
 END
 
 CONTROLBAR:ConstructAmericaSupplyCenter
@@ -4087,7 +4087,7 @@ CONTROLBAR:ConstructGLADemoTrap
 END
 
 CONTROLBAR:ConstructGLABarracks
-"Cyborg-&Kaserne"
+"&Kaserne"
 END
 
 CONTROLBAR:ConstructGLASupplyStash
@@ -4111,7 +4111,7 @@ CONTROLBAR:ConstructChinaPowerPlant
 END
 
 CONTROLBAR:ConstructChinaBarracks
-"Cyborg-&Kaserne"
+"&Kaserne"
 END
 
 CONTROLBAR:ConstructChinaSupplyCenter
@@ -4131,7 +4131,7 @@ CONTROLBAR:ConstructAmericaDozer
 END
 
 CONTROLBAR:ConstructGLAWorker
-"&Arbeitsbot"
+"&Arbeiter"
 END
 
 CONTROLBAR:ConstructChinaDozer
@@ -4163,11 +4163,11 @@ CONTROLBAR:ConstructChinaTankGattling
 END
 
 CONTROLBAR:ConstructGLAInfantryRebel
-"MG-Cybo&rg"
+"&Rebell"
 END
 
 CONTROLBAR:ConstructChinaInfantryRedguard
-"Standa&rd-Cyborg"
+"&Rotgardist"
 END
 
 CONTROLBAR:ConstructAmericaVehicleChinook
@@ -4203,7 +4203,7 @@ CONTROLBAR:ConstructAmericaVehicleComanche
 END
 
 CONTROLBAR:ConstructAmericaInfantryMissileDefender
-"Raketen-&Bot"
+"Raketen-&Soldat"
 END
 
 CONTROLBAR:ConstructAmericaInfantryPathfinder
@@ -4211,7 +4211,7 @@ CONTROLBAR:ConstructAmericaInfantryPathfinder
 END
 
 CONTROLBAR:ConstructAmericaInfantryColonelBurton
-"Kommando&bot"
+"Colonel &Burton"
 END
 
 CONTROLBAR:ConstructAmericaInfantryBiohazardTech
@@ -4223,7 +4223,7 @@ CONTROLBAR:ConstructAmericaVehicleTomahawk
 END
 
 CONTROLBAR:ConstructAmericaVehicleMedic
-"&Ambulanz"
+"&Ambulanzwagen"
 END
 
 CONTROLBAR:ConstructAmericaVehicleHumvee
@@ -4243,7 +4243,7 @@ CONTROLBAR:ConstructChinaJetMIG
 END
 
 CONTROLBAR:ConstructChinaInfantryBlackLotus
-"&Black Bot"
+"&Black Lotus"
 END
 
 CONTROLBAR:ConstructChinaInfantryTankHunter
@@ -4255,7 +4255,7 @@ CONTROLBAR:ConstructChinaInfantrySecretPolice
 END
 
 CONTROLBAR:ConstructChinaInfantryHacker
-"Cyborg-Ha&cker"
+"Ha&cker"
 END
 
 CONTROLBAR:ConstructChinaBunker
@@ -4279,7 +4279,7 @@ CONTROLBAR:ConstructChinaGattlingCannon
 END
 
 CONTROLBAR:ConstructChinaNuclearMissileLauncher
-"&Atomrakete"
+"&Atomraketen-Silo"
 END
 
 CONTROLBAR:ConstructChinaSpeakerTower
@@ -4311,7 +4311,7 @@ CONTROLBAR:ConstructChinaVehiclePropagandaBlimp
 END
 
 CONTROLBAR:ConstructGLAInfantryTerrorist
-"Fahrende &Bombe"
+"&Terrorist"
 END
 
 CONTROLBAR:ConstructGLAInfantryRPGTrooper
@@ -4343,7 +4343,7 @@ CONTROLBAR:ConstructGLAPrison
 END
 
 CONTROLBAR:ConstructGLAVehicleToxinTruck
-"Säure&traktor"
+"Toxin-&Traktor"
 END
 
 CONTROLBAR:ConstructGLATankBattleMaster
@@ -4359,11 +4359,11 @@ CONTROLBAR:ConstructGLAInfantryHijacker
 END
 
 CONTROLBAR:ConstructGLAInfantryJarmenKell
-"&Infiltrator"
+"&Jarmen Kell"
 END
 
 CONTROLBAR:ConstructGLAInfantryAngryMob
-"Cyborg-&Trupp"
+"&Aufgebrachter Mob"
 END
 
 CONTROLBAR:ConstructGLAVehicleQuadCannon
@@ -4379,7 +4379,7 @@ CONTROLBAR:ConstructGLAVehicleScudLauncher
 END
 
 CONTROLBAR:UpgradeAmericaAdvancedTraining
-"S&pezialtraining"
+"S&pezialausbildung"
 END
 
 CONTROLBAR:UpgradeAmericaDroneArmor
@@ -4499,7 +4499,7 @@ CONTROLBAR:UpgradeGLABuggyAmmo
 END
 
 CONTROLBAR:UpgradeGLABombTruckBioBomb
-"&Säurebomben"
+"Chemi&sche Bomben"
 END
 
 CONTROLBAR:DisguiseAsVehicle
@@ -4511,11 +4511,11 @@ CONTROLBAR:UpgradeGLABombTruckHighExplosiveBomb
 END
 
 CONTROLBAR:UpgradeGLAAnthraxBeta
-"Beta-Up&grade"
+"Anthrax Beta-Up&grade"
 END
 
 CONTROLBAR:UpgradeGLAToxinShells
-"&Säuregranaten"
+"&Toxin-Granaten"
 END
 
 CONTROLBAR:UpgradeGLAJunkRepair
@@ -4567,7 +4567,7 @@ CONTROLBAR:FireRocket
 END
 
 CONTROLBAR:AnthraxWarhead
-"&Chemischer-Gefechtskopf"
+"A&nthrax-Gefechtskopf"
 END
 
 CONTROLBAR:ExplosiveWarhead
@@ -4607,7 +4607,7 @@ CONTROLBAR:NapalmStrike
 END
 
 CONTROLBAR:A10ThunderboltMissileStrike
-"&E10-Luftangriff"
+"&A10-Luftangriff"
 END
 
 CONTROLBAR:CashHack
@@ -4623,7 +4623,7 @@ CONTROLBAR:BlackMarketNuke
 END
 
 CONTROLBAR:AnthraxBomb
-"Raketenangriff"
+"Anthrax-&Bombe"
 END
 
 CONTROLBAR:Paradrop
@@ -4767,11 +4767,11 @@ CONTROLBAR:OptionsDescription
 END
 
 CONTROLBAR:IdleWorker
-"Untätiger Arbeitsbot"
+"Untätiger Arbeiter"
 END
 
 CONTROLBAR:IdleWorkerDescription
-"Klicke, um zur nächsten untätigen Konstruktionseinheit zu springen."
+"Klicke, um zum nächsten untätigen Arbeiter zu springen."
 END
 
 CONTROLBAR:Beacon
@@ -4811,7 +4811,7 @@ RADAR:Infiltration
 END
 
 UPGRADE:AdvancedTraining
-"Spezialtraining"
+"Spezialausbildung"
 END
 
 UPGRADE:AmericaLaserMissiles
@@ -4931,7 +4931,7 @@ UPGRADE:APBullets
 END
 
 UPGRADE:BioBomb
-"Säurebombe"
+"Anthrax-Bombe"
 END
 
 UPGRADE:HighExplosiveBomb
@@ -4939,7 +4939,7 @@ UPGRADE:HighExplosiveBomb
 END
 
 UPGRADE:ArmTheMob
-"Cyborg-Trupp bewaffnen"
+"Mob bewaffnen"
 END
 
 UPGRADE:ScorpionRocket
@@ -4951,7 +4951,7 @@ UPGRADE:SCUDLauncherExplosiveWarhead
 END
 
 UPGRADE:SCUDLauncherAnthraxWarhead
-"Säure-Gefechtskopf"
+"Anthrax-Gefechtskopf"
 END
 
 UPGRADE:BuggyAmmo
@@ -4959,11 +4959,11 @@ UPGRADE:BuggyAmmo
 END
 
 UPGRADE:AnthraxBeta
-"Beta-Upgrade"
+"Anthrax Beta"
 END
 
 UPGRADE:ToxinShells
-"Säuregranaten"
+"Toxin-Granaten"
 END
 
 UPGRADE:JunkRepair
@@ -5031,7 +5031,7 @@ OBJECT:SupplyStash
 END
 
 OBJECT:Barracks
-"Cyborg-Kaserne"
+"Kaserne"
 END
 
 OBJECT:BlackMarket
@@ -5063,7 +5063,7 @@ OBJECT:TrainGuide
 END
 
 OBJECT:AngryMob
-"Cyborg-Trupp"
+"Aufgebrachter Mob"
 END
 
 OBJECT:TankHunter
@@ -5075,7 +5075,7 @@ OBJECT:Apartment
 END
 
 OBJECT:ChemicalFactory
-"Säurefabrik"
+"Chemiefabrik"
 END
 
 OBJECT:GovBuilding
@@ -5083,7 +5083,7 @@ OBJECT:GovBuilding
 END
 
 OBJECT:TechHospital
-"Cyborgwerkstatt – Erobern, um Infanterie-Cyborgs automatisch zu reparieren."
+"Krankenhaus\nErobern, um Infanteristen automatisch zu heilen."
 END
 
 OBJECT:ApartmentComplex
@@ -5107,7 +5107,7 @@ OBJECT:TechRadioStation
 END
 
 OBJECT:TechOilDerrick
-"Ölförderturm -- Erobern, um zusätzliche Rohstoffe zu gewinnen."
+"Ölförderturm\nErobern, um zusätzliche Rohstoffe zu gewinnen."
 END
 
 OBJECT:Arcade
@@ -5119,7 +5119,7 @@ OBJECT:Aurora
 END
 
 OBJECT:A10Thunderbolt
-"E10 Thunderflash"
+"A10 Thunderbolt"
 END
 
 OBJECT:AVPOWTRUCK
@@ -5127,7 +5127,7 @@ OBJECT:AVPOWTRUCK
 END
 
 OBJECT:B52
-"P52"
+"B52"
 END
 
 OBJECT:BMW
@@ -5167,7 +5167,7 @@ OBJECT:BigRig
 END
 
 OBJECT:BikeRack
-"Pete´s Fahrradständer"
+"Fahrradständer"
 END
 
 OBJECT:Billboard
@@ -5287,7 +5287,7 @@ OBJECT:Ambassador
 END
 
 OBJECT:Redguard
-"Standard-Cyborg"
+"Rotgardist"
 END
 
 OBJECT:ConstructionBarricade
@@ -5295,7 +5295,7 @@ OBJECT:ConstructionBarricade
 END
 
 OBJECT:ConvenienceStore
-"KWIK-E-markt"
+"Supermarkt"
 END
 
 OBJECT:ConvoyTruck
@@ -5331,11 +5331,11 @@ OBJECT:BlackMarketNuke
 END
 
 OBJECT:ToxinTank
-"Säuretraktor"
+"Toxin-Traktor"
 END
 
 OBJECT:AnthraxBomb
-"Säurebombe"
+"Anthrax-Bombe"
 END
 
 OBJECT:CarpetBomb
@@ -5407,11 +5407,11 @@ OBJECT:FlamingInfantry
 END
 
 OBJECT:ToxicInfantry
-"Säuretrupp"
+"Toxin-Trupp"
 END
 
 OBJECT:FoodCart
-"Dam0`s Imbissbude"
+"Imbissbude"
 END
 
 OBJECT:Fountain
@@ -5427,7 +5427,7 @@ OBJECT:Gargoyle
 END
 
 OBJECT:GasStation
-"Elmar´s Tank 'n' Rast"
+"Tankstelle"
 END
 
 OBJECT:GasStorageFacility
@@ -5439,7 +5439,7 @@ OBJECT:GattlingTank
 END
 
 OBJECT:GrassHut
-"Blaui`s Grashütte"
+"Grashütte"
 END
 
 OBJECT:Gravel
@@ -5455,11 +5455,11 @@ OBJECT:TankShell
 END
 
 OBJECT:Rebel
-"MG-Cyborg"
+"Rebell"
 END
 
 OBJECT:JarmenKell
-"Infiltrator"
+"Jarmen Kell"
 END
 
 OBJECT:GuardTower
@@ -5475,7 +5475,7 @@ OBJECT:GuardianDrone
 END
 
 OBJECT:BlackLotus
-"Black Bot"
+"Black Lotus"
 END
 
 OBJECT:Hanger
@@ -5499,7 +5499,7 @@ OBJECT:Hijacker
 END
 
 OBJECT:AngryMobNexus
-"<<CYBORG - TRUPP>>"
+"<<AUFGEBRACHTER MOB>>"
 END
 
 OBJECT:Hotel
@@ -5571,7 +5571,7 @@ OBJECT:Missile
 END
 
 OBJECT:MissileTeam
-"Raketen-Bot"
+"Raketen-Soldat"
 END
 
 OBJECT:Moat
@@ -5595,7 +5595,7 @@ OBJECT:NotAMosque
 END
 
 OBJECT:NuclearMissile
-"Atomrakete"
+"Atomraketen-Silo"
 END
 
 OBJECT:NukeLauncher
@@ -5791,7 +5791,7 @@ OBJECT:Rubble
 END
 
 OBJECT:ColonelBurton
-"Kommandobot"
+"Colonel Burton"
 END
 
 OBJECT:SUV
@@ -5843,15 +5843,15 @@ OBJECT:SecurityFence
 END
 
 OBJECT:Hacker
-"Cyborg-Hacker"
+"Hacker"
 END
 
 OBJECT:Officer
-"Cyborg-Offizier"
+"Offizier"
 END
 
 OBJECT:Agent
-"Cyborg-Agent"
+"Agent"
 END
 
 OBJECT:Sedan
@@ -6003,7 +6003,7 @@ OBJECT:Tent
 END
 
 OBJECT:Terrorist
-"Fahrende Bombe"
+"Terrorist"
 END
 
 OBJECT:Tire
@@ -6027,7 +6027,7 @@ OBJECT:TownHouse
 END
 
 OBJECT:ToxinTruck
-"Säuretraktor"
+"Toxin-Traktor"
 END
 
 OBJECT:TrashCan
@@ -6075,11 +6075,11 @@ OBJECT:GLARock
 END
 
 OBJECT:UNHumvee
-"NU Humvee"
+"UN Humvee"
 END
 
 OBJECT:UNSoldier
-"NU-Cyborg"
+"UN Soldat"
 END
 
 OBJECT:VendingMachine
@@ -6123,7 +6123,7 @@ OBJECT:WoodenBarrels
 END
 
 OBJECT:Worker
-"Arbeitsbot"
+"Arbeiter"
 END
 
 OBJECT:Birch
@@ -6171,7 +6171,7 @@ OBJECT:StingerMissile
 END
 
 OBJECT:StingerSoldier
-"Stinger-Cyborg"
+"Stinger-Soldat"
 END
 
 OBJECT:StorageTank
@@ -6187,19 +6187,19 @@ OBJECT:WineVat
 END
 
 OBJECT:GenericMale
-"Zivil-Cyborgs"
+"Zivilist"
 END
 
 OBJECT:GenericFemale
-"Zivil-Cyborgs"
+"Zivilist"
 END
 
 OBJECT:MogadishuFemaleCivilian
-"Zivil-Cyborgs"
+"Zivilist"
 END
 
 OBJECT:MogadishuMaleCivilian
-"Zivil-Cyborgs"
+"Zivilist"
 END
 
 OBJECT:Crane
@@ -6235,7 +6235,7 @@ OBJECT:SmallForklift
 END
 
 OBJECT:CropDuster
-"Flugzeug"
+"Sprühflugzeug"
 END
 
 OBJECT:Cessna
@@ -6247,7 +6247,7 @@ OBJECT:ChickenTruck
 END
 
 OBJECT:Combine
-"Flugzeug"
+"Mähdrescher"
 END
 
 OBJECT:Eurovan
@@ -6287,7 +6287,7 @@ OBJECT:TugBoat
 END
 
 OBJECT:BioHazardTech
-"Säurewaffen-Einheit"
+"Chemiewaffen-Einheit"
 END
 
 OBJECT:MilitiaTank
@@ -6387,7 +6387,7 @@ MAP:CHI01ObjectiveText
 END
 
 MAP:CHI02Open
-"New Harbor City, Asien\n'Die New Harbor-Krise'"
+"Hong Kong, China\n'Die Hong Kong-Krise'"
 END
 
 SCRIPT:CHI02AudioHolder01
@@ -6471,15 +6471,15 @@ SCRIPT:CHI02AudioHolder20
 END
 
 SCRIPT:CHI02Box01
-"Errichte mit dem BULLDOZER eine KOMMANDOZENTRALE\nWähle diese anschließend aus und baue eine RADAR-Anlage\nNach dem Bau des Radars erscheint in der\nlinken unteren Ecke der Menüleiste ein Radarfenster"
+"Errichte mit dem Bulldozer eine Kommandozentrale.\nWähle diese anschließend aus und baue eine Radar-Anlage.\nNach dem Bau des Radars erscheint in der\nlinken unteren Ecke der Menüleiste ein Radarfenster"
 END
 
 SCRIPT:CHI02Box02
-"NEUE EINHEIT: DRACHENPANZER\nDer Feuerstoß des DRACHENPANZERS ist auch für verschanzte Cyborgs ein Dorn im Auge."
+"Neue Einheit: Drachenpanzer\nDer Feuerstoß des Drachenpanzers ist auch für verschanzte Infanterie tödlich."
 END
 
 MAP:CHI02Obj01
-"EINSATZZIEL:\nZerstören Sie das Tagungszentrum und die umliegenden Parkplätze,\num ihre Gegner aufzuhalten."
+"EINSATZZIEL:\nZerstören Sie das Tagungszentrum und die umliegenden Parkplätze,\num die Terroristen aufzuhalten."
 END
 
 MAP:CHI02Obj02
@@ -6487,15 +6487,15 @@ MAP:CHI02Obj02
 END
 
 MAP:CHI02SecondaryObj01
-"Sekundärziel:\nVerhindern Sie die Zerstörung von Gebäuden in der\nInnenstadt New Harbors durch die IBG."
+"Sekundärziel:\nVerhindern Sie die Zerstörung von Gebäuden in der\nInnenstadt Hong Kongs durch die IBG."
 END
 
 MAP:CHI02SecondaryObj02
-"Sekundärziel:\nZerstören Sie die Säuretraktoren-Fabrik."
+"Sekundärziel:\nZerstören Sie die Toxin-Traktoren-Fabrik."
 END
 
 MAP:CHI03Open
-"Drei Turbinen Damm ... Provinz Huchatka, Asien\n'Flut der Gewalt'"
+"Drei Schluchten Damm ... Provinz Hubei, China\n'Flut der Gewalt'"
 END
 
 MAP:CHI03Obj1
@@ -6515,31 +6515,31 @@ MAP:CHI03AudioHolder01
 END
 
 MAP:CHI06Open
-"Ramkek, Betastan\n'Tödliche Fracht'"
+"Bishkek, Aldastan\n'Tödliche Fracht'"
 END
 
 MAP:CHI06Obj1
-"EINSATZZIEL:\nBringen Sie Black Bot\nzur Mitte der Eisenbahnbrücke."
+"EINSATZZIEL:\nBringen Sie Agentin Black Lotus\nzur Mitte der Eisenbahnbrücke."
 END
 
 MAP:CHI07Open
-"Black Rock City, Hauptstadt von Betastan\n'Nuklearer Winter'"
+"Dushanbe, Aldastan\n'Nuklearer Winter'"
 END
 
 MAP:Demo58Open
-"Deltastan DMZ\nOperation: Blue Eagle"
+"Kasachstan DMZ\nOperation: Blue Eagle"
 END
 
 MAP:Demo58End1
-"MAP:Demo58End1"
+"Kampfzentrale Offline..."
 END
 
 MAP:Demo58End2
-"MAP:Demo58End2"
+"COMMAND AND CONQUER GENERALS\nCOMING: CHRISTMAS 2002"
 END
 
 MAP:Demo48Open
-"MAP:Demo48Open"
+"Mazar Free Fire Zone\nOperation: White Knight"
 END
 
 MAP:GLA02MapName
@@ -6547,31 +6547,31 @@ MAP:GLA02MapName
 END
 
 MAP:GLA02Open
-"Dörfer bei Iron City, Deltastan\nAbwurfzone der Hilfsgüter"
+"Dörfer bei Almaty, Kasachstan\nWA-Abwurfzone der Hilfsgüter"
 END
 
 MAP:GLA02ObjectiveText01
-"EINSATZZIEL:\nSammeln Sie gestohlene Hilfsgüter im Wert von $40.000."
+"EINSATZZIEL:\nSammeln Sie gestohlene Hilfsgüter im Wert von 40.000 $."
 END
 
 MAP:GLA021stThirdObjective
-"1. Ziel:\nSammeln Sie die Kisten des Konvois ein.\nSie haben einen Wert von $20.000."
+"1. Ziel:\nSammeln Sie die Kisten des UN-Konvois ein.\nSie haben einen Wert von 20.000 $."
 END
 
 MAP:GLA022ndThirdObjective
-"2. Ziel:\nSammeln Sie die von den Versorgungsflugzeugen abgeworfenen Hilfsgüter.\nSie sind $30.000 wert."
+"2. Ziel:\nSammeln Sie die von den Versorgungsflugzeugen abgeworfenen Hilfsgüter.\nSie sind 30.000 $ wert."
 END
 
 MAP:GLA023rdThirdObjective
-"Letztes Ziel: Plündern Sie den WA-Stützpunkt und stellen Sie\nRohstoffe im Wert von $40.000 sicher."
+"Letztes Ziel:\nPlündern Sie den WA-Stützpunkt und stellen Sie\nRohstoffe im Wert von 40.000 $ sicher."
 END
 
 MAP:GLA02CivBuildingHint
-"Die Dorfbewohner halten Rohstoffe in ihren Häusern versteckt.\nZerstören Sie die Häuser und holen Sie sich die Rohstoffe."
+"Die Dorfbewohner halten Rohstoffe in ihren Häusern versteckt.\nZerstören Sie die Häuser und holen Sie sich Rohstoffe."
 END
 
 MAP:GLA02CivKillHint
-"Die Dorfbewohner stehlen unsere Hilfsgüter! HALTEN SIE SIE AUF!"
+"Die Dorfbewohner stehlen unsere Hilfsgüter!\nHALTEN SIE SIE AUF!"
 END
 
 MAP:GLA02QuadsArrival
@@ -6591,7 +6591,7 @@ MAP:GLA06MapName
 END
 
 MAP:GLA06Open
-"Westufer des Northern Sea, Deltastan\nSäurewaffenlager"
+"Westufer des Aralsees, Kasachstan\nToxin-Waffenlager"
 END
 
 MAP:GLA06MissionObjective
@@ -6639,7 +6639,7 @@ MAP:GLA07MapName
 END
 
 MAP:GLA07Open
-"Bei Lendor, Deltastan\nVon der IBG kontrolliertes Gebiet"
+"Bei Lenger, Kasachstan\nVon den Rebellen kontrolliertes Gebiet"
 END
 
 SCRIPT:GLA07ChnTmr
@@ -6651,7 +6651,7 @@ MAP:GLA07ChineseArrival
 END
 
 MAP:GLA07MissionObjective
-"EINSATZZIEL:\nBeseitigen sie alle Einheiten der IBG."
+"EINSATZZIEL:\nVernichten Sie alle Verräter"
 END
 
 MAP:GLA07ConvoyHint01
@@ -6659,7 +6659,7 @@ MAP:GLA07ConvoyHint01
 END
 
 MAP:GLA07ConvoyHint02
-"WARNUNG:\nWenn die Verräter ihre Cyborgs mit den gestohlenen LKWs sehen,\nfliegt ihre Tarnung auf."
+"WARNUNG:\nWenn die Verräter ihre Rebellen mit den gestohlenen LKWs sehen,\nfliegt ihre Tarnung auf."
 END
 
 MAP:GLA07ConvoyHint03
@@ -6679,15 +6679,15 @@ MAP:GLA07ConvoyDetected
 END
 
 MAP:GLA03Open
-"Zhamabulath, Deltastan\nDicht besiedeltes asiatisches Protektorat"
+"Zhambul, Kasachstan\nDicht besiedeltes asiatisches Protektorat"
 END
 
 MAP:USA01Open
-"Entmilitarisierte Zone von Bazar\nOperation: Stille Dämmerung"
+"Entmilitarisierte Zone von Mazar\nOperation: Stille Dämmerung"
 END
 
 SCRIPT:TrainingMove
-"Wähle eine Einheit mit einem Linksklick aus und erteile ihr einen Befehl. Linksklicke auf den Boden, wenn du deine Einheit bewegen möchtest. Nach einem Linksklick auf feindliche Cyborgs geht deine Einheit zum Angriff über."
+"Wähle eine Einheit mit einem Linksklick aus und erteile ihr einen Befehl. Linksklicke auf den Boden, wenn du deine Einheit bewegen möchtest. Nach einem Linksklick auf feindliche Soldaten geht deine Einheit zum Angriff über."
 END
 
 SCRIPT:TrainingCommand
@@ -6699,7 +6699,7 @@ SCRIPT:TrainingExplor
 END
 
 SCRIPT:TrainingBarracks
-"Du hast die WA-Cyborg-Kaserne befreit. In Produktionsstätten werden Cyborgs gebaut. Wenn du wissen willst, welche Einheiten du bauen kannst, linksklicke jetzt auf deine neue Cyborg-Kaserne. Nach einem Klick auf die gewünschte Einheit beginnt der Bau."
+"Du hast die WA-Kasernen befreit. In Kasernen werden Soldaten ausgebildet. Wenn du wissen willst, welche Einheiten du ausbilden kannst, linksklicke jetzt auf deine neue Kaserne. Nach einem Klick auf die gewünschte Einheit beginnt die Ausbildung."
 END
 
 SCRIPT:TrainingPilots
@@ -6719,7 +6719,7 @@ SCRIPT:TrainingUnits
 END
 
 SCRIPT:TrainingPower
-"Du hast den Fusionsreaktor der Westlichen Allianz befreit. Die Westliche Allianz und der Asiatische Pakt versorgen ihre Stützpunkte mit Atomenergie. Die Energieleiste zeigt das Energieniveau deines Stützpunktes an. Hast du zu wenig Energie, fallen die Defensivsysteme und das Radar deiner Basis aus."
+"Du hast den Fusionsreaktor der WA befreit. Die WA und AP versorgen ihre Stützpunkte mit Atomenergie. Die Energieleiste zeigt das Energieniveau deines Stützpunktes an. Hast du zu wenig Energie, fallen die Defensivsysteme und das Radar deiner Basis aus."
 END
 
 SCRIPT:TrainingAbilities
@@ -6731,7 +6731,7 @@ SCRIPT:TrainingObjective
 END
 
 SCRIPT:TrainingUrban
-"Cyborgs können Zivilgebäude besetzen. In Gebäuden stationierte Einheiten haben einen Defensivbonus. Besetzte Gebäude sind schwer einzunehmen und eignen sich hervorragend zur Verteidigung wichtiger Ein- und Ausfallstraßen."
+"Soldaten können Zivilgebäude besetzen. In Gebäuden stationierte Einheiten haben einen Defensivbonus. Besetzte Gebäude sind schwer einzunehmen und eignen sich hervorragend zur Verteidigung wichtiger Ein- und Ausfallstraßen."
 END
 
 SCRIPT:TrainingTech
@@ -6739,11 +6739,11 @@ SCRIPT:TrainingTech
 END
 
 SCRIPT:TrainingCrate
-"Kisten enthalten verschiedene Bonusgegenstände (beispielsweise Munition oder Rüstungen), die die Fähigkeiten deiner Cyborgs verbessern. Bewege deine Cyborgs oder Fahrzeuge über eine Kiste, um diese zu öffnen."
+"Kisten enthalten verschiedene Bonusgegenstände (beispielsweise Munition oder Rüstungen), die die Fähigkeiten deiner Soldaten verbessern. Bewege deine Soldaten oder Fahrzeuge über eine Kiste, um diese zu öffnen."
 END
 
 SCRIPT:TrainingMissionObjective
-"EINSATZZIEL:\nZerstören Sie die Säurewaffenfabrik der IBG."
+"EINSATZZIEL:\nZerstören Sie die Chemiefabrik der IBG."
 END
 
 SCRIPT:TrainingOpeningObjective
@@ -6751,11 +6751,11 @@ SCRIPT:TrainingOpeningObjective
 END
 
 MAP:USA01Opening
-"Zone: Wüstensimulation\nSchlacht der Maschinen."
+"Irak\nOperation: Final Justice"
 END
 
 MAP:USA01BahdadText
-"Die Belagerung Twin Sword Citys\nTag 3"
+"Die Belagerung Bagdads\nTag 3"
 END
 
 MAP:USA01ObjectiveText
@@ -6763,7 +6763,7 @@ MAP:USA01ObjectiveText
 END
 
 MAP:USA02Open
-"Sandstorm City, Nomar\nOperation: Schatzjagd"
+"Al Hanad, Jemen\nOperation: Schatzjagd"
 END
 
 MAP:USA02Objective1Text
@@ -6783,7 +6783,7 @@ SCRIPT:USA03RescueCounter
 END
 
 MAP:USA04Open
-"Küste von Deltastan, 14 Uhr\nOperation: Sturmbringer"
+"Küste von Kasachstan, 14 Uhr\nOperation: Sturmbringer"
 END
 
 SCRIPT:USA04BomberTimer
@@ -6807,7 +6807,7 @@ SCRIPT:GLA03Objective01
 END
 
 SCRIPT:GLA03Objective02
-"EINSATZZIEL:\nEliminieren Sie mit Säuretraktoren 300 Verräter."
+"EINSATZZIEL:\nEliminieren Sie 300 Verräter mit Toxin-Traktoren."
 END
 
 SCRIPT:GLA03Objective03
@@ -6823,15 +6823,15 @@ MAP:GLA03Objective05
 END
 
 MAP:GLA03Objective06
-"Zerstören Sie die Säurefabrik."
+"Zerstören Sie die Chemiefabrik."
 END
 
 SCRIPT:GLA04Objective01
-"EINSATZZIEL:\nZerstören Sie die Gebäude\nund verdienen Sie $40.000."
+"EINSATZZIEL:\nZerstören Sie die Zivilgebäude\nund verdienen Sie 40.000 $."
 END
 
 SCRIPT:GLA04Objective02
-"WARNUNG:\nSie müssen $40.000 verdienen!\nGeben Sie nicht zu viel Geld für Einheiten und Gebäude aus!"
+"WARNUNG:\nSie müssen 40.000 $ verdienen!\nGeben Sie nicht zu viel Geld für Einheiten und Gebäude aus!"
 END
 
 SCRIPT:GLA04Objective03
@@ -6839,7 +6839,7 @@ SCRIPT:GLA04Objective03
 END
 
 SCRIPT:GLA04Objective04
-"WARNUNG:\nDie WA bombardiert unsere schweren Fahrzeuge.\nSetzen Sie besser Cyborg-Trupps und Kampfjeeps ein."
+"WARNUNG:\nDie WA bombardiert unsere schweren Panzer.\nWiegeln Sie den aufgebrachten Mob auf und setzen Sie Kampfjeeps ein."
 END
 
 SCRIPT:GLA05Objective01
@@ -6851,7 +6851,7 @@ SCRIPT:GLA05Objective02
 END
 
 MAP:GLA01Open
-"Entmilitarisierte Zone von Kobey Village\nOperation: Todesregen"
+"Shymkent DMZ\nOperation: Todesregen"
 END
 
 MAP:GLA01ObjectiveText
@@ -6859,7 +6859,7 @@ MAP:GLA01ObjectiveText
 END
 
 MAP:USA07Open
-"Südöstliches Deltastan\nOperation: Verzweifelte Union"
+"Südöstliches Kasachstan\nOperation: Verzweifelte Union"
 END
 
 MAP:USA07Objective1
@@ -6867,7 +6867,7 @@ MAP:USA07Objective1
 END
 
 MAP:USA07General
-"Ankunft des Cyborg-Generals"
+"Ankunft des Generals"
 END
 
 MAP:USA07Objective2
@@ -6875,7 +6875,7 @@ MAP:USA07Objective2
 END
 
 MAP:GLA08Temp
-"IBG Mission 8 Südliches Deltastan\nSpace Port"
+"IBG Mission 8 Südliches Kasachstan\nBaikonur Kosmodrom"
 END
 
 MAP:CHI08Temp
@@ -6899,7 +6899,7 @@ MAP:USA06Temp
 END
 
 MAP:USA05Temp
-"WA Mission 5 Fluss der Verdammnis\nStatus: Unvollständig"
+"WA Mission 5 - Fluss der Verdammnis\nStatus: Unvollständig"
 END
 
 CONTROLBAR:TooltipDaisyCutter
@@ -6927,11 +6927,11 @@ CONTROLBAR:TooltipA10Strike
 END
 
 CONTROLBAR:TooltipFireNukeMissile
-"Stärken: Gebäude und Cyborgs\n\nCountdown: 6:00"
+"Stärken: Gebäude und Infanterie\n\nCountdown: 6:00"
 END
 
 CONTROLBAR:TooltipFireSCUDStorm
-"Stärken: Gebäude und Cyborgs\n\nCountdown: 5:00"
+"Stärken: Gebäude und Infanterie\n\nCountdown: 5:00"
 END
 
 CONTROLBAR:TooltipFireArtilleryBarrage
@@ -6943,7 +6943,7 @@ CONTROLBAR:TooltipFireSuperWeaponCashHack
 END
 
 CONTROLBAR:TooltipFireSpySatScan
-"Überwacht das Zielgebiet. Ortet versteckte Einheiten.\n\nCountdown: 1:30"
+"Überwacht das Zielgebiet.\nOrtet versteckte Einheiten.\n\nCountdown: 1:00"
 END
 
 CONTROLBAR:TooltipFireSpyDrone
@@ -6951,7 +6951,7 @@ CONTROLBAR:TooltipFireSpyDrone
 END
 
 CONTROLBAR:TooltipFireRadarVanScan
-"Überwacht das Zielgebiet. Ortet versteckte Feinde.\n\nCountdown: 0:30"
+"Überwacht das Zielgebiet.\nOrtet versteckte Feinde.\n\nCountdown: 0:30"
 END
 
 CONTROLBAR:TooltipFireRadioJam
@@ -6963,11 +6963,11 @@ CONTROLBAR:TooltipFireEmergencyRepair
 END
 
 CONTROLBAR:TooltipFireRebelAmbush
-"Cyborg-Angriff.\n\nCountdown: 4:00"
+"Rebellen-Angriff.\n\nCountdown: 4:00"
 END
 
 CONTROLBAR:TooltipFireAnthraxBomb
-"Stärken: Cyborgs\n\nCountdown: 6:00"
+"Stärken: Infanterie\n\nCountdown: 6:00"
 END
 
 CONTROLBAR:TooltipCIAIntelligence
@@ -6991,15 +6991,15 @@ CONTROLBAR:TooltipMissileDefenderLaser
 END
 
 CONTROLBAR:TooltipBattlePlansBombardment
-"Stationiert ein Geschütz\nDie Feuerkraft aller Einheiten steigt um 20%"
+"Stationiert ein Geschütz.\nDie Feuerkraft aller Einheiten steigt um 20%."
 END
 
 CONTROLBAR:TooltipBattlePlansHoldTheLine
-"Errichtet Betonmauern\nDie Panzerung aller Einheiten steigt um 10%"
+"Errichtet Betonmauern.\nDie Panzerung aller Einheiten steigt um 10%."
 END
 
 CONTROLBAR:TooltipBattlePlansSearchAndDestroy
-"Setzt Radar-Scanner ein\nDie Sichtweite aller Einheiten und die Reichweite aller Waffen steigt um 20%"
+"Setzt Radar-Scanner ein.\nDie Sichtweite aller Einheiten und die Reichweite aller Waffen steigt um 20%"
 END
 
 CONTROLBAR:TooltipSetRallyPoint
@@ -7007,11 +7007,11 @@ CONTROLBAR:TooltipSetRallyPoint
 END
 
 CONTROLBAR:TooltipSell
-"Verkaufe das Gebäude für 50% des Wertes"
+"Verkaufe das Gebäude für 50% des Wertes."
 END
 
 CONTROLBAR:TooltipNukeReactorOverCharge
-"Beschädigt den Reaktor und erhöht den Energieausstoß um 50%"
+"Beschädigt den Reaktor und erhöht den Energieausstoß um 50%."
 END
 
 CONTROLBAR:TooltipCancelUpgrade
@@ -7023,11 +7023,11 @@ CONTROLBAR:TooltipUSAUpgradeAdvancedTraining
 END
 
 CONTROLBAR:TooltipUSAUpgradeDroneARmor
-"Die Panzerung aller Drohnen verbessert sich"
+"Die Panzerung aller Drohnen verbessert sich um 25%."
 END
 
 CONTROLBAR:TooltipUSAUpgradeAdvancedControlRods
-"Reaktor produziert 100% mehr Energie"
+"Reaktor produziert 100% mehr Energie."
 END
 
 CONTROLBAR:TooltipUSAUpgradeFlashBangGrenades
@@ -7035,7 +7035,7 @@ CONTROLBAR:TooltipUSAUpgradeFlashBangGrenades
 END
 
 CONTROLBAR:TooltipUSAUpgradeCompositeArmor
-"Die Panzerung aller Panzer verbessert sich um 25%"
+"Die Panzerung aller Panzer verbessert sich um 25%."
 END
 
 CONTROLBAR:TooltipUSAUpgradeCruiseMissile
@@ -7051,7 +7051,7 @@ CONTROLBAR:USAUpgradeRocketPods
 END
 
 CONTROLBAR:TooltipUSAUpgradeLaserMissiles
-"Die Raketen von Raptors und Tarnkappenbombern verursachen 25% mehr Schaden"
+"Raptor- und Tarnkappenbomber-Raketen verursachen 25% mehr Schaden."
 END
 
 CONTROLBAR:TooltipChinaUpgradeMines
@@ -7067,7 +7067,7 @@ CONTROLBAR:TooltipUpgradeChinaOverlordPropagandaTower
 END
 
 CONTROLBAR:TooltipUpgradeChinaOverlordBattleBunker
-"Rüstet den Overlord mit einem Bunker für deine Cyborgs auf."
+"Rüstet den Overlord mit einem Bunker für Infanteristen auf."
 END
 
 CONTROLBAR:TooltipChinaUpgradeRadar
@@ -7075,31 +7075,31 @@ CONTROLBAR:TooltipChinaUpgradeRadar
 END
 
 CONTROLBAR:TooltipChinaUpgradeNationalism
-"Der Horden-Bonus für Standard-Cyborgs, Panzerjäger und Battlemaster steigt um 25%"
+"Der Horden-Bonus für Rotgardisten, Panzerjäger und Battlemaster steigt um 25%."
 END
 
 CONTROLBAR:TooltipChinaUpgradeBlackNapalm
-"Flammen-Waffen verursachen 25% mehr Schaden"
+"Flammen-Waffen verursachen 25% mehr Schaden."
 END
 
 CONTROLBAR:TooltipChinaUpgradeChainGuns
-"Alle Gatling-Waffen verursachen 25% mehr Schaden"
+"Alle Gatling-Waffen verursachen 25% mehr Schaden."
 END
 
 CONTROLBAR:TooltipUpgradeChinaSubliminal
-"Der Propagandaturm-Bonus steigt um 25%"
+"Der Propagandaturm-Bonus steigt um 25%."
 END
 
 CONTROLBAR:TooltipUpgradeChinaUraniumShells
-"Die Schusskraft für Battlemaster und Overlord steigt um 25%"
+"Die Schusskraft für Battlemaster und Overlord steigt um 25%."
 END
 
 CONTROLBAR:TooltipUpgradeChinaNuclearTanks
-"Overlord- und Battlemaster-Panzer werden schneller"
+"Die Geschwindigkeit für Battlemaster und Overlord steigt um 25%."
 END
 
 CONTROLBAR:TooltipUpgradeChinaStunBullets
-"Standard-Cyborgs können feindliche Cyborgs gefangen nehmen."
+"Rotgardisten können feindliche Soldaten gefangen nehmen."
 END
 
 CONTROLBAR:TooltipDisguiseAsVehicle
@@ -7107,11 +7107,11 @@ CONTROLBAR:TooltipDisguiseAsVehicle
 END
 
 CONTROLBAR:TooltipGLAUpgradeBioBomb
-"Der Bomben-LKW wird zur chemischen Kampfwaffe."
+"Der Bomben-LKW wird zur Chemiebombe."
 END
 
 CONTROLBAR:ToolTipGLAUpgradeHEBomb
-"Dieser Bomben-LKW verursacht 100% mehr Schaden"
+"Dieser Bomben-LKW verursacht 100% mehr Schaden."
 END
 
 CONTROLBAR:ToolTipGLAUpgradeRadarVanScan
@@ -7122,20 +7122,24 @@ CONTROLBAR:ToolTipGLAUpgradeScorpionRocket
 "Der Skorpion wird mit einer Rakete bestückt."
 END
 
+CONTROLBAR:ToolTipGLAUpgradeBuggyAmmor
+"Alle Raketenbuggys haben 25% mehr Munition."
+END
+
 CONTROLBAR:ToolTipGLAUpgradeAPRockets
-"Alle Raketenangriffe verursachen 25% mehr Schaden"
+"Alle Raketenangriffe verursachen 25% mehr Schaden."
 END
 
 CONTROLBAR:ToolTipGLAUpgradeToxinShells
-"Skorpion und Marodeurpanzer werden mit Säure-Geschossen ausgerüstet."
+"Skorpion und Marodeurpanzer werden mit Anthrax-Geschossen ausgerüstet."
 END
 
 CONTROLBAR:ToolTipGLAUpgradeAnthraxBeta
-"Alle Säure-Einheiten verursachen 25% mehr Schaden"
+"Alle Toxin-Einheiten verursachen 25% mehr Schaden."
 END
 
 CONTROLBAR:ToolTipGLAUpgradeAPBullets
-"MG-Cyborgs, Kampfjeeps, Vierlingsgeschütze und Infiltratoren verursachen 25% mehr Schaden"
+"Rebellen, Kampfjeeps, Vierlingsgeschütze und Jarmen Kell verursachen 25% mehr Schaden."
 END
 
 CONTROLBAR:ToolTipGLAUpgradeJunkRepair
@@ -7143,15 +7147,15 @@ CONTROLBAR:ToolTipGLAUpgradeJunkRepair
 END
 
 CONTROLBAR:ToolTipGLAUpgradeCamouflage
-"MG-Cyborgs werden erst sichtbar, wenn sie schießen."
+"Rebellen werden erst sichtbar, wenn sie schießen."
 END
 
 CONTROLBAR:ToolTipGLAUpgradeTranqDarts
-"MG-Cyborgs können feindliche Cyborgs gefangen nehmen."
+"Rebellen können feindliche Infanterie gefangen nehmen."
 END
 
 CONTROLBAR:ToolTipGLAUpgradeArmTheMob
-"Bewaffnet den Cyborg-Trupp mit Sturmgewehren."
+"Bewaffnet den aufgebrachten Mob mit AK-47-Sturmgewehren."
 END
 
 CONTROLBAR:ToolTipStructureExit
@@ -7223,7 +7227,7 @@ CONTROLBAR:ToolTipGLASCUDHEWarhead
 END
 
 CONTROLBAR:ToolTipGLASCUDAnthraxWarhead
-"Bestückt die SCUD-Rakete mit Säurestoffen."
+"Bestückt die SCUD-Rakete mit Anthrax."
 END
 
 CONTROLBAR:ToolTipGLAFireToxinTractorSlime
@@ -7235,7 +7239,7 @@ CONTROLBAR:ToolTipGLARebelCaptureBuilding
 END
 
 CONTROLBAR:ToolTipGLATerroristMakeCarBomb
-"Platziert Sprengstoff in einem Auto."
+"Platziert Sprengstoff in einem zivilen Auto."
 END
 
 CONTROLBAR:ToolTipGLAFireFireBomb
@@ -7251,7 +7255,7 @@ CONTROLBAR:ToolTipGLAFireJarmenKellVehicleSnipe
 END
 
 CONTROLBAR:ToolTipChinaFireMIG
-"CONTROLBAR:ToolTipChinaFireMIG"
+"Feuer"
 END
 
 CONTROLBAR:ToolTipChinaRedGuardCaptureBuilding
@@ -7259,11 +7263,11 @@ CONTROLBAR:ToolTipChinaRedGuardCaptureBuilding
 END
 
 CONTROLBAR:ToolTipChinaRedGuardFireStunBullets
-"Nimmt den gewählten Cyborg gefangen."
+"Nimmt den gewählten Soldaten gefangen."
 END
 
 CONTROLBAR:ToolTipChinaRedGuardFireBayonet
-"Attackiert den feindlichen Cyborg mit dem Bajonett."
+"Attackiert feindliche Truppen mit dem Bajonett."
 END
 
 CONTROLBAR:ToolTipChinaFireBlackLotusCaptureHack
@@ -7287,7 +7291,7 @@ CONTROLBAR:ToolTipChinaHackerBuildingHack
 END
 
 CONTROLBAR:ToolTipChinaDragonTankFire
-"CONTROLBAR:ToolTipChinaDragonTankFire"
+"Feuer"
 END
 
 CONTROLBAR:TooltipFireWall
@@ -7295,7 +7299,7 @@ CONTROLBAR:TooltipFireWall
 END
 
 CONTROLBAR:ToolTipPickUpPrisoner
-"Bringt den feindlichen Cyborg zu deinem Stützpunkt."
+"Bringt den feindlichen Soldaten zu deinem Stützpunkt."
 END
 
 CONTROLBAR:ToolTipReturnToPrison
@@ -7315,7 +7319,7 @@ CONTROLBAR:ToolTipUSAFireBurtonTimedDemo
 END
 
 CONTROLBAR:ToolTipUSABurtonPlaceRemoteCharge
-"Platziert einen Sprengsatz mit Fernzünder. So kann der Zeitpunkt der Explosion selbst bestimmt werden."
+"Platziert einen Sprengsatz mit Fernzünder. So kann der Zeitpunkt der Detonation selbst bestimmt werden."
 END
 
 CONTROLBAR:ToolTipUSABurtonDetonateCharges
@@ -7327,7 +7331,7 @@ CONTROLBAR:ToolTipCancelConstruction
 END
 
 CONTROLBAR:ToolTipUSABuildCommandCenter
-"Fordert Spezialwaffen an. Baut Bulldozer. Ermöglicht Radarüberwachung."
+"Fordert Spezialwaffen an.\nBaut Bulldozer.\nErmöglicht Radarüberwachung."
 END
 
 CONTROLBAR:ToolTipUSABuildPowerPlant
@@ -7335,7 +7339,7 @@ CONTROLBAR:ToolTipUSABuildPowerPlant
 END
 
 CONTROLBAR:ToolTipUSABuildBarracks
-"Baustätte aller WA-Cyborgs."
+"Ausbildungsstätte aller WA-Soldaten."
 END
 
 CONTROLBAR:ToolTipUSABuildSupplyCenter
@@ -7351,7 +7355,7 @@ CONTROLBAR:ToolTipUSABuildWarFactory
 END
 
 CONTROLBAR:ToolTipUSABuildPatriotBattery
-"Boden- und Luftabwehrstellung. Die Zielsysteme übermitteln die Koordinaten feindlicher Einheiten an alle Patriot-Stellungen der Umgebung.\n\nEnergiebedarf: 3"
+"Boden- und Luftabwehrstellung.\nDie Zielsysteme übermitteln die Koordinaten feindlicher Einheiten an alle Patriot-Stellungen in der Umgebung.\n\nEnergiebedarf: 3"
 END
 
 CONTROLBAR:ToolTipUSABuildAirField
@@ -7367,7 +7371,7 @@ CONTROLBAR:ToolTipUSABuildStrategyCenter
 END
 
 CONTROLBAR:ToolTipUSABuildDetentionCamp
-"Bietet die Möglichkeit, feindliche Cyborgs auszuspionieren."
+"Bietet die Möglichkeit, feindliche Soldaten auszuspionieren."
 END
 
 CONTROLBAR:ToolTipUSABuildSupplyDropZone
@@ -7375,7 +7379,7 @@ CONTROLBAR:ToolTipUSABuildSupplyDropZone
 END
 
 CONTROLBAR:ToolTipGLABuildCommandCenter
-"Fordert Spezialwaffen an. Baustätte von Arbeitsbots."
+"Fordert Spezialwaffen an.\nAusbildungsstätte von Arbeitern."
 END
 
 CONTROLBAR:ToolTipGLABUildDemoTrap
@@ -7383,7 +7387,7 @@ CONTROLBAR:ToolTipGLABUildDemoTrap
 END
 
 CONTROLBAR:ToolTipGLABuildBarracks
-"Baustätte für IBG-Cyborgs."
+"Ausbildungslager für IBG-Truppen."
 END
 
 CONTROLBAR:ToolTipGLABuildSupplyStash
@@ -7395,15 +7399,15 @@ CONTROLBAR:ToolTipGLABuildArmsDealer
 END
 
 CONTROLBAR:ToolTipChinaBuildCommandCenter
-"Fordert Spezialwaffen an. Produziert Bulldozer."
+"Fordert Spezialwaffen an.\nProduziert Bulldozer."
 END
 
 CONTROLBAR:ToolTipChinaBuildPowerPlant
-"Asiatisches Kraftwerk. Kann um +50% überlastet werden.\n\nEnergieausstoß: 10"
+"Asiatisches Kraftwerk.\nKann zur Erhöhung des Energieausstoßes um +50% überlastet werden.\n\nEnergieausstoß: 10"
 END
 
 CONTROLBAR:ToolTipChinaBuildBarracks
-"Baustätte für asiatische Cyborgs."
+"Ausbildungslager für asiatische Truppen."
 END
 
 CONTROLBAR:ToolTipChinaBuildSupplyCenter
@@ -7415,7 +7419,7 @@ CONTROLBAR:ToolTipChinaBuildWarFactory
 END
 
 CONTROLBAR:ToolTipChinaBuildBunker
-"Luftschutzbunker für 5 asiatische Cyborgs."
+"Luftschutzbunker für 5 asiatische Soldaten."
 END
 
 CONTROLBAR:ToolTipChinaBuildPropagandaCenter
@@ -7431,19 +7435,19 @@ CONTROLBAR:ToolTipChinaBuildGattlingCannon
 END
 
 CONTROLBAR:ToolTipChinaBuildNuclearMissileLauncher
-"Feuert eine Atomrakete ab. Produziert wichtige asiatische Upgrades.\n\nEnergiebedarf: 10"
+"Feuert eine Atomrakete ab.\nProduziert wichtige asiatische Upgrades.\n\nEnergiebedarf: 10"
 END
 
 CONTROLBAR:ToolTipChinaBuildSpeakerTower
-"Repariert Einheiten und erhöht ihre Schussfrequenz.\n\nEnergiebedarf: 1"
+"Heilt Einheiten und erhöht ihre Schussfrequenz.\n\nEnergiebedarf: 1"
 END
 
 CONTROLBAR:ToolTipGLABuildTunnelNetwork
-"Basisverteidigung und unterirdisches Tunnelsystem. Cyborgs können das Gangsystem durch beliebige Zugänge betreten und verlassen."
+"Basisverteidigung und unterirdisches Tunnelsystem.\nRebellen können das Gangsystem durch beliebige Zugänge betreten und verlassen."
 END
 
 CONTROLBAR:ToolTipGLABuildPalace
-"Versteck für moderne Technologien der IBG. Kann von IBG-Truppen besetzt werden."
+"Versteck für moderne Technologien der IBG.\nKann von IBG-Truppen besetzt werden."
 END
 
 CONTROLBAR:ToolTipGLABuildBlackMarket
@@ -7463,15 +7467,15 @@ CONTROLBAR:ToolTipGLABuildPrison
 END
 
 CONTROLBAR:ToolTipUSABuildRanger
-"Stärken: Cyborgs\nSchwächen: Leichte Fahrzeuge"
+"Stärken: Infanterie\nSchwächen: Leichte Fahrzeuge"
 END
 
 CONTROLBAR:ToolTipUSABuildDozer
-"Baut alle Gebäude der WA. Repariert Brücken und Gebäude."
+"Baut alle Gebäude der WA.\nRepariert Brücken und Gebäude."
 END
 
 CONTROLBAR:ToolTipGLABuildWorker
-"Baut alle Gebäude der IBG. Repariert Brücken und sammelt Rohstoffe."
+"Baut alle Gebäude der IBG.\nRepariert Brücken und sammelt Rohstoffe."
 END
 
 CONTROLBAR:ToolTipChinaBuildDozer
@@ -7479,39 +7483,39 @@ CONTROLBAR:ToolTipChinaBuildDozer
 END
 
 CONTROLBAR:ToolTipGLABuildScorpion
-"Stärken: Leichte Fahrzeuge\nSchwächen: Raketen-Bots und Flugzeuge"
+"Stärken: Leichte Fahrzeuge\nSchwächen: Raketentruppen und Flugzeuge"
 END
 
 CONTROLBAR:ToolTipGLABuildRocketBuggy
-"Stärken: Gebäude und Cyborgs\nSchwächen: Panzer und Flugzeuge"
+"Stärken: Gebäude und Infanterie\nSchwächen: Panzer und Flugzeuge"
 END
 
 CONTROLBAR:ToolTipGLABuildRadarVan
-"Modernes Radarsystem. Ortet versteckte feindliche Einheiten."
+"Modernes Radarsystem.\nOrtet versteckte feindliche Einheiten."
 END
 
 CONTROLBAR:ToolTipChinaBuildOverlord
-"Stärken: Gebäude und Fahrzeuge\nSchwächen: Raketen-Bots und Flugzeuge"
+"Stärken: Gebäude und Fahrzeuge\nSchwächen: Raketentruppen und Flugzeuge"
 END
 
 CONTROLBAR:ToolTipChinaBuildGattlingTank
-"Stärken: Flugzeuge und Cyborgs\nSchwächen: Panzer"
+"Stärken: Flugzeuge und Infanterie\nSchwächen: Panzer"
 END
 
 CONTROLBAR:ToolTipGLABuildRebel
-"Stärken: Cyborgs\nSchwächen: Panzer und leichte Fahrzeuge"
+"Stärken: Infanterie\nSchwächen: Panzer und leichte Fahrzeuge"
 END
 
 CONTROLBAR:ToolTipChinaBuildRedguard
-"Hordenbonus\n\nStärken: Cyborgs\nSchwächen: Leichte Fahrzeuge"
+"Hordenbonus\n\nStärken: Infanterie\nSchwächen: Leichte Fahrzeuge"
 END
 
 CONTROLBAR:ToolTipChinaBuildHacker
-"Deaktiviert feindliche Gebäude mit Computerviren und hackt sich zur Geldbeschaffung ins Internet.\n\nStärken: Gebäude\nSchwächen: Cyborgs und Fahrzeuge"
+"Deaktiviert feindliche Gebäude mit Computerviren und hackt sich zur Geldbeschaffung ins Internet.\n\nStärken: Gebäude\nSchwächen: Infanterie und Fahrzeuge"
 END
 
 CONTROLBAR:ToolTipUSABUildChinook
-"Großer Transporthelikopter. Sammelt Rohstoffe. Setzt Ranger auf besetzten Zivilgebäuden ab."
+"Großer Transporthelikopter.\nSammelt Rohstoffe.\nSetzt Ranger auf besetzten Zivilgebäuden ab."
 END
 
 CONTROLBAR:ToolTipChinaBuildSupplyTruck
@@ -7519,11 +7523,11 @@ CONTROLBAR:ToolTipChinaBuildSupplyTruck
 END
 
 CONTROLBAR:ToolTipUSABuildPaladin
-"Moderner Kampfpanzer mit Lasergeschütz gegen Raketen und Cyborgs.\n\nStärken: Panzer, Gebäude und Raketen-Bots\nSchwächen: Flugzeuge"
+"Moderner Kampfpanzer mit Lasergeschütz gegen Raketen und Infanterie.\n\nStärken: Panzer, Gebäude und Raketentruppen\nSchwächen: Flugzeuge"
 END
 
 CONTROLBAR:ToolTipUSABuildRaptor
-"Für Kampf gegen Luft- und Bodenziele.\n\nStärken: Flugzeuge, Panzer und leichte Fahrzeuge\nSchwächen: Raketen-Bots und Flugabwehrgeschütze"
+"Für Kampf gegen Luft- und Bodenziele.\n\nStärken: Flugzeuge, Panzer und leichte Fahrzeuge\nSchwächen: Raketentruppen und Flugabwehrgeschütze"
 END
 
 CONTROLBAR:ToolTipUSABuildAurora
@@ -7535,19 +7539,19 @@ CONTROLBAR:ToolTipUSABuildStealthFighter
 END
 
 CONTROLBAR:ToolTipUSABuildComanche
-"Mit Raketen und Geschützen bewaffnet. Wird im Flug automatisch neu bestückt.\n\nStärken: Panzer, leichte Fahrzeuge und Cyborgs\nSchwächen: Raketen-Bots und Luftabwehrgeschütze"
+"Mit Raketen und Geschützen bestückt.\nWird im Flug automatisch neu bestückt.\n\nStärken: Panzer, leichte Fahrzeuge und Infanterie\nSchwächen: Raketentruppen und Luftabwehrgeschütze"
 END
 
 CONTROLBAR:ToolTipUSABuildMissileDefender
-"Feuert lasergelenkte Raketen ab.\n\nStärken: Panzer und Flugzeuge\nSchwächen: Cyborgs"
+"Feuert lasergelenkte Raketen ab.\n\nStärken: Panzer und Flugzeuge\nSchwächen: Infanterie"
 END
 
 CONTROLBAR:ToolTipUSABuildPathFinder
-"Ist für seine Gegner nur sichtbar, wenn er feuert oder sich bewegt. Entdeckt feindliche Einheiten.\n\nStärken: Cyborgs\nSchwächen: Leichte Fahrzeuge und Scouts"
+"Ist für seine Gegner nur sichtbar, wenn er feuert oder sich bewegt. Entdeckt feindliche Einheiten.\n\nStärken: Infanterie\nSchwächen: Leichte Fahrzeuge und Aufklärungseinheiten"
 END
 
 CONTROLBAR:ToolTipUSABuildColonelBurton
-"Perfekt getarnt. Sichtbar, wenn er mit dem Gewehr feuert oder eine Bombe anbringt.\n\nBau-Limit: 1\nStärken: Cyborgs\nSchwächen: Scouts"
+"Perfekt getarnt. Sichtbar, wenn er mit dem Gewehr feuert oder eine Bombe anbringt.\n\nStärken: Infanterie\nSchwächen: Aufklärungseinheiten"
 END
 
 CONTROLBAR:ToolTipUSABuildTomahawk
@@ -7555,11 +7559,11 @@ CONTROLBAR:ToolTipUSABuildTomahawk
 END
 
 CONTROLBAR:ToolTipUSABuildHumvee
-"Aufklärungsfahrzeug und Truppentransporter mit mehreren Schießscharten.\n\nStärken: Cyborgs\nSchwächen: Panzer"
+"Aufklärungsfahrzeug und Truppentransporter mit mehreren Schießscharten.\n\nStärken: Infanterie\nSchwächen: Panzer"
 END
 
 CONTROLBAR:ToolTipUSABuildMedic
-"Cyborgs werden repariert. Neutralisierung von Strahlung und chemischen Kampfstoffen."
+"Infanterie wird geheilt.\nNeutralisiert Strahlung und chemische Kampfstoffe."
 END
 
 CONTROLBAR:ToolTipUSABuildScoutDrone
@@ -7567,127 +7571,127 @@ CONTROLBAR:ToolTipUSABuildScoutDrone
 END
 
 CONTROLBAR:ToolTipUSABuildBattleDrone
-"Kleine Drohne mit MG. Repariert das Mutterfahrzeug.\n\nStärken: Cyborgs\nSchwächen: Raketen-Bots"
+"Kleine Drohne mit MG.\nRepariert das Mutterfahrzeug.\n\nStärken: Infanterie\nSchwächen: Raketentruppen"
 END
 
 CONTROLBAR:ToolTipChinaBuildMIG
-"Löst einen Feuersturm aus.\n\nStärken: Panzer und leichte Fahrzeuge\nSchwächen: Raketen-Bots und Luftabwehrgeschütze"
+"Löst einen Feuersturm aus.\n\nStärken: Panzer und leichte Fahrzeuge\nSchwächen: Raketentruppen und Luftabwehrgeschütze"
 END
 
 CONTROLBAR:ToolTipChinaBuildBlackLotus
-"Besetzt feindliche Gebäude, stiehlt Geld aus Nachschublagern und sabotiert feindliche Fahrzeuge. Bleibt bis zur Ausführung der Befehle getarnt.\n\nStärken: Gebäude und Fahrzeuge\nSchwächen: Scouts"
+"Besetzt feindliche Gebäude, stiehlt Geld aus Nachschublagern und sabotiert feindliche Fahrzeuge. Bleibt bis zur Ausführung der Befehle getarnt.\n\nStärken: Gebäude und Fahrzeuge\nSchwächen: Aufklärungseinheiten"
 END
 
 CONTROLBAR:ToolTipChinaBuildTankHunter
-"Spezieller TNT-Angriff.\nHordenbonus\n\nStärken: Panzer\nSchwächen: Cyborgs"
+"Hordenbonus\nSpezieller TNT-Angriff.\n\nStärken: Panzer\nSchwächen: Infanterie"
 END
 
 CONTROLBAR:ToolTipChinaBuildInfernoCannon
-"Löst einen Feuersturm aus.\n\nStärken: Abwehranlagen und Cyborgs\nSchwächen: Panzer und Flugzeuge"
+"Löst einen Feuersturm aus.\n\nStärken: Abwehranlagen und Infanterie\nSchwächen: Panzer und Flugzeuge"
 END
 
 CONTROLBAR:ToolTipChinaBuildNukeLauncher
-"Stärken: Gebäude und Cyborgs\nSchwächen: Panzer und Flugzeuge"
+"Stärken: Gebäude und Infanterie\nSchwächen: Panzer und Flugzeuge"
 END
 
 CONTROLBAR:ToolTipChinaBuildTroopCrawler
-"Transportfahrzeug mit 8 Standard-Cyborgs. Ortet unsichtbare Einheiten.\n\nStärken: Cyborgs und Gebäude\nSchwächen: Panzer und Flugzeuge"
+"Transportfahrzeug mit 8 Rotgardisten.\nOrtet unsichtbare Einheiten.\n\nStärken: Infanterie und Gebäude\nSchwächen: Panzer und Flugzeuge"
 END
 
 CONTROLBAR:ToolTipChinaBuildDragonTank
-"Steckt Gebäude in Brand und eliminiert feindliche Einheiten. Erzeugt eine Flammenwand.\n\nStärken: Cyborgs und Gebäude\nSchwächen: Panzer und Flugzeuge"
+"Steckt Gebäude in Brand und eliminiert feindliche Einheiten. Erzeugt eine Flammenwand.\n\nStärken: Infanterie und Gebäude\nSchwächen: Panzer und Flugzeuge"
 END
 
 CONTROLBAR:ToolTipGLABuildTerrorist
-"Fahrende Bombe.\n\nStärken: Panzer und Gebäude\nSchwächen: Cyborgs und leichte Fahrzeuge"
+"Terrorist\n\nStärken: Panzer und Gebäude\nSchwächen: Infanterie und leichte Fahrzeuge"
 END
 
 CONTROLBAR:ToolTipGLABuildRPGTrooper
-"Stärken: Panzer\nSchwächen: Cyborgs"
+"Stärken: Panzer\nSchwächen: Infanterie"
 END
 
 CONTROLBAR:ToolTipGLABuildAngryMob
-"Stärken: Cyborgs und Fahrzeuge\nSchwächen: Flammen, chemische Kampfstoffe und Blendgranaten"
+"Stärken: Infanterie und Fahrzeuge\nSchwächen: Flammen, chemische Kampfstoffe und Blendgranaten"
 END
 
 CONTROLBAR:ToolTipGLABuildHijacker
-"Kann alle feindlichen Fahrzeuge entführen. Ist getarnt.\n\nStärken: Panzer und Fahrzeuge\nSchwächen: Cyborgs und Scouts"
+"Kann alle feindlichen Fahrzeuge entführen. Ist getarnt.\n\nStärken: Panzer und Fahrzeuge\nSchwächen: Infanterie und Aufklärungseinheiten"
 END
 
 CONTROLBAR:ToolTipGLABuildJarmenKell
-"Ist getarnt. Versteckt sich in Zivilgebäuden und neutralisiert feindliche Cyborgs aus dem Hinterhalt. Schaltet Fahrzeugbesatzungen aus und ermöglicht die Übernahme der Fahrzeuge.\n\nStärken: Cyborgs und Fahrzeuge\nSchwächen: Scouts"
+"Ist getarnt. Versteckt sich in Zivilgebäuden und neutralisiert feindliche Truppen aus dem Hinterhalt. Schaltet Fahrzeugbesatzungen aus und ermöglicht die Übernahme der Fahrzeuge.\n\nStärken: Infanterie und Fahrzeuge\nSchwächen: Aufklärungseinheiten"
 END
 
 CONTROLBAR:ToolTipGLABuildToxinTruck
-"Räumt Gebäude und kontaminiert Landstriche.\n\nStärken: Cyborgs\nSchwächen: Panzer, Flugzeuge und Abwehranlagen"
+"Räumt Gebäude und kontaminiert Landstriche.\n\nStärken: Infanterie\nSchwächen: Panzer, Flugzeuge und Abwehranlagen"
 END
 
 CONTROLBAR:ToolTipChinaBuildBattlemaster
-"Hordenbonus\n\nStärken: Panzer und Flugzeuge\nSchwächen: Cyborgs"
+"Hordenbonus\n\nStärken: Panzer und Flugzeuge\nSchwächen: Infanterie"
 END
 
 CONTROLBAR:ToolTipGLABuildMarauder
-"Verbessert mit den Trümmern zerstörter Fahrzeuge sein Hauptgeschütz.\n\nStärken: Gebäude und leichte Fahrzeuge\nSchwächen: Raketen-Bots und Flugzeuge"
+"Verbessert mit den Trümmern zerstörter Fahrzeuge sein Hauptgeschütz.\n\nStärken: Gebäude und leichte Fahrzeuge\nSchwächen: Raketentruppen und Flugzeuge"
 END
 
 CONTROLBAR:ToolTipGLABuildTechnical
-"Verbessert mit den Trümmern zerstörter Fahrzeuge sein MG.\n\nStärken: Cyborgs\nSchwächen: Panzer und Flugzeuge"
+"Verbessert mit den Trümmern zerstörter Fahrzeuge sein MG.\n\nStärken: Infanterie\nSchwächen: Panzer und Flugzeuge"
 END
 
 CONTROLBAR:ToolTipGLABuildQuadCannon
-"Verbessert mit den Trümmern zerstörter Fahrzeuge sein Geschütz.\n\nStärken: Cyborgs und Flugzeuge\nSchwächen: Panzer"
+"Verbessert mit den Trümmern zerstörter Fahrzeuge sein Geschütz.\n\nStärken: Infanterie und Flugzeuge\nSchwächen: Panzer"
 END
 
 CONTROLBAR:ToolTipGLABuildBombTruck
-"Kann als jedes beliebige Fahrzeug getarnt werden.\n\nStärken: Cyborgs und Gebäude\nSchwächen: Scouts"
+"Kann als jedes beliebige Fahrzeug getarnt werden.\n\nStärken: Infanterie und Gebäude\nSchwächen: Aufklärungseinheiten"
 END
 
 CONTROLBAR:ToolTipGLABuildSCUDLauncher
-"Kann mit explosiven oder mit Säure-Gefechtsköpfen bestückt werden.\n\nStärken: Gebäude und Cyborgs\nSchwächen: Panzer und Flugzeuge"
+"Kann mit explosiven oder mit Anthrax-Gefechtsköpfen bestückt werden.\n\nStärken: Gebäude und Infanterie\nSchwächen: Panzer und Flugzeuge"
 END
 
 CONTROLBAR:ToolTipUSABuildCrusader
-"Stärken: Fahrzeuge und Gebäude\nSchwächen: Flugzeuge und Raketen-Bots"
+"Stärken: Fahrzeuge und Gebäude\nSchwächen: Flugzeuge und Raketentruppen"
 END
 
 CONTROLBAR:ToolTipUSASciencePaladin
-"Der Paladin hat ein modernes Laser-Zielerfassungssystem für die Zerstörung feindlicher Raketen.\n\nProduktionsstätte:\nWaffenfabrik"
+"Der Paladin hat ein modernes Laser-Zielerfassungssystem für die Zerstörung feindlicher Raketen.\n\nProduktionsstätte: Waffenfabrik"
 END
 
 CONTROLBAR:ToolTipUSASciencePathFinder
-"Kundschafter sind perfekt getarnte Heckenschützen.\n\nProduktionsstätte:\nCyborg-Kaserne"
+"Kundschafter sind perfekt getarnte Heckenschützen.\n\nProduktionsstätte: Kaserne"
 END
 
 CONTROLBAR:ToolTipUSAScienceStealthFighter
-"Während des Fluges getarnt.\n\nProduktionsstätte:\nFlugfeld"
+"Tarnkappenbomber können in den ersten Sekunden eines Angriffs nicht abgeschossen werden.\n\nProduktionsstätte: Flugfeld"
 END
 
 CONTROLBAR:ToolTipUSAScienceSpyDrone
-"Aufklärungsdrohnen werden vom feindlichen Radar nicht erfasst und können feindliche Einheiten orten.\n\nProduktionsstätte:\nKommandozentrale"
+"Aufklärungsdrohnen werden vom feindlichen Radar nicht erfasst und können feindliche Einheiten orten.\n\nProduktionsstätte: Kommandozentrale"
 END
 
 CONTROLBAR:ToolTipUSAScienceParaDrop
-"Setze Ranger im Zielgebiet ab.\n\nStufe 1: 5 Ranger\nStufe 2: 10 Ranger\nStufe 3: 20 Ranger\n\nProduktionsstätte:\nKommandozentrale"
+"Setze Ranger im Zielgebiet ab.\n\nStufe 1: 5 Ranger\nStufe 2: 10 Ranger\nStufe 3: 20 Ranger\n\nProduktionsstätte: Kommandozentrale"
 END
 
 CONTROLBAR:ToolTipUSAScienceA10Strike
-"E10 Thunderbolt-Bomber zerstören Gebäude, Fahrzeuge und Cyborgs.\n\nStufe 1: 1 E10 Thunderbolt\nStufe 2: 2 E10 Thunderbolts\nStufe 3: 3 E10 Thunderbolts\n\nProduktionsstätte:\nKommandozentrale"
+"A10 Thunderbolt-Bomber zerstören Gebäude, Fahrzeuge und Infanterie.\n\nStufe 1: 1 A10 Thunderbolt\nStufe 2: 2 A10 Thunderbolts\nStufe 3: 3 A10 Thunderbolts\n\nProduktionsstätte: Kommandozentrale"
 END
 
 CONTROLBAR:ToolTipUSAScienceDaisyCutter
-"Benzinbomben zerstören Gebäude und feindliche Truppenansammlungen.\n\nProduktionsstätte:\nKommandozentrale"
+"Benzinbomben zerstören Gebäude und feindliche Truppenansammlungen.\n\nProduktionsstätte: Kommandozentrale"
 END
 
 CONTROLBAR:ToolTipChinaScienceNukeCannon
-"Nukleargeschütze schießen Atomgranaten über lange Distanzen.\n\nProduktionsstätte:\nWaffenfabrik\nBenötigt: Propagandazentrale"
+"Nukleargeschütze schießen Atomgranaten über lange Distanzen.\n\nProduktionsstätte: Waffenfabrik\nBenötigt: Propagandazentrale"
 END
 
 CONTROLBAR:ToolTipChinaScienceRedGuardTraining
-"Alle Standard-Cyborgs verlassen die Cyborg-Kaserne als Veteranen."
+"Alle Rotgardisten verlassen die Kaserne als Veteranen."
 END
 
 CONTROLBAR:ToolTipChinaScienceClusterMines
-"Werfe im Zielgebiet Streuminen ab.\n\nProduktionsstätte:\nKommandozentrale"
+"Werfe im Zielgebiet Streuminen ab.\n\nProduktionsstätte: Kommandozentrale"
 END
 
 CONTROLBAR:ToolTipChinaScienceARtilleryTraining
@@ -7695,23 +7699,23 @@ CONTROLBAR:ToolTipChinaScienceARtilleryTraining
 END
 
 CONTROLBAR:ToolTipChinaScienceArtilleryBarrage
-"Fordere Artillerieunterstützung gegen dein Ziel an.\n\nStufe 1: 12 Schuss\nStufe 2: 24 Schuss\nStufe 3: 36 Schuss\n\nProduktionsstätte:\nKommandozentrale"
+"Fordere Artillerieunterstützung gegen dein Ziel an.\n\nStufe 1: 12 Schuss\nStufe 2: 24 Schuss\nStufe 3: 36 Schuss\n\nProduktionsstätte: Kommandozentrale"
 END
 
 CONTROLBAR:ToolTipChinaScienceEMPPulse
-"Werfe über dem Zielgebiet eine EMP-Bombe ab. Dadurch werden alle feindlichen Fahrzeuge und Gebäude deaktiviert.\n\nProduktionsstätte:\nKommandozentrale"
+"Werfe über dem Zielgebiet eine EMP-Bombe ab. Dadurch werden alle feindlichen Fahrzeuge und Gebäude deaktiviert.\n\nProduktionsstätte: Kommandozentrale"
 END
 
 CONTROLBAR:ToolTipGLAScienceHijacker
-"Entführer sind perfekt getarnt und können feindliche Fahrzeuge stehlen.\n\nProduktionsstätte:\nCyborg-Kaserne"
+"Entführer sind perfekt getarnt und können feindliche Fahrzeuge stehlen.\n\nProduktionsstätte: Kaserne"
 END
 
 CONTROLBAR:ToolTipGLAScienceSCUDLauncher
-"SCUD-Stellungen feuern Langstreckenraketen mit konventionellen oder mit Säure-Gefechtsköpfen ab.\n\nProduktionsstätte:\nWaffenhändler\nBenötigt: Palast"
+"SCUD-Stellungen feuern Langstreckenraketen mit konventionellen oder mit Anthrax-Gefechtsköpfen ab.\n\nProduktionsstätte: Waffenhändler"
 END
 
 CONTROLBAR:ToolTipGLaScienceMarauderTank
-"Marodeurpanzer verbessern mit den Trümmern zerstörter Einheiten ihr Hauptgeschütz.\n\nProduktionsstätte:\nWaffenhändler"
+"Marodeurpanzer verbessern mit den Trümmern zerstörter Einheiten ihr Hauptgeschütz.\n\nProduktionsstätte: Waffenhändler"
 END
 
 CONTROLBAR:ToolTipGLAScienceTechnicalTraining
@@ -7719,7 +7723,7 @@ CONTROLBAR:ToolTipGLAScienceTechnicalTraining
 END
 
 CONTROLBAR:ToolTipGLAScienceRebelAmbush
-"Bereiten Sie einen Hinterhalt vor.\n\nStufe 1: 4 Cyborgs\nStufe 2: 8 Cyborgs\nStufe 3: 16 Cyborgs\n\nProduktionsstätte:\nKommandozentrale"
+"Bereite einen Rebellen-Hinterhalt vor.\n\nStufe 1: 4 Rebellen\nStufe 2: 8 Rebellen\nStufe 3: 16 Rebellen\n\nProduktionsstätte: Kommandozentrale"
 END
 
 CONTROLBAR:ToolTipGLAScienceCashBounty
@@ -7727,11 +7731,11 @@ CONTROLBAR:ToolTipGLAScienceCashBounty
 END
 
 CONTROLBAR:ToolTipGLAScienceAnthraxBomb
-"Säure ist für feindliche Truppenansammlungen tödlich.\n\nProduktionsstätte:\nKommandozentrale"
+"Anthrax ist für feindliche Truppenansammlungen tödlich.\n\nProduktionsstätte: Kommandozentrale"
 END
 
 CONTROLBAR:ToolTipUSABuildSecurityFence
-"Halte feindliche Fahrzeuge mit einem Sicherheitszaun auf. Berührt ein Cyborg den Zaun, wird Alarm ausgelöst."
+"Halte feindliche Fahrzeuge mit einem Sicherheitszaun auf. Berührt eine Infanterieeinheit den Zaun, wird Alarm ausgelöst."
 END
 
 CONTROLBAR:ToolTipChinaBuildConcreteWall
@@ -7771,15 +7775,15 @@ GUI:LoadGameConfirmation
 END
 
 GUI:Rank1Required
-"NÖTIGER RANG: 1 Stern-General"
+"Benötigter Rang: 1 Stern-General"
 END
 
 GUI:Rank3Required
-"NÖTIGER RANG: 3 Sterne-General"
+"Benötigter Rang: 3 Sterne-General"
 END
 
 GUI:Rank8Required
-"NÖTIGER RANG: 5 Sterne-General"
+"Benötigter Rang: 5 Sterne-General"
 END
 
 GUI:Experience
@@ -7875,7 +7879,7 @@ UPGRADE:AircraftArmor
 END
 
 MAP:USA03Open
-"Nördliches Deltastan. Rückzug der WA-Einheiten.\nOperation: Schutzengel"
+"Nördliches Kasachstan. Rückzug der WA-Einheiten.\nOperation: Guardian Angel"
 END
 
 CONTROLBAR:TooltipChinaUpgradeAircraftArmor
@@ -7899,11 +7903,11 @@ CONTROLBAR:ToolTipSwitchToUSAFlashBang
 END
 
 CONTROLBAR:ToolTipSwitchToChinaStunBullets
-"Schaltet zum Betäubungsmunition-Modus um, um feindliche Cyborgs im Freien gefangen zu nehmen."
+"Schaltet zum Betäubungsmunition-Modus um, um feindliche Soldaten im Freien gefangen zu nehmen."
 END
 
 CONTROLBAR:ToolTipSwitchToGLATranqDarts
-"Schaltet zum Betäubungspfeile-Modus um, um feindliche Cyborgs im Freien gefangen zu nehmen."
+"Schaltet zum Betäubungspfeile-Modus um, um feindliche Soldaten im Freien gefangen zu nehmen."
 END
 
 GUI:ProductionQueueFull
@@ -7959,7 +7963,7 @@ CONTROLBAR:FireScudExplosiveAtPosition
 END
 
 CONTROLBAR:FireScudAnthraxAtPosition
-"Chemiebomben-Bombardement"
+"An&thrax-Bombardement"
 END
 
 MAP:USA04Objective1Text
@@ -7987,7 +7991,7 @@ CONTROLBAR:ToolTipFireScudExplosiveAtPosition
 END
 
 CONTROLBAR:ToolTipFireScudAnthraxAtPosition
-"Bombardiere Zielgebiet mit Säure-Sprengköpfen."
+"Bombardiere Zielgebiet mit Anthrax-Sprengköpfen."
 END
 
 TOOLTIP:Brightness
@@ -8011,7 +8015,7 @@ Buddy:SelectBuddyToChat
 END
 
 GUI:CannotConnectToServservTitle
-"Keine Verbindung"
+"Keine Verbindung."
 END
 
 GUI:CannotConnectToServserv
@@ -8031,7 +8035,7 @@ MESSAGE:BattlePlanSearchAndDestroyInitiated
 END
 
 OBJECT:TechOilRefinery
-"Öl-Raffinerie -- Erobern, um die Kosten für Fahrzeuge zu senken"
+"Öl-Raffinerie\nErobern, um die Kosten für Fahrzeuge zu senken."
 END
 
 OBJECT:SupplyDock
@@ -8075,7 +8079,7 @@ SCIENCE:EmergencyRepair3
 END
 
 MAP:CHI05Open
-"Hive City, Alphastan\n'Verbrannte Erde'"
+"Balykchy, Kirgistan\n'Verbrannte Erde'"
 END
 
 CONTROLBAR:ToolTipScienceEmergencyRepair
@@ -8107,7 +8111,7 @@ GUI:CloseExpScreen
 END
 
 TOOLTIP:CloseExpScreen
-"Zurück zum Spiel"
+"Zurück zum Spiel."
 END
 
 GUI:GPNoCommunicator
@@ -8127,19 +8131,19 @@ Network:PacketRouterTimeout
 END
 
 GUI:EstablishingConnectionPaths
-"Verbindungspfade werden aufgebaut"
+"Verbindungspfade werden aufgebaut."
 END
 
 UPGRADE:RadarVanScan
-"Radarabtastung"
+"Radarabtastung."
 END
 
 MAP:CHI04Open
-"Blacktop Gebirge, Asien\nOperation: Vertrauensbruch"
+"Tangula-Gebirge, China\nOperation: Vertrauensbruch"
 END
 
 MAP:GLA04Open
-"Tarmah\nVom Asiatischen Pakt besetzte Hauptstadt Deltastans"
+"Astana\nVon China besetzte Hauptstadt Kasachsastans"
 END
 
 MAP:USA07NewObjective2
@@ -8199,7 +8203,7 @@ CONTROLBAR:UpDownDescription
 END
 
 CONTROLBAR:DisarmMinesAtPosition
-"M&inen räumen"
+"M&inen räumen."
 END
 
 CONTROLBAR:ToolTipDisarmMinesAtPosition
@@ -8219,7 +8223,7 @@ GUI:GSDisconReason16
 END
 
 GUI:GSDisconReason17
-"Dieses Passwort ist ungültig. Bitte versuch's nochmal."
+"Dieses Passwort ist ungültig. Bitte versuche es nochmal."
 END
 
 GUI:GSDisconReason18
@@ -8239,15 +8243,15 @@ GUI:PlayerHasBeenDefeated
 END
 
 CONTROLBAR:UpgradeAmericaRangerCaptureBuilding
-"&Gebäude besetzen"
+"&Gebäude besetzen."
 END
 
 CONTROLBAR:UpgradeChinaRedguardCaptureBuilding
-"&Gebäude besetzen"
+"&Gebäude besetzen."
 END
 
 CONTROLBAR:UpgradeGLARebelCaptureBuilding
-"&Gebäude besetzen"
+"&Gebäude besetzen."
 END
 
 CONTROLBAR:DetonateBombTruck
@@ -8255,19 +8259,19 @@ CONTROLBAR:DetonateBombTruck
 END
 
 UPGRADE:RangerCaptureBuilding
-"Gebäude besetzen"
+"Gebäude besetzen."
 END
 
 UPGRADE:RedguardCaptureBuilding
-"Gebäude besetzen"
+"Gebäude besetzen."
 END
 
 UPGRADE:RebelCaptureBuilding
-"Gebäude besetzen"
+"Gebäude besetzen."
 END
 
 CONTROLBAR:TooltipDetonateBombTruck
-"Die Sprengladungen des Bomben-LKWs werden augenblicklich gezündet."
+"Zündet die Sprengladung des Bomben-LKW."
 END
 
 CONTROLBAR:ToolTipUSAUpgradeRangerCaptureBuilding
@@ -8275,11 +8279,11 @@ CONTROLBAR:ToolTipUSAUpgradeRangerCaptureBuilding
 END
 
 CONTROLBAR:ToolTipChinaUpgradeRedGuardCaptureBuilding
-"Standard-Cyborgs können feindliche und Hightech-Gebäude besetzen."
+"Rotgardisten können feindliche und Hightech-Gebäude besetzen."
 END
 
 CONTROLBAR:ToolTipGLAUpgradeRebelCaptureBuilding
-"MG-Cyborgs können feindliche und Hightech-Gebäude besetzen."
+"Rebellen können feindliche und Hightech-Gebäude besetzen."
 END
 
 GUI:Loading
@@ -8311,11 +8315,11 @@ MAP:TourneyArena
 END
 
 UPGRADE:AmericaDroneARmor
-"Drohnenpanzerung"
+"Drohnenpanzerung."
 END
 
 UPGRADE:APRockets
-"Panzerbrechende Raketen"
+"Panzerbrechende Raketen."
 END
 
 ThingTemplate:EuropeanTowerBridge01
@@ -8355,7 +8359,7 @@ GUI:RestartConfirmation
 END
 
 GUI:ErrorStartingGame
-"Fehler beim Start des Spiels"
+"Fehler beim Start des Spiels!"
 END
 
 GUI:TooManyPlayers
@@ -8371,7 +8375,7 @@ GUI:CantFindMap
 END
 
 GUI:EnterSaveDesc
-"Spielbeschreibung eingeben"
+"Spielbeschreibung eingeben."
 END
 
 GUI:MissionSave
@@ -8379,7 +8383,7 @@ GUI:MissionSave
 END
 
 GUI:SaveReplay
-"Wiederh. speichern"
+"Wiederholung speichern"
 END
 
 GUI:OverwriteReplayTitle
@@ -8439,11 +8443,11 @@ GUI:QuickMatchTitle
 END
 
 LOAD:TRAINING_1
-"– Die IBG kontrolliert eine Säurewaffenfabrik"
+"– Die IBG kontrolliert eine Chemiewaffenfabrik"
 END
 
 LOAD:TRAINING_2
-"– Zerstören Sie die Säurewaffenfabrik"
+"– Zerstören Sie die Chemiewaffenfabrik"
 END
 
 LOAD:TRAINING_3
@@ -8455,7 +8459,7 @@ LOAD:USA01_1
 END
 
 LOAD:USA01_2
-"– Ihr Stützpunkt ist in Twin Sword City"
+"– Ihr Stützpunkt ist in Bagdad"
 END
 
 LOAD:USA01_3
@@ -8463,7 +8467,7 @@ LOAD:USA01_3
 END
 
 LOAD:USA02_1
-"– Wir haben die Führer der IBG in Jaman geortet"
+"– Wir haben die Führer der IBG im Jemen geortet"
 END
 
 LOAD:USA02_2
@@ -8487,7 +8491,7 @@ LOAD:USA03_3
 END
 
 LOAD:USA04_1
-"– Baustätte der IBG geortet"
+"– Ausbildungslager der IBG geortet"
 END
 
 LOAD:USA04_2
@@ -8495,7 +8499,7 @@ LOAD:USA04_2
 END
 
 LOAD:USA06_1
-"– Friedenskonferenz in Kamala"
+"– Friedenskonferenz in Kabara"
 END
 
 LOAD:USA06_2
@@ -8523,7 +8527,7 @@ LOAD:USA08_1
 END
 
 LOAD:USA08_2
-"– Die IBG hat Säurewaffen"
+"– Die IBG hat chemische Waffen"
 END
 
 LOAD:USA08_3
@@ -8543,23 +8547,23 @@ LOAD:China01_2
 END
 
 LOAD:China01_3
-"– Eliminieren Sie alle Feinde im Einzugsgebiet"
+"– Eliminieren Sie alle Feinde im Einzugsgebiet von Peking"
 END
 
 LOAD:China02_1
-"– In New Harbor City wurde eine IBG-Zelle enttarnt"
+"– In Hong Kong wurde eine IBG-Zelle enttarnt"
 END
 
 LOAD:China02_2
-"– Die IBG nutzt das Tagungszentrum als Basis"
+"– Die Terroristen nutzen das Tagungszentrum als Basis"
 END
 
 LOAD:China02_3
-"– Die IBG muss vernichtet werden"
+"– Die Terroristen müssen vernichtet werden"
 END
 
 LOAD:China03_1
-"– Die IBG ist am Drei Turbinen Damm aktiv"
+"– Die IBG ist am Drei Schluchten Damm aktiv"
 END
 
 LOAD:China03_2
@@ -8571,11 +8575,11 @@ LOAD:China03_3
 END
 
 LOAD:China04_1
-"– Die IBG hat eine Säurewaffenfabrik gebaut"
+"– Die IBG hat eine Chemiewaffenfabrik gebaut"
 END
 
 LOAD:China04_2
-"– Black Bot muss die Fabrik finden"
+"– Black Lotus muss die Fabrik finden"
 END
 
 LOAD:China04_3
@@ -8583,11 +8587,11 @@ LOAD:China04_3
 END
 
 LOAD:China05_1
-"– Die IBG hat Hive City besetzt"
+"– Die IBG hat Balykchy besetzt"
 END
 
 LOAD:China05_2
-"– Die Westliche Allianz schickt Luftunterstützung"
+"– Die WA schicken Luftunterstützung"
 END
 
 LOAD:China05_3
@@ -8599,15 +8603,15 @@ LOAD:China06_1
 END
 
 LOAD:China06_2
-"– Die IBG sammelt sich in Ramkek, Betastan"
+"– Die IBG sammelt sich in Bishkek, Aldastan"
 END
 
 LOAD:China06_3
-"– Black Bot muss die Eisenbahnbrücke zerstören"
+"– Black Lotus muss die Eisenbahnbrücke zerstören"
 END
 
 LOAD:China07_1
-"– Splittergruppe in Bokmenistan enttarnt"
+"– Splittergruppe in Tadschikistan enttarnt"
 END
 
 LOAD:China07_2
@@ -8627,7 +8631,7 @@ LOAD:GLA01_3
 END
 
 LOAD:GLA02_1
-"– Hilfsgüter sind unterwegs nach Iron City"
+"– UN Hilfsgüter sind unterwegs nach Almaty"
 END
 
 LOAD:GLA02_2
@@ -8639,7 +8643,7 @@ LOAD:GLA02_3
 END
 
 LOAD:GLA03_1
-"– Tyrannen haben die Bürger Zhumbars manipuliert"
+"– Tyrannen haben die Bürger Zhambuls manipuliert"
 END
 
 LOAD:GLA03_2
@@ -8647,11 +8651,11 @@ LOAD:GLA03_2
 END
 
 LOAD:GLA03_3
-"– Eliminieren Sie sie mit Säuretraktoren"
+"– Eliminieren Sie sie mit Toxin-Traktoren"
 END
 
 LOAD:GLA04_1
-"– Wir haben in Tarmah neue Verbündete gefunden"
+"– Wir haben in Astana neue Verbündete gefunden"
 END
 
 LOAD:GLA04_2
@@ -8659,7 +8663,7 @@ LOAD:GLA04_2
 END
 
 LOAD:GLA04_3
-"– Plündern Sie die brennende Stadt Tarmah"
+"– Plündern Sie die brennende Stadt Astana"
 END
 
 LOAD:GLA05_1
@@ -8679,7 +8683,7 @@ LOAD:GLA06_1
 END
 
 LOAD:GLA06_2
-"– Die Westliche Allianz hat unser Säurewaffenlager besetzt"
+"– Die Westliche Allianz hat unser Chemiewaffenlager besetzt"
 END
 
 LOAD:GLA06_3
@@ -8715,15 +8719,19 @@ TOOLTIP:DownloadProgress
 END
 
 TOOLTIP:BattleHonorBlitz10
-"Blitzkrieg-Orden\nSchlage deine(n) Gegner innerhalb von 10 Minuten, um diese Medaille zu erhalten."
+"Blitzkrieg-Orden\nDer Spieler hat die Computergegner in 10 Minuten (oder schneller) geschlagen."
 END
 
 TOOLTIP:BattleHonorBlitz5
-"Blitzkrieg-Orden\nSchlage deine(n) Gegner innerhalb von 5 Minuten, um diese Medaille zu erhalten."
+"Blitzkrieg-Orden\nDer Spieler hat die Computergegner in 5 Minuten (oder schneller) geschlagen."
+END
+
+TOOLTIP:BattleHonorStreak3Disabled
+"Siegesmedaille\nFür diese Auszeichnung musst du 3 Spiele in Folge gewinnen."
 END
 
 TOOLTIP:BattleHonorLoyaltyUSADisabled
-"Loyalitätsorden der WA\nKämpfe 20 oder mehr Spiele in Folge für die WA!"
+"Loyalitätsorden der Westlichen Allianz\nKämpfe 20 oder mehr Spiele in Folge für die WA!"
 END
 
 TOOLTIP:BattleHonorLoyaltyChinaDisabled
@@ -8747,15 +8755,19 @@ TOOLTIP:BattleHonorEnduranceDisabled
 END
 
 TOOLTIP:BattleHonorCampaignUSADisabled
-"Ehrenmedaille der Westlichen Allianz\nMeistere die WA-Kampagne. Meistere die Kampagne im höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten"
+"Ehrenmedaille der Westlichen Allianz\nMeistere die WA-Kampagne. Meistere die Kampagne auf dem höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten."
 END
 
 TOOLTIP:BattleHonorCampaignChinaDisabled
-"Ehrenmedaille des Asiatischen Pakts\nMeistere die AP-Kampagne. Meistere die Kampagne im höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten"
+"Ehrenmedaille des Asiatischen Pakts\nMeistere die AP-Kampagne. Meistere die Kampagne auf dem höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten"
 END
 
 TOOLTIP:BattleHonorCampaignGLADisabled
-"Ehrenmedaille der IBG\nMeistere die IBG-Kampagne. Meistere die Kampagne im höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten"
+"Ehrenmedaille der IBG\nMeistere die IBG-Kampagne. Meistere die Kampagne auf dem höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten"
+END
+
+TOOLTIP:BattleHonorBlitz10Disabled
+"Blitzkrieg-Orden\nGewinne in 10 Minuten (oder schneller) gegen Computergegner!"
 END
 
 TOOLTIP:BattleHonorChallengeDisabled
@@ -8911,7 +8923,7 @@ MAP:BigRivers
 END
 
 MAP:CHI01Open
-"Asiatische Militärparade, Dragon City\n'Der Drache erwacht'"
+"Asiatische Militärparade, Peking\n'Der Drache erwacht'"
 END
 
 MAP:CHI03Obj1Done
@@ -8927,35 +8939,35 @@ MAP:CHI07Obj2
 END
 
 MAP:GLA02OpenAlt2
-"Dörfer bei Iron City, Deltastan\nSichern Sie die Hilfsgüter für unsere Sache!"
+"Dörfer bei Almaty, Kasachstan\nSichern Sie die Hilfsgüter für unsere Sache!"
 END
 
 MAP:GLA02OpenAlt1
-"Dörfer bei Iron City, Deltastan\nOperation: Plünderung"
+"Dörfer bei Almaty, Kasachstan\nOperation: Plünderung"
 END
 
 MAP:GLA06OpenAlt2
-"Westufer des Northern Sea, Deltastan\nVernichten Sie den Westen mit seinen eigenen Säurewaffen!"
+"Westufer des Aralsees, Kasachstan\nVernichten Sie den Westen mit seinen eigenen Chemiewaffen!"
 END
 
 MAP:GLA06OpenAlt1
-"Westufer des Northern Sea, Deltastan\nOperation: Giftgas"
+"Westufer des Aralsees, Kasachstan\nOperation: Giftgas"
 END
 
 MAP:GLA07OpenAlt2
-"Bei Lendor, Deltastan\nZeigen Sie der Welt, was mit Verrätern passiert."
+"Bei Lenger, Kasachstan\nZeigen Sie der Welt, was mit Verrätern passiert."
 END
 
 MAP:GLA07OpenAlt
-"Bei Lendor, Deltastan\nOperation: Trojanisches Pferd"
+"Bei Lenger, Kasachstan\nOperation: Trojanisches Pferd"
 END
 
 MAP:GLA03Open02
-"Zhumbar, Deltastan\nOperation: Feuer der Gerechtigkeit"
+"Zhambul, Kasachstan\nOperation: Feuer der Gerechtigkeit"
 END
 
 MAP:GLA03Directive
-"Spionagebericht:\nZerstören Sie die pharmazeutische Fabrik, um die Säure-Bombe sicherzustellen."
+"Spionagebericht:\nZerstören Sie die pharmazeutische Fabrik, um die Anthrax-Bombe sicherzustellen."
 END
 
 MAP:USA02Hint1Text
@@ -8975,7 +8987,7 @@ MAP:USA04Hint1Text
 END
 
 MAP:NVIDIATEXT
-"MAP:NVIDIATEXT"
+"Command & Conquer Generals\nComing February 2003"
 END
 
 MAP:USA06ObjHint2
@@ -8995,11 +9007,11 @@ MAP:GLA03Objective08
 END
 
 MAP:GLA05Open
-"Ladnan, Khaleigh\nWA Luftwaffenstützpunkt"
+"Adana, Türkei\nWA Luftwaffenstützpunkt"
 END
 
 SCRIPT:GLA05Directive03
-"WARNUNG:\nWA-Bomber im Anflug.\nBauen Sie Stinger-Stellungen, um den Stützpunkt zu verteidigen."
+"WARNUNG:\nWA Bomber im Anflug.\nBauen Sie Stinger-Stellungen, um den Stützpunkt zu verteidigen."
 END
 
 SCRIPT:GLA05Directive04
@@ -9007,15 +9019,15 @@ SCRIPT:GLA05Directive04
 END
 
 SCRIPT:GLA05Directive05
-"WARNUNG:\nWA-Bomber im Anflug.\nSchießen Sie die feindlichen Maschinen mit Stinger-Raketen und Vierlingsgeschützen ab."
+"WARNUNG:\nWA Bomber im Anflug.\nSchießen Sie die feindlichen Maschinen mit Stinger-Raketen und Vierlingsgeschützen ab."
 END
 
 MAP:GLA08Open
-"Space Port, südliches Deltastan\nWeltraumbahnhof"
+"Baikonur, südliches Kasachstan\nRussischer Weltraumbahnhof"
 END
 
 MAP:GLA08Open02
-"Südliches Deltastan\nKosmodrom von Space Port"
+"Südliches Kasachstan\nKosmodrom von Baikonur"
 END
 
 SCRIPT:GLA08Objective01
@@ -9079,7 +9091,7 @@ MAP:USA08Open
 END
 
 MAP:USA08OpenAlt
-"Hightower Fortress, Deltastan\nOperation: Letzter Aufruf"
+"Akmola, Kasachstan\nOperation: Letzter Aufruf"
 END
 
 MAP:USA08Objective01
@@ -9103,7 +9115,7 @@ MAP:USA08MineWarn
 END
 
 MAP:USA08GLABaseKIA
-"Der IBG-Stützpunkt ist zerstört.\nEliminieren Sie die überlebenden Feinde, um den Krieg zu gewinnen!"
+"Der IBG-Stützpunkt ist zerstört.\nEliminieren Sie die überlebenden Terroristen, um den Krieg zu gewinnen!"
 END
 
 CONTROLBAR:TooltipCarpetBomb
@@ -9135,7 +9147,7 @@ MAP:TrainingSalvage
 END
 
 MAP:TrainingUpgrade
-"Kaufe in verschiedenen Gebäuden Upgrades, um deine Einheiten zu verbessern. Linksklicke zuerst auf die Cyborg-Kaserne und anschließend auf die Schaltfläche 'Gebäude besetzen'. Nun können deine Ranger feindliche Gebäude besetzen."
+"Kaufe in verschiedenen Gebäuden Upgrades, um deine Einheiten zu verbessern. Linksklicke zuerst auf die Kaserne und anschließend auf die Schaltfläche 'Gebäude besetzen'. Nun können deine Ranger feindliche Gebäude besetzen."
 END
 
 GUI:SaveAndContinue
@@ -9155,7 +9167,7 @@ TOOLTIP:Disconnect
 END
 
 TOOLTIP:Ladder
-"Wähle die Rangliste aus, in der du spielen möchtest"
+"Wähle die Rangliste aus, in der du spielen möchtest."
 END
 
 TOOLTIP:QuickMatchStatus
@@ -9175,11 +9187,11 @@ TOOLTIP:GamesBeingformed
 END
 
 TOOLTIP:EmoteText
-"Linksklicken, um Text einzugeben"
+"Linksklicken, um Text einzugeben."
 END
 
 CONTROLBAR:ToolTipChinaScienceCashHack
-"Stehlen Sie Geld aus feindlichen Nachschublagern. Sie können nicht mehr Geld stehlen, als der Feind hat.\n\nRang 1: $1.000\nRang 2: $2.000\nRang 3: $4.000\n\nAusgangspunkt: Kommandozentrale"
+"Stehlen Sie Geld aus feindlichen Nachschublagern. Sie können nicht mehr Geld stehlen, als der Feind hat.\n\nRang 1: 1.000 $\nRang 2: 2.000 $\nRang 3: 4.000 $\n\nProduktionsstätte: Kommandozentrale"
 END
 
 GUI:TRAINING
@@ -9195,7 +9207,7 @@ TOOLTIP:SupplyDock
 END
 
 TOOLTIP:TechBuilding
-"Hightech-Gebäude"
+"Hightech-Gebäude."
 END
 
 TOOLTIP:Mission1
@@ -9295,7 +9307,7 @@ MAP:USA01OBJOpen
 END
 
 MAP:TrainingWarFactory
-"EINSATZZIEL:\nBauen Sie mit dem BULLDOZER eine WAFFENFABRIK."
+"EINSATZZIEL:\nBauen Sie mit dem Bulldozer eine Waffenfabrik."
 END
 
 TOOLTIP:MapNoSuccess
@@ -9387,23 +9399,23 @@ MAP:CHI04Objective1Text
 END
 
 MAP:CHI04Objective2Text
-"EINSATZZIEL:\nBlack Bot muss die asiatische Waffenfabrik einnehmen."
+"EINSATZZIEL:\nBlack Lotus muss die asiatische Waffenfabrik einnehmen."
 END
 
 MAP:CHI04Objective3Text
-"EINSATZZIEL:\nZerstören Sie die Stinger-Stellungen an der Säurefabrik."
+"EINSATZZIEL:\nZerstören Sie die Stinger-Stellungen an der Chemiefabrik."
 END
 
 MAP:CHI04Hint1Text
-"TIPP:\nBlack Bot kann feindliche Fahrzeuge deaktivieren."
+"TIPP:\nBlack Lotus kann feindliche Fahrzeuge deaktivieren."
 END
 
 MAP:CHI04Hint2Text
-"TIPP:\nVerbessern Sie ihr Einkommen mit Cyborg-Hackern."
+"TIPP:\nVerbessern Sie ihr Einkommen mit Hackern."
 END
 
 MAP:CHI04Hint3Text
-"TIPP:\nBlack Bot kann sich in den Computer des feindlichen Nachschublagers hacken."
+"TIPP:\nBlack Lotus kann sich in den Computer des feindlichen Nachschublagers hacken."
 END
 
 GUI:GotoMainMenu
@@ -9411,19 +9423,19 @@ GUI:GotoMainMenu
 END
 
 TOOLTIP:BattleHonorFairPlay
-"Fair Play-Medaille\nBreche weniger als 10% der Online-Spiele (bei mindestens 10 absolvierten Spielen) ab, um diese Medaille zu erhalten"
+"Fair Play-Medaille\nBreche weniger als 10% der Online-Spiele (bei mindestens 10 absolvierten Spielen) ab, um diese Medaille zu erhalten."
 END
 
 TOOLTIP:BattleHonorApocalypse
-"Apokalypse-Orden\nDer Spieler hat die Partikelkanone, das Nukleargeschütz und den SCUD-Sturm in einem Einzelspieler- oder Multiplayer-Spiel gebaut."
+"Apokalypse-Orden\nDer Spieler hat die Partikelkanone, das Atomraketen-Silo und den SCUD-Sturm in einem Einzelspieler- oder Multiplayer-Spiel gebaut."
 END
 
 TOOLTIP:BattleHonorFairPlayDisabled
-"Fair Play-Medaille\nBreche weniger als 10% der Online-Spiele (bei mindestens 10 absolvierten Spielen) ab, um diese Medaille zu erhalten"
+"Fair Play-Medaille\nBreche weniger als 10% der Online-Spiele (bei mindestens 10 absolvierten Spielen) ab, um diese Medaille zu erhalten."
 END
 
 TOOLTIP:BattleHonorApocalypseDisabled
-"Apokalypse-Orden\nBaue die Partikelkanone, das Nukleargeschütz und den SCUD-Sturm."
+"Apokalypse-Orden\nBaue die Partikelkanone, das Atomraketen-Silo und den SCUD-Sturm in einem Einzel- oder Mehrspieler-Spiel."
 END
 
 TOOLTIP:BattleHonorPreorder
@@ -9503,19 +9515,19 @@ CONTROLBAR:GeneralsExpDescription
 END
 
 TOOLTIP:TooltipNukeReactorOverChargeIsOn
-"Überladung ist EINgeschaltet."
+"Überlastung ist eingeschaltet."
 END
 
 TOOLTIP:TooltipNukeReactorOverChargeIsOff
-"Überladung ist AUSgeschaltet."
+"Überlastung ist ausgeschaltet."
 END
 
 GUI:ESRB_Top
-"*"
+"ESRB Notice:"
 END
 
 GUI:ESRB_Bottom
-"*"
+"Game Experience May\nChange During Online Play"
 END
 
 GUI:ReplaySaved
@@ -9567,7 +9579,7 @@ GUI:ScatterDescription
 END
 
 OBJECT:TrainWreckBridge
-"Zerstörte Eisenbahnbrücke"
+"Zerstörte Eisenbahnbrücke."
 END
 
 MAP:BarrenBadlands
@@ -9659,7 +9671,7 @@ MAP:ArmoredFury
 END
 
 MAP:InfiniteJustice
-"Cairo Commandos"
+"Infinite Justice"
 END
 
 MAP:Whiteout
@@ -9699,7 +9711,7 @@ MAP:TournamentLadder04
 END
 
 MAP:TrainingGLAHole
-"IBG-Gebäude verfügen über unterirdische Bunker zum Schutz der Arbeitsbots. Nach der Zerstörung eines IBG-Gebäudes bleibt ein tiefes Loch zurück. Die dort versteckten Arbeitsbots bauen das Gebäude später wieder auf. Greife das Loch an, um dies zu verhindern!"
+"IBG-Gebäude verfügen über unterirdische Bunker zum Schutz der Arbeiter. Nach der Zerstörung eines IBG-Gebäudes bleibt ein tiefes Loch zurück. Die dort versteckten Arbeiter bauen das Gebäude später wieder auf. Greife das Loch an, um dies zu verhindern!"
 END
 
 TOOLTIP:BattleHonorStreak25
@@ -9707,11 +9719,11 @@ TOOLTIP:BattleHonorStreak25
 END
 
 GUI:InsertCDPrompt
-"CD nicht gefunden"
+"CD/DVD nicht gefunden"
 END
 
 GUI:InsertCDMessage
-"Bitte lege die Spiel-CD 1 ein."
+"Bitte lege die Spiel-CD/DVD 1 ein."
 END
 
 CONTROLBAR:OrRequirement
@@ -9723,11 +9735,11 @@ SCRIPT:USA02RescueCounter
 END
 
 GUI:AddCash
-"$%d"
+"+%d $"
 END
 
 GUI:LoseCash
-"-$%d"
+"-%d $"
 END
 
 RADAR:HarvesterUnderAttack
@@ -9735,7 +9747,7 @@ RADAR:HarvesterUnderAttack
 END
 
 OBJECT:PharmaceuticalFactory
-"Säurefabrik"
+"Chemiefabrik"
 END
 
 GUI:CareerWins
@@ -9747,7 +9759,7 @@ GUI:CareerLosses
 END
 
 GUI:CurrentWinStreak
-"Akt. Siegesserie:"
+"Aktuelle Siegesserie:"
 END
 
 GUI:CarrerWinPercent
@@ -9815,47 +9827,47 @@ OBJECT:CargoPlane
 END
 
 OBJECT:HuNanProvince
-"Dragon City"
+"Peking"
 END
 
 OBJECT:HongKong
-"New Harbor City"
+"Hong Kong"
 END
 
 OBJECT:HubeiProvince
-"Turbinen Damm"
+"Drei Schluchten\nDamm"
 END
 
 OBJECT:Tangula
-"Blacktop Gebirge"
+"Tangula-Gebirge"
 END
 
 OBJECT:Balykchy
-"Hive City"
+"Balykchy"
 END
 
 OBJECT:Bishkek
-"Ramkek"
+"Bishkek"
 END
 
 OBJECT:Dushanbe
-"Black Rock City"
+"Dushanbe"
 END
 
 OBJECT:Shymkent
-"Kobey Village"
+"Shymkent"
 END
 
 OBJECT:Almaty
-"Iron City"
+"Almaty"
 END
 
 OBJECT:Zambul
-"Zhumbar"
+"Zhambul"
 END
 
 OBJECT:Astana
-"Tarmah"
+"Astana"
 END
 
 OBJECT:Incirlik
@@ -9863,47 +9875,47 @@ OBJECT:Incirlik
 END
 
 OBJECT:AralSea
-"Northern Sea"
+"Aralsee"
 END
 
 OBJECT:Lenger
-"Lendor"
+"Lenger"
 END
 
 OBJECT:Baikonur
-"Space Port"
+"Baikonur"
 END
 
 OBJECT:Mazar
-"Bazar"
+"Mazar"
 END
 
 OBJECT:Baghdad
-"Twin Sword City"
+"Bagdad"
 END
 
 OBJECT:AlHanad
-"Sandstorm City"
+"Al Hanad"
 END
 
 OBJECT:NorthKazakhstan
-"Nord-Deltastan"
+"Nördliches Kasachstan"
 END
 
 OBJECT:KazakhstanCoast
-"Deltastan, Küste"
+"Kasachstan, Küste"
 END
 
 OBJECT:KazakhstanDMZ
-"Deltastan DMZ"
+"Kasachstan DMZ"
 END
 
 OBJECT:SouthKazkahstan
-"Südost-Deltastan"
+"Südliches Kasachstan"
 END
 
 OBJECT:Akmola
-"Hightower Fortress"
+"Akmola"
 END
 
 SCRIPT:GLA03Objective01a
@@ -9911,7 +9923,7 @@ SCRIPT:GLA03Objective01a
 END
 
 SCRIPT:GLA03Objective02a
-"EINSATZZIEL:\nEliminieren Sie mit den Säuretraktoren 200 Verräter."
+"EINSATZZIEL:\nEliminieren Sie 200 Verräter mit den Toxin-traktoren."
 END
 
 TOOLTIP:Campaign1
@@ -9939,7 +9951,7 @@ GUI:Persona
 END
 
 GUI:TextureHigh
-"Hoch (langsamer)"
+"Hohe Qualität"
 END
 
 GUI:TextureMedium
@@ -9947,7 +9959,7 @@ GUI:TextureMedium
 END
 
 GUI:TextureLow
-"Niedrig (schneller)"
+"Niedrige Qualität"
 END
 
 GUI:GameSpeed
@@ -9991,15 +10003,15 @@ GUI:AcceptSm
 END
 
 GUI:EasyCaps
-"LEICHT"
+"Leicht"
 END
 
 GUI:MediumDifficultyCaps
-"MITTEL"
+"Mittel"
 END
 
 GUI:HardCaps
-"SCHWER"
+"Schwer"
 END
 
 TOOLTIP:AdvanceOptionsAccept
@@ -10235,7 +10247,7 @@ GUI:WinnersLastWeek
 END
 
 MOTD:NumPlayersHeading
-"Willkommen bei Generäle - Die Stunde Null Online."
+"Willkommen bei Generäle - Die Stunde Null Online.\nIm Moment sind %d Spieler online."
 END
 
 TOOLTIP:GameAcceptance
@@ -10975,7 +10987,7 @@ GUI:InternetDisconnectionMenuHeaderCaps
 END
 
 GUI:InternetDisconnectionMenuBody1
-"Einer oder mehr Spieler haben die Verbindung zu Generäle Online verloren. Stimme ab, ob sie aus der Spielrunde rausgeworfen werden sollen."
+"Einer oder mehr Spieler haben die Verbindung zu Generäle - Die Stunde Null Online verloren. Stimme ab, ob sie aus der Spielrunde rausgeworfen werden sollen."
 END
 
 GUI:InternetDisconnectionMenuBody2
@@ -11051,7 +11063,7 @@ CREDITS:DevelopmentTitle2
 END
 
 CREDITS:EAPacificDevTeam2
-"Command & Conquer Generäle - Die Stunde Null"
+"Development Team"
 END
 
 GUI:MustHaveAdminRights
@@ -11075,7 +11087,7 @@ GUI:AdditionalLocalizationManagement
 END
 
 GUI:GroupRoom4
-"4 gg. 4"
+"4 vs. 4"
 END
 
 GUI:GroupRoom5
@@ -11115,11 +11127,11 @@ GUI:GroupRoom13
 END
 
 GUI:ControlOptions
-"BEFEHLSOPTIONEN"
+"Befehlsoptionen"
 END
 
 GUI:ClassicMouse
-"Klassisch"
+"Klassische Mausbelegung"
 END
 
 GUI:AlternateMouse
@@ -11155,7 +11167,7 @@ GUI:DemoMD_CampEADemoTitle
 END
 
 TOOLTIP:TooltipCannotBuildBuildingBecauseMaximumNumber
-"Gebäude existiert bereits"
+"Gebäude existiert bereits."
 END
 
 TOOLTIP:MapMaxBrutalSuccess
@@ -11191,7 +11203,7 @@ GUI:StartingMoney
 END
 
 GUI:StartingMoneyFormat
-"$%u"
+"$ %u"
 END
 
 TOOLTIP:StartingMoney
@@ -11203,7 +11215,7 @@ GUI:LimitSuperweapons
 END
 
 TOOLTIP:LimitSuperweapons
-"Aktivierst du diese Option, hat jeder Spieler maximal EINE Partikelkanone oder andere Superwaffe."
+"Aktivierst du diese Option, hat jeder Spieler maximal eine Superwaffe jeder Art."
 END
 
 TOOLTIP:BattleHonorStreak100
@@ -11243,15 +11255,15 @@ TOOLTIP:BattleHonorStreak1000Online
 END
 
 TOOLTIP:BattleHonorDomination100
-"Vorherrschaftsmedaille\nDer Spieler hat über 100 Gefechte gewonnen. Nach 100, 500, 1000 und 10.000 Siegen bekommst du eine Medaille"
+"Vorherrschaftsmedaille\nDer Spieler hat über 100 Gefechte gewonnen.\nNach 100, 500, 1000 und 10.000 Siegen bekommst du eine Medaille"
 END
 
 TOOLTIP:BattleHonorDomination500
-"Vorherrschaftsmedaille\nDer Spieler hat über 500 Gefechte gewonnen. Nach 100, 500, 1000 und 10.000 Siegen bekommst du eine Medaille"
+"Vorherrschaftsmedaille\nDer Spieler hat über 500 Gefechte gewonnen.\nNach 100, 500, 1000 und 10.000 Siegen bekommst du eine Medaille"
 END
 
 TOOLTIP:BattleHonorDomination1000
-"Vorherrschaftsmedaille\nDer Spieler hat über 1000 Gefechte gewonnen. Nach 100, 500, 1000 und 10.000 Siegen bekommst du eine Medaille"
+"Vorherrschaftsmedaille\nDer Spieler hat über 1000 Gefechte gewonnen.\nNach 100, 500, 1000 und 10.000 Siegen bekommst du eine Medaille"
 END
 
 TOOLTIP:BattleHonorDomination10000
@@ -11259,15 +11271,15 @@ TOOLTIP:BattleHonorDomination10000
 END
 
 TOOLTIP:BattleHonorDomination100Online
-"Vorherrschaftsmedaille\nDer Spieler hat über 100 Online-Spiele gewonnen. Nach 100, 500, 1000 und 10.000 Siegen bekommst du eine Medaille"
+"Vorherrschaftsmedaille\nDer Spieler hat über 100 Online-Spiele gewonnen.\nNach 100, 500, 1000 und 10.000 Siegen bekommst du eine Medaille"
 END
 
 TOOLTIP:BattleHonorDomination500Online
-"Vorherrschaftsmedaille\nDer Spieler hat über 500 Online-Spiele gewonnen. Nach 100, 500, 1000 und 10.000 Siegen bekommst du eine Medaille"
+"Vorherrschaftsmedaille\nDer Spieler hat über 500 Online-Spiele gewonnen.\nNach 100, 500, 1000 und 10.000 Siegen bekommst du eine Medaille"
 END
 
 TOOLTIP:BattleHonorDomination1000Online
-"Vorherrschaftsmedaille\nDer Spieler hat über 1000 Online-Spiele gewonnen. Nach 100, 500, 1000 und 10.000 Siegen bekommst du eine Medaille"
+"Vorherrschaftsmedaille\nDer Spieler hat über 1000 Online-Spiele gewonnen.\nNach 100, 500, 1000 und 10.000 Siegen bekommst du eine Medaille"
 END
 
 TOOLTIP:BattleHonorDomination10000Online
@@ -11275,7 +11287,7 @@ TOOLTIP:BattleHonorDomination10000Online
 END
 
 TOOLTIP:BattleHonorCampaignChallenge
-"Herausforderungsorden\nMeistere die Generalsherausforderung, um diesen Orden zu erhalten. Meistere sie im höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten"
+"Herausforderungsorden\nMeistere die Generalsherausforderung, um diesen Orden zu erhalten. Meistere sie auf dem höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten"
 END
 
 TOOLTIP:BattleHonorUltimate
@@ -11295,7 +11307,7 @@ TOOLTIP:BattleHonorStreakOnlineDisabled
 END
 
 TOOLTIP:BattleHonorCampaignChallengeDisabled
-"Herausforderungsorden\nMeistere die Generalsherausforderung, um diesen Orden zu erhalten. Meistere sie im höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten"
+"Herausforderungsorden\nMeistere die Generalsherausforderung, um diesen Orden zu erhalten. Meistere sie auf dem höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten."
 END
 
 TOOLTIP:BattleHonorUltimateDisabled
@@ -11343,55 +11355,55 @@ GUI:SupW_SuperweaponTomahawkStorm
 END
 
 GUI:SupW_SuperweaponNeutronMissile
-"IKB-Rakete"
+"Neutronenbombe"
 END
 
 INI:FactionAmericaSuperWeaponGeneral
-"WA – Superwaffen-General"
+"WA - Superwaffen-General"
 END
 
 INI:FactionAmericaLaserGeneral
-"WA – Laser-General"
+"WA - Laser-General"
 END
 
 INI:FactionAmericaAirForceGeneral
-"WA – Luftwaffen-General"
+"WA - Luftwaffen-General"
 END
 
 INI:FactionAmericaCommanderInChief
-"WA – Befehlshabender Kommandeur"
+"WA - Befehlshabender Kommandeur"
 END
 
 INI:FactionChinaTankGeneral
-"AP – Panzer-General"
+"AP - Panzer-General"
 END
 
 INI:FactionChinaInfantryGeneral
-"AP – Cyborg-General"
+"AP - Infanterie-General"
 END
 
 INI:FactionChinaNukeGeneral
-"AP – Nuklear-General"
+"AP - Nuklear-General"
 END
 
 INI:FactionChinaCommanderInChief
-"AP – Befehlshabender Kommandeur"
+"AP - Befehlshabender Kommandeur"
 END
 
 INI:FactionGLAToxinGeneral
-"IBG – Säure-General"
+"IBG - Toxin-General"
 END
 
 INI:FactionGLADemolitionGeneral
-"IBG – TNT-General"
+"IBG - TNT-General"
 END
 
 INI:FactionGLAStealthGeneral
-"IBG – Undercover-General"
+"IBG - Tarn-General"
 END
 
 INI:FactionGLACommanderInChief
-"IBG – Befehlshabender Kommandeur"
+"IBG - Befehlshabender Kommandeur"
 END
 
 INI:FactionBossGeneral
@@ -11399,39 +11411,39 @@ INI:FactionBossGeneral
 END
 
 SIDE:AmericaSuperWeaponGeneral
-"WA – Superwaffen-General"
+"WA - Superwaffen-General"
 END
 
 SIDE:AmericaLaserGeneral
-"WA – Laser-General"
+"WA - Laser-General"
 END
 
 SIDE:AmericaAirForceGeneral
-"WA – Luftwaffen-General"
+"WA - Luftwaffen-General"
 END
 
 SIDE:ChinaTankGeneral
-"AP – Panzer-General"
+"AP - Panzer-General"
 END
 
 SIDE:ChinaInfantryGeneral
-"AP – Cyborg-General"
+"AP - Infanterie-General"
 END
 
 SIDE:ChinaNukeGeneral
-"AP – Nuklear-General"
+"AP - Nuklear-General"
 END
 
 SIDE:GLAToxinGeneral
-"IBG – Säure-General"
+"IBG - Toxin-General"
 END
 
 SIDE:GLADemolitionGeneral
-"IBG – TNT-General"
+"IBG - TNT-General"
 END
 
 SIDE:GLAStealthGeneral
-"IBG – Undercover-General"
+"IBG - Tarn-General"
 END
 
 SIDE:Boss
@@ -11455,7 +11467,7 @@ SCIENCE:USALeafletDrop
 END
 
 SCIENCE:ChinaTankHunterTraining
-"Panzerjäger-Training"
+"Panzerjäger-Ausbildung"
 END
 
 SCIENCE:ChinaBattleMasterTraining
@@ -11511,19 +11523,19 @@ SCIENCE:ChinaTankParadrop3
 END
 
 SCIENCE:ChinaInfantryParadrop1
-"Cyborg-Abwurf 1"
+"Rotgardisten-Abwurf 1"
 END
 
 SCIENCE:ChinaInfantryParadrop2
-"Cyborg-Abwurf 2"
+"Rotgardisten-Abwurf 2"
 END
 
 SCIENCE:ChinaInfantryParadrop3
-"Cyborg-Abwurf 3"
+"Rotgardisten-Abwurf 3"
 END
 
 CONTROLBAR:NoHotKeyFrenzy
-"Boost"
+"Wahnsinn"
 END
 
 CONTROLBAR:CIAIntelligenceShortcut
@@ -11615,7 +11627,7 @@ CONTROLBAR:ConstructChinaInfantryPropagandaTrooper
 END
 
 CONTROLBAR:ConstructChinaInfantryMiniGunner
-"M&inigun-Cyborg"
+"M&inigunner"
 END
 
 CONTROLBAR:ConstructAmericaJetKingRaptor
@@ -11655,7 +11667,7 @@ CONTROLBAR:ConstructChinaInfantryNukeHunter
 END
 
 CONTROLBAR:ConstructAmericaICBMLauncher
-"&IKBR"
+"&ICBM"
 END
 
 CONTROLBAR:ConstructChinaVehicleListeningOutpost
@@ -11795,7 +11807,7 @@ CONTROLBAR:UpgradeGLACamoNetting
 END
 
 CONTROLBAR:UpgradeGLAAnthraxGamma
-"Gamma-Upgrade"
+"Anthrax Gamma"
 END
 
 CONTROLBAR:UpgradeGLAWorkerShoes
@@ -11827,11 +11839,11 @@ CONTROLBAR:NeutronMissileShortcut
 END
 
 CONTROLBAR:ICBM
-"&IKBR"
+"&ICBM"
 END
 
 CONTROLBAR:ICBMShortcut
-"IKBR"
+"ICBM"
 END
 
 CONTROLBAR:ScudStormShortcut
@@ -11867,7 +11879,7 @@ CONTROLBAR:NukeDrop
 END
 
 CONTROLBAR:Frenzy
-"Boost"
+"Wahnsinn"
 END
 
 CONTROLBAR:RadarVanScanShortcut
@@ -11887,7 +11899,7 @@ CONTROLBAR:BattleshipFire
 END
 
 CONTROLBAR:AircraftCarrierFire
-"Raptor-Attacke von Flugzeugträger"
+"Raptor-Attacke vom Flugzeugträger"
 END
 
 CONTROLBAR:ECMDisableVehicle
@@ -11911,7 +11923,7 @@ UPGRADE:AmericaSentryDroneGun
 END
 
 UPGRADE:AmericaMOAB
-"MOAB: Die Mutter aller Bomben"
+"Die Mutter aller Bomben"
 END
 
 UPGRADE:AmericaBunkerBusters
@@ -12019,7 +12031,7 @@ UPGRADE:BoobyTrap
 END
 
 UPGRADE:AnthraxGamma
-"Gamma-Upgrade"
+"Anthrax Gamma"
 END
 
 UPGRADE:WorkerShoes
@@ -12179,7 +12191,7 @@ MAP:KillingFields
 END
 
 MAP:ThinIce
-"Dünnes Eis"
+"Thin Ice"
 END
 
 MAP:ElScorcho
@@ -12199,7 +12211,7 @@ MAP:DestructionStation
 END
 
 MAP:PolarStorm
-"Wintersturm"
+"Polar Storm"
 END
 
 MAP:BitterWinter
@@ -12207,15 +12219,15 @@ MAP:BitterWinter
 END
 
 MAP:CitySweep
-"Stadtreinigung"
+"City Sweep"
 END
 
 MAP:FrozenPlains
-"Eisige Ebenen"
+"Frozen Plains"
 END
 
 MAP:RoadRage
-"Verkehrschaos"
+"Road Rage"
 END
 
 HELP:SentryDrone-01
@@ -12231,7 +12243,7 @@ HELP:MicrowaveTank-01
 END
 
 HELP:MicrowaveTank-02
-"TIPP:\nDer Mikrowellenpanzer beschädigt gegnerische Cyborgs."
+"TIPP:\nDer Mikrowellenpanzer verwundet gegnerische Truppen."
 END
 
 HELP:Avenger-01
@@ -12243,7 +12255,7 @@ HELP:Avenger-02
 END
 
 HELP:FireBase-01
-"TIPP:\nBesetzen Sie die Geschützstellung mit Raketen-Troopern, um Boden- und Luftziele anzugreifen."
+"TIPP:\nBesetzen Sie die Geschützstellung mit Raketentruppen, um Boden- und Luftziele anzugreifen."
 END
 
 HELP:SpectreGunship-01
@@ -12251,11 +12263,11 @@ HELP:SpectreGunship-01
 END
 
 HELP:LeafletDrop-01
-"TIPP:\nDeaktivieren Sie gegnerische Cyborgs mit Flugblattaktionen."
+"TIPP:\nDeaktivieren Sie gegnerische Truppen mit Flugblattaktionen."
 END
 
 HELP:MOAB-01
-"TIPP:\nMOABs zerstören Fahrzeuge und deaktivieren vorübergehend alle Insassen."
+"TIPP:\nDie Mutter aller Bomben zerstört Fahrzeuge und Gebäude."
 END
 
 HELP:Countermeasures-01
@@ -12267,7 +12279,7 @@ HELP:HellfireDrone-01
 END
 
 HELP:ChemicalSuit-01
-"TIPP:\nSchützen Sie Ihre Cyborgs mit Schutzanzügen\nvor Säure und Strahlung."
+"TIPP:\nSchützen Sie Ihre Truppen mit Schutzanzügen\nvor chemischen Waffen und Strahlung."
 END
 
 HELP:BunkerBuster-01
@@ -12295,7 +12307,7 @@ HELP:ListeningOutpost-02
 END
 
 HELP:Helix-01
-"TIPP:\nBestücken Sie einen Helix mit einem Propagandaturm,\num Einheiten in der Nähe zu reparieren."
+"TIPP:\nBestücken Sie einen Helix mit einem Propagandaturm,\num Einheiten in der Nähe zu heilen."
 END
 
 HELP:Helix-02
@@ -12335,7 +12347,7 @@ HELP:EMPMines-01
 END
 
 HELP:NeutronShell-01
-"TIPP:\nMit dem Nukleargeschütz abgefeuerte Neutronengranaten neutralisieren Fahrzeuge. Diese können anschließend von Cyborgs erobert werden."
+"TIPP:\nMit dem Nukleargeschütz abgefeuerte Neutronengranaten neutralisieren Fahrzeuge. Diese können anschließend von Truppen erobert werden."
 END
 
 HELP:CombatCycle-01
@@ -12347,15 +12359,15 @@ HELP:CombatCycle-02
 END
 
 HELP:CombatCycle-03
-"TIPP:\nEine fahrende Bombe kann mit\neinem Kampfbike kombiniert werden."
+"TIPP:\nEin Terrorist kann mit\neinem Kampfbike kombiniert werden."
 END
 
 HELP:CombatCycle-04
-"TIPP:\nInfiltratoren mit Kampfbikes können Gegner gezielt ausschalten."
+"TIPP:\nJarmen Kell mit Kampfbike kann Gegner gezielt ausschalten."
 END
 
 HELP:CombatCycle-05
-"TIPP:\nArbeitsbots kommen mit Kampfbikes schneller an ihr Ziel."
+"TIPP:\nArbeiter kommen mit Kampfbikes schneller an ihr Ziel."
 END
 
 HELP:Saboteur-01
@@ -12375,11 +12387,11 @@ HELP:SneakAttack-01
 END
 
 HELP:GPSScramble-01
-"TIPP:\nMit der Generalsfähigkeit \"GPS-Störsender\" können\nSie verbündete Einheiten tarnen."
+"TIPP:\nMit der Generalsfähigkeit \"GPS-Störsender\" können\nSie Ihre Einheiten tarnen."
 END
 
 HELP:WorkerShoes-01
-"TIPP:\nArbeitsschuhe erhöhen das Tempo Ihrer Arbeitsbots."
+"TIPP:\nArbeitsschuhe erhöhen das Tempo Ihrer Arbeiter."
 END
 
 HELP:CamoNetting-01
@@ -12399,15 +12411,15 @@ HELP:KingRaptor-01
 END
 
 HELP:CombatChinooks-01
-"TIPP:\nCyborgs können auch aus einem fliegenden Chinook feuern."
+"TIPP:\nTruppen können auch aus einem fliegenden Chinook feuern."
 END
 
 HELP:AuroraAlpha-01
-"TIPP:\nDer Aurora Alpha ist mit einer kleinen aber\neffektiven Benzinbombe bestückt"
+"TIPP:\nDer Aurora Alpha Bomber ist mit einer kleinen, aber\neffektiven Benzinbombe bestückt"
 END
 
 HELP:MicrowavePatriot-01
-"TIPP:\nEMP-Raketen sind gegen Fahrzeuge und Cyborgs effektiv."
+"TIPP:\nEMP-Raketen sind gegen Fahrzeuge und Infanterie effektiv."
 END
 
 HELP:AdvancedRods-01
@@ -12427,35 +12439,35 @@ HELP:AssaultTroopTransport-01
 END
 
 HELP:AttackOutpost-01
-"TIPP:\nIm Horchposten sind zusätzliche Cyborgs stationiert.\nAußerdem ortet er getarnte Einheiten."
+"TIPP:\nIm Horchposten sind zusätzliche Truppen stationiert.\nAußerdem ortet er getarnte Einheiten."
 END
 
 HELP:FortifiedBunkers-01
-"TIPP:\nBefestigte Bunker sind mit Minen und einer stärkeren\nPanzerung gesichert. Sie bieten Platz für zusätzliche Cyborgs."
+"TIPP:\nBefestigte Bunker sind mit Minen und einer stärkeren\nPanzerung gesichert. Sie bieten Platz für zusätzliche Soldaten."
 END
 
 HELP:Mini-Gunner-01
-"TIPP:\nMinigun-Cyborgs haben eine eigene Gatling-Kanone."
+"TIPP:\nMinigunner haben eine eigene Gatling-Kanone."
 END
 
 HELP:InfantryBlackLotus-01
-"TIPP:\nBlack Bot-Einheiten haben besondere Fähigkeiten."
+"TIPP:\nBlack Lotus hat besondere Fähigkeiten."
 END
 
 HELP:InfantryBlackLotus-02
-"TIPP:\nSie können mehrere Black Bots bauen."
+"TIPP:\nSie können mehr als eine Black Lotus bauen."
 END
 
 HELP:InfantryHacker-01
-"TIPP:\nDer Hacker des Cyborg-Generals ist ein Meister der Geldbeschaffung."
+"TIPP:\nDer Hacker des Infanterie-Generals ist ein Meister der Geldbeschaffung."
 END
 
 HELP:ChineseParadrop-01
-"TIPP:\nDer asiatische Pakt kann Standard-Cyborgs über dem Zielgebiet abwerfen."
+"TIPP:\nDer asiatische Pakt kann Rotgardisten über dem Zielgebiet abwerfen."
 END
 
 HELP:EmperorTank-01
-"TIPP:\nEmperor-Panzer sind gegen Fahrzeuge\nund Cyborgs außerordentlich effektiv."
+"TIPP:\nEmperor-Panzer sind gegen Fahrzeuge\nund Infanterie außerordentlich effektiv."
 END
 
 HELP:EmperorTank-02
@@ -12471,7 +12483,7 @@ HELP:TankDrop-01
 END
 
 HELP:TacticalNuke-01
-"TIPP:\nAuf Flugfeldern können MiGs mit taktischen Raketen bestückt werden."
+"TIPP:\nAuf Flugfeldern können MiG's mit taktischen Raketen bestückt werden."
 END
 
 HELP:IsotopeStability-01
@@ -12483,35 +12495,35 @@ HELP:AdvancedNuclearPower-01
 END
 
 HELP:ToxinRebels-01
-"TIPP:\nSäure-Cyborgs attackieren ihre Gegner mit einer starken Säure."
+"TIPP:\nToxin-Rebellen attackieren ihre Gegner mit einem starken Gift."
 END
 
 HELP:ToxinRebels-02
-"TIPP:\nSäure-Cyborgs sind gegen Säureangriffe immun."
+"TIPP:\nToxin-Rebellen sind gegen Giftangriffe immun."
 END
 
 HELP:ToxinRebels-03
-"TIPP:\nMit Säure-Cyborgs können Sie befestigte Gebäude in kürzester Zeit räumen."
+"TIPP:\nMit Toxin-Rebellen können Sie befestigte Gebäude in kürzester Zeit räumen."
 END
 
 HELP:ToxinNetworks-01
-"TIPP:\nDie Kanonen eines Säuresystems feuern Säure auf den Gegner ab."
+"TIPP:\nDie Kanonen eines Toxin-Tunnels feuert Toxin auf den Gegner ab."
 END
 
 HELP:ToxinTerrorists-01
-"TIPP:\nSäure-Bomben explodieren in einer gefährlichen Säurewolke."
+"TIPP:\nToxin-Terroristen explodieren in einer gefährlichen Giftwolke."
 END
 
 HELP:ToxinTerrorists-02
-"TIPP:\nSäure-Bomben greifen auch größere Cyborg-Verbände an."
+"TIPP:\nToxin-Terroristen greifen auch größere Truppen-Verbände an."
 END
 
 HELP:AnthraxGamma-01
-"TIPP:\nDas Gamma-Upgrade erhöht den Schaden aller Säureangriffe."
+"TIPP:\nAnthrax Gamma erhöht den Schaden aller Toxinangriffe."
 END
 
 HELP:AnthraxGamma-02
-"TIPP:\nDas Gamma-Upgrade ist effektiver als das Beta-Upgrade."
+"TIPP:\nAnthrax Gamma ist effektiver als Anthrax Beta."
 END
 
 HELP:AdvancedTrap-01
@@ -12543,7 +12555,7 @@ GENERIC:MissionObjectiveCompleted-05
 END
 
 LOSE:AllUnits
-"NACHRICHT:\nAlle Ihre Einheiten wurden zerstört.\nWir haben verloren, General! Dieses Mal!"
+"NACHRICHT:\nAlle unsere Einheiten wurden zerstört.\nWir haben verloren, General! Dieses Mal!"
 END
 
 LOSE:AllBuildings
@@ -12579,7 +12591,7 @@ MAP:MD_USA01Objective1
 END
 
 MAP:MD_USA01Objective1a
-"EINSATZZIEL 1: Sichern Sie den Güterbahnhof und\nzerstören Sie den IBG-Stützpunkt."
+"EINSATZZIEL 1:\nSichern Sie den Güterbahnhof und\nzerstören Sie den IBG-Stützpunkt."
 END
 
 MAP:MD_USA01ObjectiveAccomplished
@@ -12591,11 +12603,11 @@ MAP:MD_USA01ObjectiveAccomplisheda
 END
 
 MAP:MD_USA01Objective2
-"NACHRICHT:\nSchicken Sie Ihre Einheiten in die Wagons."
+"NACHRICHT:\nSchicken Sie Ihre Einheiten in die Waggons."
 END
 
 MAP:MD_USA01Objective2a
-"NACHRICHT:\nSchicken Sie Ihre Einheiten in die Wagons."
+"NACHRICHT:\nSchicken Sie Ihre Einheiten in die Waggons."
 END
 
 MAP:MD_USA01Objective3
@@ -12607,19 +12619,19 @@ MAP:MD_USA01Objective3a
 END
 
 MAP:MD_USA01Hint1
-"TIPP:\nCyborgs können die verlassenen Fahrzeuge im Nordosten kapern."
+"TIPP:\nEinheiten können die verlassenen Fahrzeuge im Nordosten kapern."
 END
 
 MAP:MD_USA01Hint1a
-"TIPP:\nCyborgs können die verlassenen Fahrzeuge im Nordosten kapern."
+"TIPP:\nEinheiten können die verlassenen Fahrzeuge im Nordosten kapern."
 END
 
 MAP:MD_USA01Hint2
-"TIPP:\nBesetzen Sie den Radiosender mit Cyborgs und fordern Sie einen E-10 an!"
+"TIPP:\nBesetzen Sie den Radiosender mit Einheiten und fordern Sie einen A-10 an!"
 END
 
 MAP:MD_USA01Hint2a
-"TIPP:\nBesetzen Sie den Radiosender mit Cyborgs und fordern Sie einen E-10 an!"
+"TIPP:\nBesetzen Sie den Radiosender mit Einheiten und fordern Sie einen A-10 an!"
 END
 
 OBJECT:TrainDepot
@@ -12631,27 +12643,27 @@ OBJECT:TrainLoading
 END
 
 MAP:MD_USA01Title
-"Südliches Deltastan, Kosmodrom Baikonur\n'Operation Weltfrieden'"
+"Südliches Kasachstan, Kosmodrom Baikonur\n'Operation Weltfrieden'"
 END
 
 MAP:MD_USA01CINELocation02
-"WA-Flottenstützpunkt\nNordistan"
+"WA-Flottenstützpunkt\nNordeuropa"
 END
 
 MAP:Intro_Breifing_01
-"WA-Stützpunkt bei Baikonur\nSüdliches Deltastan"
+"WA-Stützpunkt bei Baikonur\nSüdliches Kasachstan"
 END
 
 MAP:MD_USA01CINELocation01
-"Irgendwo im südlichen Deltastan\nAuf dem Weg nach Baikonur"
+"Irgendwo im südlichen Kasachstan\nIn Richtung Baikonur"
 END
 
 MAP:USAX02MissionINtro
-"Vor der Küste von Surumbi"
+"Vor der Küste von Somalia"
 END
 
 MAP:USAX02MissionStart
-"Berbulit, Surumbi\n'Operation Helfende Hände'"
+"Berbera, Somalia\n'Operation Helfende Hände'"
 END
 
 MAP:USAX02NavyHint
@@ -12687,39 +12699,39 @@ MAP:USAX02Ships
 END
 
 MAP:USAX02Truck1Arrived
-"LKW 1 von 10 ist eingetroffen"
+"LKW 1 von 10 ist eingetroffen."
 END
 
 MAP:USAX02Truck2Arrived
-"LKW 2 von 10 ist eingetroffen"
+"LKW 2 von 10 ist eingetroffen."
 END
 
 MAP:USAX02Truck3Arrived
-"LKW 3 von 10 ist eingetroffen"
+"LKW 3 von 10 ist eingetroffen."
 END
 
 MAP:USAX02Truck4Arrived
-"LKW 4 von 10 ist eingetroffen"
+"LKW 4 von 10 ist eingetroffen."
 END
 
 MAP:USAX02Truck5Arrived
-"LKW 5 von 10 ist eingetroffen"
+"LKW 5 von 10 ist eingetroffen."
 END
 
 MAP:USAX02Truck6Arrived
-"LKW 6 von 10 ist eingetroffen"
+"LKW 6 von 10 ist eingetroffen."
 END
 
 MAP:USAX02Truck7Arrived
-"LKW 7 von 10 ist eingetroffen"
+"LKW 7 von 10 ist eingetroffen."
 END
 
 MAP:USAX02Truck8Arrived
-"LKW 8 von 10 ist eingetroffen"
+"LKW 8 von 10 ist eingetroffen."
 END
 
 MAP:USAX02Truck9Arrived
-"LKW 9 von 10 ist eingetroffen"
+"LKW 9 von 10 ist eingetroffen."
 END
 
 MAP:USAX02Truck10Arrived
@@ -12747,19 +12759,19 @@ MAP:USA03xMapName
 END
 
 MAP:USA03xOpen
-"Berg Elbrus, Gregoria\n'Operation: Schneefall'"
+"Mount Elbrus, Georgien\n'Operation: Schneefall'"
 END
 
 MAP:USA03xOpenAlt
-"Berg Elbrus, Moskastan\n'Operation: Schneefall'"
+"Mount Elbrus, Russland\n'Operation: Schneefall'"
 END
 
 MAP:USA03xObjective02
-"EINSATZZIEL 1:\nZerstören Sie das Gefangenenlager der IBG und befreien Sie die Gefangenen.\nRetten Sie den Kommandobot!"
+"EINSATZZIEL 1:\nZerstören Sie das Gefangenenlager der IBG und befreien Sie die Gefangenen.\nColonel Burton muss überleben!"
 END
 
 MAP:USA03xObjective03
-"EINSATZZIEL 2:\nBringen Sie den Kommandobot zum Sammelpunkt."
+"EINSATZZIEL 2:\nBringen Sie Colonel Burton zum Sammelpunkt."
 END
 
 MAP:USA03xObjectiveCompleted
@@ -12771,7 +12783,7 @@ MAP:USA03xTownHallHint
 END
 
 MAP:USA03xToxinNetworksWarning
-"WARNUNG:\nNehmen Sie sich vor Säure-Systemen und Stinger-Stellungen in Acht."
+"WARNUNG:\nNehmen Sie sich vor Toxin-Systemen und Stinger-Stellungen in Acht."
 END
 
 MAP:USA03xPOWCamp02Hint
@@ -12779,19 +12791,19 @@ MAP:USA03xPOWCamp02Hint
 END
 
 MAP:USA03xBurtonWarning
-"WARNUNG:\nDer Kommandobot ist beschädigt.\nSie müssen ihn retten. Koste es, was es wolle!"
+"WARNUNG:\nColonel Burton ist verletzt!\nSie müssen ihn retten. Koste es, was es wolle!"
 END
 
 MAP:USA03xChemWarning02
-"WARNUNG:\nDiese Abwehrsysteme feuern Chemikalien ab.\nHalten Sie mit Ihren Cyborgs Abstand!"
+"WARNUNG:\nDiese Abwehrsysteme feuern Chemikalien ab.\nHalten Sie mit Ihren Einheiten Abstand!"
 END
 
 MAP:USA03xLoseReason01
-"NACHRICHT:\nDer Kommandobot wurde neutralisiert.\nSie haben versagt, General. Dieses Mal!"
+"NACHRICHT:\nColonel Burton wurde getötet.\nSie haben versagt, General. Dieses Mal!"
 END
 
 MAP:MD-USA04_LOCALE
-"Masshad Ölfelder, Isgiz\n'Operation: Schwarzes Gold'"
+"Amisbad Ölfelder, Iran\n'Operation: Schwarzes Gold'"
 END
 
 MAP:MD-USA04_Start02
@@ -12819,7 +12831,7 @@ MAP:MD-USA04_Hint05
 END
 
 MAP:MD-USA04_Hint06
-"TIPP:\nSpäher können getarnte Einheiten und Sprengfallen orten."
+"TIPP:\nKundschafter können getarnte Einheiten und Sprengfallen orten."
 END
 
 MAP:MD-USA04_Hint07
@@ -12831,11 +12843,11 @@ MAP:MD-USA04_Reonforcements
 END
 
 MAP:MD_USA06Open
-"Al Habad, Ryasien\n'Operation: Adler'"
+"Al Hanad, Syrien\n'Operation: Adler'"
 END
 
 MAP:MD-USA06Objective01
-"EINSATZZIEL:\nErobern Sie die 4 Raketensilos, bevor die Säureraketen starten."
+"EINSATZZIEL:\nErobern Sie die 4 Raketensilos, bevor die Toxin-Raketen starten."
 END
 
 MAP:MD-USA06Objective02
@@ -12843,7 +12855,7 @@ MAP:MD-USA06Objective02
 END
 
 MAP:MD-USA06Objective03
-"NACHRICHT:\nErobern Sie die 4 Raketensilos, bevor die Säureraketen starten."
+"NACHRICHT:\nErobern Sie die 4 Raketensilos, bevor die Toxin-Raketen starten."
 END
 
 MAP:MD-USA06Objective04
@@ -12867,7 +12879,7 @@ MAP:MD-USA06Objective14
 END
 
 MAP:MD-USA06Objective15
-"WARNUNG:\nDr. Trax setzt gefährliche Chemikalien ein. Schützen Sie Ihre Cyborgs!"
+"WARNUNG:\nDr. Thrax setzt gefährliche Chemikalien ein. Schützen Sie Ihre Einheiten!"
 END
 
 MAP:MD-USA06Objective16
@@ -12875,7 +12887,7 @@ MAP:MD-USA06Objective16
 END
 
 MAP:MD-USA06CivilianMessage01
-"NACHRICHT:\nDie IBG-Rebellen im Osten könnten uns helfen!"
+"NACHRICHT:\nDie Rebellen der IBG im Osten könnten uns helfen!"
 END
 
 MAP:MD-USA06Hint01
@@ -12887,7 +12899,7 @@ MAP:MD-USA06Hint02
 END
 
 MAP:MD-USA06Hint03
-"TIPP:\nGeneralsfähigkeiten sind in der IBG-Kommandozentrale verfügbar."
+"TIPP:\nGeneralsfähigkeiten sind in der Kommandozentrale der IBG verfügbar."
 END
 
 MAP:MD-USA06Warning01
@@ -12931,7 +12943,7 @@ MAP:MD-USA06Failure01
 END
 
 MAP:MD-USA06Imperative01
-"WARNUNG:\nSie dürfen dieses Gebäude nicht zerstören. Erobern Sie es mit Rangern."
+"WARNUNG:\nSie dürfen dieses Gebäude nicht zerstören.\nErobern Sie es mit Rangern."
 END
 
 SCRIPT:MD-USA06MissileTimer
@@ -12947,31 +12959,31 @@ MAP:MD-USA06Warning11
 END
 
 MAP:MD-USA06Intro1
-"Im Orbit:\nWA-Spionagesatellit Codename: Powers"
+"Im Orbit der Erde:\nWA Spionagesatellit Codename: Powers"
 END
 
 MAP:MD-USA06Intro2
-"Daten-Uplink:\nDr. Traxs Stützpunkt"
+"Daten-Uplink:\nDr. Thrax's Stützpunkt"
 END
 
 MAP:MD-USA06Warning15
-"NACHRICHT:\nGeneral, der IBG-Stützpunkt im Osten\nrebelliert gegen den Säure-General und seine\nArt der Kriegführung."
+"NACHRICHT:\nGeneral, der IBG-Stützpunkt im Osten\nrebelliert gegen Dr. Thrax und seine\nArt der Kriegführung."
 END
 
 MAP:MD-USA06Warning16
-"NACHRICHT:\nSie stellen uns für den Angriff auf den General\nihren Stützpunkt zur Verfügung!"
+"NACHRICHT:\nSie stellen uns für den Angriff auf den Dr. Thrax\nihren Stützpunkt zur Verfügung!"
 END
 
 MAP:MD_GLA01Objective6
-"TIPP: Greifen Sie auf einer anderen Seite den WA-Stützpunkt mit Kampfbikes an."
+"TIPP:\nGreifen Sie auf einer anderen Seite den WA-Stützpunkt mit Kampfbikes an."
 END
 
 MAP:MD_GLA01Message01
-"WARNUNG: WA-Geschützstellung geortet."
+"WARNUNG:\nWA-Geschützstellung geortet."
 END
 
 MAP:MD_GLA01Message02
-"WARNUNG: Überwachungsdrohnen geortet."
+"WARNUNG:\nÜberwachungsdrohnen geortet."
 END
 
 MAP:MD_GLA01Message03
@@ -12983,11 +12995,11 @@ OBJECT:GLALeader
 END
 
 MAP:Intro_Title
-"Al Saffa, Ryasien\n'Exodus'"
+"Al Safir, Syrien\n'Exodus'"
 END
 
 MAP:Intro_Title2
-"Halib, Dusan\n'Auf der Flucht'"
+"Halib, Sudan\n'Auf der Flucht'"
 END
 
 MAP:Intro_Loc
@@ -13011,11 +13023,11 @@ MAP:Intro_MO_1a
 END
 
 MAP:Intro_MO_2a
-"NACHRICHT:\nIn dieser Region gibt es einen verlassenen IBG-Stützpunkt. Erobern Sie ihn."
+"NACHRICHT:\nIn dieser Region gibt es einen verlassenen IBG-Stützpunkt.\nErobern Sie ihn."
 END
 
 MDGLA02:TITLE
-"Irgendwo bei Oraki, Gizhastan\n'Geheime Pläne'"
+"Irgendwo in der Nähe von Kairo, Ägypten\n'Geheime Pläne'"
 END
 
 MDGLA02:Hint1
@@ -13039,15 +13051,15 @@ MDGLA02:OBJ2
 END
 
 MDGLA02:Expansion_2
-"NACHRICHT:\nPotenzielles Expansionsgebiet geortet"
+"NACHRICHT:\nPotenzielles Expansionsgebiet geortet."
 END
 
 MDGLA02:Oil_Well
-"TIPP:\nErobern Sie Ölfelder, um Ihre Einnahmen zu erhöhen"
+"TIPP:\nErobern Sie Ölfelder, um Ihre Einnahmen zu erhöhen."
 END
 
 MDGLA02:Bridge
-"TIPP:\nGPS-Störsender erleichtern Ihnen die Überquerung dieser Brücke"
+"TIPP:\nGPS-Störsender erleichtern Ihnen die Überquerung dieser Brücke."
 END
 
 MDGLA02:Damage_warn
@@ -13063,7 +13075,7 @@ MDGLA02:Scram_captured
 END
 
 MDGLA02:Capture_CC_sneak
-"TIPP:\nErobern Sie diese Kommandozentrale, damit wir mit Schleichangriffen unser Glück versuchen können."
+"TIPP:\nErobern Sie diese Kommandozentrale, damit wir mit\nSchleichangriffen unser Glück versuchen können."
 END
 
 MDGLA02:Sneak_captured
@@ -13071,11 +13083,11 @@ MDGLA02:Sneak_captured
 END
 
 MDGLA02:Final
-"EINSATZZIEL 3:\nZerstören oder erobern Sie Kassads primäre Kommandozentrale"
+"EINSATZZIEL 3:\nZerstören oder erobern Sie Kassads primäre Kommandozentrale."
 END
 
 MDGLA03:Title-01
-"Flotte der WA, Matala, Insel Kratos\n'Seeschlacht'"
+"WA-Flotte am Mittelmeer, Matala, Insel Kreta\n'Seeschlacht'"
 END
 
 MDGLA03:InfoMissionObjective01
@@ -13115,15 +13127,15 @@ MDGLA03:Info-Goodies-01
 END
 
 MDGLA03:Lose-NoUnitsOrStructures-01
-"NACHRICHT:\nAlle Ihre Einheiten und Gebäude wurden zerstört!\nSie haben versagt, General. Dieses Mal ..."
+"NACHRICHT:\nAlle Ihre Einheiten und Gebäude wurden zerstört!\nSie haben versagt, General. Dieses Mal..."
 END
 
 MDGLA03:Lose-ParticleCannonDestroyed-01
-"NACHRICHT:\nOhne die Partikelkanone können Sie den Flugzeugträger nicht versenken.\nSie haben versagt, General. Dieses Mal ..."
+"NACHRICHT:\nOhne die Partikelkanone können Sie den Flugzeugträger nicht versenken.\nSie haben versagt, General. Dieses Mal..."
 END
 
 MDGLA03:Lose-PowerPlantsDestroyed-01
-"NACHRICHT:\nAlle Kraftwerke wurden zerstört.\nSie haben verloren, General. Dieses Mal ..."
+"NACHRICHT:\nAlle Kraftwerke wurden zerstört.\nSie haben verloren, General. Dieses Mal..."
 END
 
 MDGLA03:Help-UseParticleCannon-01
@@ -13131,7 +13143,7 @@ MDGLA03:Help-UseParticleCannon-01
 END
 
 MDGLA03:Help-A10Warning-01
-"WARNUNG:\nDer Feind hat einen E10-Luftangriff angeordnet."
+"WARNUNG:\nDer Feind hat einen A10-Luftangriff angeordnet."
 END
 
 MDGLA03:Help-LeaveISLAND-01
@@ -13139,7 +13151,7 @@ MDGLA03:Help-LeaveISLAND-01
 END
 
 MDGLA03:Help-LeaveISLAND-02
-"TIPP:\nWenn wir ein Gebiet auf einer Nachbarinsel\nerforscht haben, können wir mit Schleichangriffen unser\nGlück versuchen."
+"TIPP:\nWenn wir ein Gebiet auf einer Nachbarinsel erforscht\nhaben, können wir mit Schleichangriffen unser Glück versuchen."
 END
 
 MDGLA03:Info-DisabledSupplyDropZones-01
@@ -13147,7 +13159,7 @@ MDGLA03:Info-DisabledSupplyDropZones-01
 END
 
 MDGLA03:Help-FoundSupplyPlanes-01
-"NACHRICHT:\nZerstören Sie die Abwurfzonen der WA, um ihre Produktion zu stören."
+"NACHRICHT:\nZerstören Sie die Abwurfzonen der WA,\num ihre Produktion zu stören."
 END
 
 MDGLA03:Help-FewPowerPlants-02
@@ -13171,11 +13183,11 @@ MDGLA03:Help-ArmsDealer-01
 END
 
 MDGLA03:Help-JarmenKell-01
-"TIPP:\nUnser Infiltrator kann feindliche Fahrzeuge neutralisieren.\nAnschließend können unsere Cyborgs sie kapern."
+"TIPP:\nJarmen Kell kann die Besatzung in feindliche Fahrzeuge neutralisieren.\nAnschließend können unsere Einheiten die Fahrzeuge kapern."
 END
 
 MAP:MD_GLA03_CINELocation01
-"WAS Actorbot"
+"Flugzeugträger CVN-88 Daedalus : USS Reagan"
 END
 
 MAP:MD_GLA04Objective1
@@ -13211,7 +13223,7 @@ SCRIPT:MD_GLA04Toxin_Counter
 END
 
 MAP:MD_GLA04Title
-"Chemiefabrik, Westküste der WA\n'Infiltrator und die 40 Räuber'"
+"Chemiefabrik, Westküste der WA\n'Jarmen Kell und die 40 Räuber'"
 END
 
 MD_GLA05-MilitaryBriefing:String_2
@@ -13243,7 +13255,7 @@ MD_GLA05-MilitaryBriefing:String_8
 END
 
 MD_GLA05-MilitaryBriefing:String_9
-"WARNUNG:\nDie Zeit wird knapp! Retten Sie die Kriegsgefangenen!"
+"WARNUNG:\nDie Zeit wird knapp!\nRetten Sie die Kriegsgefangenen!"
 END
 
 MD_GLA05-MilitaryBriefing:String_10
@@ -13255,11 +13267,11 @@ MD_GLA05-MilitaryBriefing:String_11
 END
 
 MD_GLA05-MilitaryBriefing:String_12
-"NACHRICHT:\nWir haben gewonnen. Der Sieg ist unser!"
+"NACHRICHT:\nWir haben gewonnen.\nDer Sieg ist unser!"
 END
 
 MD_GLA05-MilitaryBriefing:String_13
-"NACHRICHT:\nDer Feind hält unsere Leute gefangen!\nWenn Sie die Gefangenen befreien, schließen sie sich unserer Sache an."
+"NACHRICHT:\nDer Feind hält unsere Leute gefangen!\nWenn Sie die Gefangenen befreien,\nschließen sie sich unserer Sache an."
 END
 
 MD_GLA05-MilitaryBriefing:String_14
@@ -13275,7 +13287,7 @@ MD_GLA05-MilitaryBriefing:String_16
 END
 
 MD_GLA05-MilitaryBriefing:String_17
-"TIPP:\nBauen Sie eine IBG-Kommandozentrale,\ndamit Sie Ihre Generalsfähigkeiten einsetzen können."
+"TIPP:\nBauen Sie eine Kommandozentrale der IBG,\ndamit Sie Ihre Generalsfähigkeiten einsetzen können."
 END
 
 MD_GLA05-MilitaryBriefing:String_18
@@ -13283,15 +13295,15 @@ MD_GLA05-MilitaryBriefing:String_18
 END
 
 MD_GLA05-MilitaryBriefing:String_19
-"WARNUNG:\nDie Kriegsgefangenen werden angegriffen! Helfen Sie ihnen!"
+"WARNUNG:\nDie Kriegsgefangenen werden angegriffen!\nHelfen Sie ihnen!"
 END
 
 MD_GLA05-MilitaryBriefing:String_20
-"NACHRICHT:\nAlle Kriegsgefangenen sind gefallen!\nIhre Anhänger unterstützen uns, um ihre Anführer zu rächen!"
+"NACHRICHT:\nAlle Kriegsgefangenen sind gefallen!\nIhre Anhänger unterstützen uns,\num ihre Anführer zu rächen!"
 END
 
 MD_GLA05-MilitaryBriefing:String_21
-"NACHRICHT:\nDer Feind sucht zusätzliche Rohstoffe.\nVernichten Sie die feindlichen Einheiten und stellen Sie die Rohstoffe sicher."
+"NACHRICHT:\nDer Feind sucht zusätzliche Rohstoffe.\nVernichten Sie die feindlichen Einheiten und\nstellen Sie die Rohstoffe sicher."
 END
 
 MD_GLA05-MilitaryBriefing:String_22
@@ -13371,11 +13383,11 @@ MAP:CHI01xMapName
 END
 
 MAP:CHI01xOpen
-"Sturmstadt\n'Der Drache erwacht'"
+"Stuttgart-Vaihingen, Deutschland\n'Der Drache erwacht'"
 END
 
 MAP:CHI01xOpenAlt
-"Ruinen der WA-Zentrale,\n'Der Drache erwacht'"
+"Ruinen der WA-Zentrale, Deutschland\n'Der Drache erwacht'"
 END
 
 MAP:CHI01xObjective01
@@ -13387,7 +13399,7 @@ MAP:CHI01xObjective01Alt
 END
 
 MAP:CHI01xTechBldgHint
-"TIPP:\nStandard-Cyborgs können Gebäude erobern."
+"TIPP:\nRotgardisten können Gebäude erobern."
 END
 
 MAP:CHI01xOilDerrickHint
@@ -13395,19 +13407,19 @@ MAP:CHI01xOilDerrickHint
 END
 
 MAP:CHI01xOilRefineryHint
-"TIPP:\nErobern Sie Ölraffinerien, um die Kosten für Fahrzeuge zu senken."
+"TIPP:\nErobern Sie Ölraffinerien, um die Kosten der Fahrzeuge zu senken."
 END
 
 MAP:CHI01xGarrisonHint
-"TIPP:\nStationieren Sie Standard-Cyborgs und Panzerjäger\nin Gebäuden, um ihre Feuerkraft und ihre Reichweite zu erhöhen."
+"TIPP:\nStationieren Sie Rotgardisten und Panzerjäger\nin Gebäuden, um ihre Feuerkraft und ihre Reichweite zu erhöhen."
 END
 
 MAP:CHI01xGarrisonClrHint01
-"TIPP:\nSäuretraktoren zerstören alle Cyborgs.\nHalten Sie die Traktoren also von befestigten Gebäuden fern."
+"TIPP:\nToxin-Traktoren eliminieren alle Truppen.\nHalten Sie die Traktoren also von befestigten Gebäuden fern."
 END
 
 MAP:CHI01xGarrisonClrHint02
-"TIPP:\nDer Drachenpanzer zerstört alle Cyborgs in befestigten Häusern."
+"TIPP:\nDer Drachenpanzer eliminiert alle Truppen in befestigten Häusern."
 END
 
 MAP:CHI01xPerimeterWarn01
@@ -13423,7 +13435,7 @@ MAP:CHI02xMapName
 END
 
 MAP:CHI02xOpen
-"Waffenfabrik, irgendwo in Asien\n'Feuersturm'"
+"Waffenfabrik, irgendwo in China\n'Feuersturm'"
 END
 
 SCRIPT:CHI02xReinforcementTimer
@@ -13475,11 +13487,11 @@ MAP:CHI02xPerimeterEasyWarn
 END
 
 MAP:CHI02xNeutronHint01
-"TIPP:\nFeuern Sie mit unseren Nukleargeschützen Neutronengranaten\nab, um Cyborgs und Fahrzeuge zu neutralisieren."
+"TIPP:\nFeuern Sie mit unseren Nukleargeschützen Neutronengranaten\nab, um Soldaten und Fahrzeuge zu neutralisieren."
 END
 
 MAP:CHI02xNeutronHint02
-"TIPP:\nIhre Cyborgs können neutralisierte Fahrzeuge kapern."
+"TIPP:\nIhre Einheiten können neutralisierte Fahrzeuge kapern."
 END
 
 MAP:CHI02xEMPMineHint01
@@ -13523,7 +13535,7 @@ SCRIPT:MD_CHI03InternationalOpinion
 END
 
 MAP:MD_CHI04Open
-"Waldstadt, irgendwo auf dem Kontinent\n'Brennender Himmel'"
+"Halberstadt, Deutschland\n'Brennender Himmel'"
 END
 
 MAP:MD_CHI04MissionState0
@@ -13583,11 +13595,11 @@ MAP:MD_CHI04MissionFinaleText
 END
 
 MAP:MD_CHI04MissionLoseText
-"NACHRICHT:\nDie IBG-Truppen sind nach Norden entkommen.\nSie haben versagt, General. Dieses Mal ..."
+"NACHRICHT:\nDie IBG-Truppen sind nach Norden entkommen.\nSie haben versagt, General. Dieses Mal..."
 END
 
 MAP:MD-CHI05_LOCALE
-"Bei Fischdorf, an der Küste\n'Das Los des Drachen'"
+"In der Nähe von Hamburg, Deutschland\n'Das Los des Drachen'"
 END
 
 MAP:MD-CHI05_USBaseDestroyedFirst
@@ -13615,7 +13627,7 @@ MAP:MD-CHI05_Hint05
 END
 
 MAP:MD-CHI05_Hint08
-"NACHRICHT:\nIn diesem Ort versteckt sich möglicherweise ein Infiltrator."
+"NACHRICHT:\nIn diesem Ort versteckt sich möglicherweise Jarmen Kell."
 END
 
 MAP:MD-CHI05_Hint10
@@ -13627,11 +13639,11 @@ MAP:MD-CHI05_Hint13
 END
 
 MAP:MD-CHI05_Hint15
-"NACHRICHT:\nVerhindern Sie mit Horchposten, dass\nder Infiltrator unsere Fahrzeuge neutralisiert."
+"NACHRICHT:\nVerhindern Sie mit Horchposten, dass\nJarmen Kell unsere Fahrzeuge neutralisiert."
 END
 
 MAP:MD-CHI05_Hint16
-"NACHRICHT:\nErobern Sie unsere neutralisierten Fahrzeuge mit Cyborgs zurück."
+"NACHRICHT:\nErobern Sie unsere neutralisierten Fahrzeuge mit Einheiten zurück."
 END
 
 MAP:MD-CHI05_InternetCenter02
@@ -13639,11 +13651,11 @@ MAP:MD-CHI05_InternetCenter02
 END
 
 MAP:ChemGeneral
-"Dr. Trax"
+"Dr. Thrax"
 END
 
 GC_CHINABOSS:Loc
-"Irgendwo in Asien / An der Grenze zu Dalaibat\n'Der Hort des Tigers'"
+"Irgendwo in China / An der Grenze zu Tibet\n'Der Hort des Tigers'"
 END
 
 GC_CHINABOSS:Hint
@@ -13663,11 +13675,11 @@ GC_CHINABOSS:Resources
 END
 
 CONTROLBAR:TooltipMOAB
-"Stärken: Gebäude\nBetäubt Einheiten im Wirkungsgebiet.\n\nCountdown: 6:00"
+"Betäubt Einheiten im Wirkungsgebiet.\n\nStärken: Gebäude\n\nCountdown: 6:00"
 END
 
 CONTROLBAR:TooltipLeafletDrop
-"Stärken: Cyborgs\n\nCountdown: 6:00"
+"Stärken: Infanterie\n\nCountdown: 6:00"
 END
 
 CONTROLBAR:TooltipTankParaDrop
@@ -13679,7 +13691,7 @@ CONTROLBAR:TooltipNukeDrop
 END
 
 CONTROLBAR:TooltipSuitcaseNuke
-"Hacker hat eine Atombombe in seinem Koffer.\n"
+"Hacker hat eine Atombombe in seinem Koffer."
 END
 
 CONTROLBAR:TooltipSpectreGunship
@@ -13687,11 +13699,11 @@ CONTROLBAR:TooltipSpectreGunship
 END
 
 CONTROLBAR:TooltipFireICBM
-"Stärken: Gebäude, Cyborgs\n\nCountdown: 6:00"
+"Stärken: Gebäude und Infanterie\n\nCountdown: 6:00"
 END
 
 CONTROLBAR:TooltipFireTomahawkStorm
-"Stärken: Gebäude, Fahrzeuge\n\nCountdown: 5:00"
+"Stärken: Gebäude und Fahrzeuge\n\nCountdown: 5:00"
 END
 
 CONTROLBAR:TooltipFrenzy
@@ -13711,7 +13723,7 @@ CONTROLBAR:TooltipUSAUpgradeSentryDroneGun
 END
 
 CONTROLBAR:TooltipGLAUpgradeQuadCannonSnipe
-"Vierlingsgeschütze neutralisieren Cyborgs mit einem einzigen Schuss."
+"Vierlingsgeschütze neutralisieren Soldaten mit einem einzigen Schuss."
 END
 
 CONTROLBAR:TooltipUSAUpgradeSupplyLines
@@ -13719,7 +13731,7 @@ CONTROLBAR:TooltipUSAUpgradeSupplyLines
 END
 
 CONTROLBAR:TooltipUSAUpgradeMOAB
-"Die Benzinbombe wird zur MOAB aufgerüstet."
+"Die Benzinbombe wird zur Mutter aller Bomben aufgerüstet."
 END
 
 CONTROLBAR:TooltipBecomeRealBuilding
@@ -13727,7 +13739,7 @@ CONTROLBAR:TooltipBecomeRealBuilding
 END
 
 CONTROLBAR:TooltipUSAUpgradeChemicalSuits
-"Cyborgs sind widerstandsfähiger gegen Säure und Strahlenangriffe."
+"Soldaten sind widerstandsfähiger gegen chemische Kampfstoffe und Strahlenangriffe."
 END
 
 CONTROLBAR:TooltipUSAUpgradeBunkerBusters
@@ -13735,7 +13747,7 @@ CONTROLBAR:TooltipUSAUpgradeBunkerBusters
 END
 
 CONTROLBAR:TooltipUSAUpgradeCountermeasures
-"Alle Flugzeuge können 50% der auf sie abgefeuerten Raketen ausweichen"
+"Flugzeuge mit Raketenabwehrsystemen können 50% aller Raketen ausweichen."
 END
 
 CONTROLBAR:TooltipUpgradeChinaHelixGattlingCannon
@@ -13751,11 +13763,11 @@ CONTROLBAR:TooltipUpgradeChinaHelixBattleBunker
 END
 
 CONTROLBAR:TooltipChinaUpgradeSatelliteHackOne
-"Mit dem Satellitenzugriff können Sie feindliche Kommandozentralen orten."
+"Mit dem Satellitenzugriff I können Sie feindliche Kommandozentralen orten."
 END
 
 CONTROLBAR:TooltipChinaUpgradeSatelliteHackTwo
-"Mit dem Satellitenzugriff werden alle von Feinden kontrollierten Gebiete vorübergehend sichtbar."
+"Mit dem Satellitenzugriff II werden alle von Feinden kontrollierten Gebiete vorübergehend sichtbar."
 END
 
 CONTROLBAR:TooltipChinaUpgradeFanaticism
@@ -13767,11 +13779,11 @@ CONTROLBAR:TooltipUpgradeChinaWGUraniumShells
 END
 
 CONTROLBAR:TooltipUpgradeChinaTankAutoLoader
-"Der Battlemaster hat eine höhere Feuerrate"
+"Battlemaster bekommen eine höhere Feuerrate."
 END
 
 CONTROLBAR:TooltipUpgradeChinaNeutronShells
-"Upgrade für die Neutronenkanone\nNeutronengranaten neutralisieren Cyborgs in Fahrzeugen"
+"Upgrade für die Neutronenkanone\nNeutronengranaten neutralisieren Soldaten in Fahrzeugen."
 END
 
 CONTROLBAR:ToolTipUpgradeChinaEMPMines
@@ -13779,7 +13791,7 @@ CONTROLBAR:ToolTipUpgradeChinaEMPMines
 END
 
 CONTROLBAR:TooltipUpgradeChinaFusionReactors
-"Emperor Overlord- und Battlemaster-Panzer werden schneller"
+"Emperors, Overlords und Battlemaster sind 25% schneller."
 END
 
 CONTROLBAR:TooltipDetonateFakebuilding
@@ -13807,15 +13819,15 @@ CONTROLBAR:ToolTipGLAUpgradeFortifiedStructure
 END
 
 CONTROLBAR:ToolTipGLAUpgradeBoobyTrap
-"MG-Cyborgs können in Gebäuden und neutralen Einheiten Sprengfallen platzieren."
+"Rebellen können an Gebäuden und neutralen Einheiten Sprengfallen platzieren."
 END
 
 CONTROLBAR:ToolTipGLAUpgradeWorkerShoes
-"Arbeitsschuhe erhöhen die Geschwindigkeit Ihrer Arbeitsbots."
+"Arbeitsschuhe erhöhen die Geschwindigkeit Ihrer Arbeiter."
 END
 
 CONTROLBAR:ToolTipGLAUpgradeAnthraxGamma
-"Alle Säure-Einheiten verursachen 50% mehr Schaden."
+"Alle Toxin-Einheiten verursachen 50% mehr Schaden."
 END
 
 CONTROLBAR:ToolTipSaboteur
@@ -13863,7 +13875,7 @@ CONTROLBAR:ToolTipChinaFireRebelBoobyTrapAttack
 END
 
 CONTROLBAR:ToolTipUSABuildFireBase
-"Bodenabwehr. Cyborgs können sich darin verschanzen"
+"Bodenabwehr.\nSoldaten können sich darin verschanzen."
 END
 
 CONTROLBAR:ToolTipUSABuildArtilleryPlatform
@@ -13875,11 +13887,11 @@ CONTROLBAR:ToolTipFakeGLABuilding
 END
 
 CONTROLBAR:ToolTipChinaBuildInternetCenter
-"Erleichtert Hackern die Geldbeschaffung. Kann zur Spionagestation ausgebaut werden."
+"Erleichtert Hackern die Geldbeschaffung.\nKann zur Spionagestation ausgebaut werden."
 END
 
 CONTROLBAR:ToolTipAmericaICBMLauncher
-"Startet eine IKB-Rakete.\nEnergiebedarf: 10"
+"Startet eine Neutronen-Bombe.\nEnergiebedarf: 10"
 END
 
 CONTROLBAR:ToolTipAmericaBuildTomahawkStorm
@@ -13895,19 +13907,19 @@ CONTROLBAR:ToolTipGLABuildSaboteur
 END
 
 CONTROLBAR:ToolTipChinaBuildPropagandaTrooper
-"Reparieren Sie beschädigte Einheiten mit Ihrer Propaganda."
+"Heilen Sie beschädigte Einheiten mit Ihrer Propaganda."
 END
 
 CONTROLBAR:ToolTipChinaBuildMiniGunner
-"Stärken: Cyborgs, Lufteinheiten\nSchwächen: Panzer"
+"Stärken: Infanterie und Lufteinheiten\nSchwächen: Panzer"
 END
 
 CONTROLBAR:ToolTipUSABuildAvenger
-"Lasersystem für die Abwehr von Raketen und Flugzeugen\n\nStärken: Raketen, Flugzeuge\nSchwächen: Fahrzeuge und Cyborgs"
+"Lasersystem für die Abwehr von Raketen und Flugzeugen\n\nStärken: Raketen und Flugzeuge\nSchwächen: Fahrzeuge und Infanterie"
 END
 
 CONTROLBAR:ToolTipUSABuildKingRaptor
-"Kann Ziele am Boden oder in der Luft angreifen. Ist mit einer Laserwaffe bestückt.\nGrößere Zuladung. Ortet getarnte Einheiten.\n\nStärken: Flugzeuge, Panzer, leichte Fahrzeuge\nSchwächen: Raketen-Cyborgs, Luftabwehrgeschütze"
+"Kann Ziele am Boden oder in der Luft angreifen. Ist mit einer Laserwaffe bestückt.\nGrößere Zuladung. Ortet getarnte Einheiten.\n\nStärken: Flugzeuge, Panzer und leichte Fahrzeuge\nSchwächen: Raketentruppen und Luftabwehrgeschütze"
 END
 
 CONTROLBAR:ToolTipUSABuildFuelAirAurora
@@ -13919,7 +13931,7 @@ CONTROLBAR:ToolTipUSABuildHyersonicAurora
 END
 
 CONTROLBAR:ToolTipGLABuildSniper
-"Ist für seine Gegner nur sichtbar, wenn er feuert oder sich bewegt. Entdeckt feindliche Einheiten.\n\nStärken: Cyborgs\nSchwächen: Leichte Fahrzeuge und Scouts"
+"Ist für seine Gegner nur sichtbar, wenn er feuert oder sich bewegt. Entdeckt feindliche Einheiten.\n\nStärken: Infanterie\nSchwächen: Leichte Fahrzeuge und Aufklärungseinheiten"
 END
 
 CONTROLBAR:ToolTipUSABuildMicrowave
@@ -13927,11 +13939,11 @@ CONTROLBAR:ToolTipUSABuildMicrowave
 END
 
 CONTROLBAR:ToolTipUSABuildSentryDrone
-"Ortet getarnte Einheiten.\n\nStärken: Cyborgs\nSchwächen: Panzer"
+"Ortet getarnte Einheiten.\n\nStärken: Infanterie\nSchwächen: Panzer"
 END
 
 CONTROLBAR:ToolTipUSABuildHellfireDrone
-"Feuert eine Hellfire-Rakete ab.\n\nStärken: Fahrzeuge\nSchwächen: Cyborgs"
+"Feuert eine Hellfire-Rakete ab.\n\nStärken: Fahrzeuge\nSchwächen: Infanterie"
 END
 
 CONTROLBAR:ToolTipUSABuildPointDefenseDrone
@@ -13939,7 +13951,7 @@ CONTROLBAR:ToolTipUSABuildPointDefenseDrone
 END
 
 CONTROLBAR:ToolTipChinaBuildHelix
-"Transporthubschrauber.\nKann mit Abwehreinrichtungen und Napalmbomben bestückt werden.\n\nStärken: Panzer, leichte Fahrzeuge\nSchwächen: Raketen-Bots, Flugabwehrgeschütze"
+"Transporthubschrauber.\nKann mit Abwehreinrichtungen und Napalmbomben bestückt werden.\n\nStärken: Panzer und leichte Fahrzeuge\nSchwächen: Raketentruppen und Flugabwehrgeschütze"
 END
 
 CONTROLBAR:ToolTipChinaBuildListeningOutpost
@@ -13947,11 +13959,11 @@ CONTROLBAR:ToolTipChinaBuildListeningOutpost
 END
 
 CONTROLBAR:ToolTipChinaBuildECM
-"Stärken: Panzer, Fahrzeuge\nSchwächen: Cyborgs, Flugzeuge"
+"Stärken: Panzer und Fahrzeuge\nSchwächen: Infanterie und Flugzeuge"
 END
 
 CONTROLBAR:ToolTipGLABuildBattleBus
-"Bietet Platz für 8 Cyborgs.\n\nStärken: Cyborgs, Gebäude"
+"Bietet Platz für 8 Infanteristen.\n\nStärken: Infanterie und Gebäude"
 END
 
 CONTROLBAR:ToolTipUSAScienceSpectreGunship
@@ -13959,7 +13971,7 @@ CONTROLBAR:ToolTipUSAScienceSpectreGunship
 END
 
 CONTROLBAR:ToolTipUSAScienceLeafletDrop
-"Mit Flugblattaktionen können Sie feindliche Einheiten einige Zeit aufhalten\n\nProduktionsstätte: Kommandozentrale"
+"Mit Flugblattaktionen können Sie feindliche Einheiten einige Zeit aufhalten.\n\nProduktionsstätte: Kommandozentrale"
 END
 
 CONTROLBAR:ToolTipChinaScienceTankHunterTraining
@@ -13979,7 +13991,7 @@ CONTROLBAR:ToolTipChinaScienceGattlingTankTraining
 END
 
 CONTROLBAR:ToolTipChinaScienceNukeDrop
-"Eine taktische Atombombe wird abgeworfen\n\nProduktionsstätte: Kommandozentrale"
+"Eine taktische Atombombe wird abgeworfen.\n\nProduktionsstätte: Kommandozentrale"
 END
 
 CONTROLBAR:ToolTipChinaScienceFrenzy
@@ -14007,11 +14019,11 @@ CONTROLBAR:ToolTipSelectBattleships
 END
 
 CONTROLBAR:ToolTipChinaScienceTankParadrop
-"Werfen Sie Battlemaster-Panzer ab\n\nStufe 1: 1 Battlemaster\nStufe 2: 2 Battlemaster\nStufe 3: 4 Battlemaster\n\nProduktionsstätte: Kommandozentrale"
+"Werfen Sie Battlemaster ab\n\nStufe 1: 1 Battlemaster\nStufe 2: 2 Battlemaster\nStufe 3: 4 Battlemaster\n\nProduktionsstätte: Kommandozentrale"
 END
 
 CONTROLBAR:ToolTipChinaScienceInfantryParadrop
-"Werfen Sie Standard-Cyborgs ab.\n\nStufe 1: 5 Cyborgs\nStufe 2: 10 Cyborgs\nStufe 3: 15 Cyborgs\n\nProduktionsstätte: Kommandozentrale"
+"Werfen Sie Rotgardisten ab.\n\nStufe 1: 5 Rotgardisten\nStufe 2: 10 Rotgardisten\nStufe 3: 15 Rotgardisten\n\nProduktionsstätte: Kommandozentrale"
 END
 
 TOOLTIP:ChallengeButton
@@ -14079,7 +14091,7 @@ GUI:BioClassNumber_Pos0
 END
 
 TOOLTIP:BioStrategyLong_Pos0
-"General Malcolm \"Ass\" Granger vertraut im Kampf gegen seine Feinde auf die Überlegenheit seiner Luftwaffe."
+"General Malcolm \"Ace\" Granger vertraut im Kampf gegen seine Feinde auf die Überlegenheit seiner Luftwaffe."
 END
 
 GUI:BioDefeatedEntry_Pos0
@@ -14091,7 +14103,7 @@ GUI:BioVictoriousEntry_Pos0
 END
 
 GUI:BioNameEntry_Pos1
-"Dr. Trax"
+"Dr. Thrax"
 END
 
 GUI:BioDOBEntry_Pos1
@@ -14103,7 +14115,7 @@ GUI:BioBirthplaceEntry_Pos1
 END
 
 GUI:BioStrategyEntry_Pos1
-"Säurewaffen"
+"Chemiewaffen"
 END
 
 GUI:BioRankEntry_Pos1
@@ -14115,7 +14127,7 @@ GUI:BioBranchEntry_Pos1
 END
 
 TOOLTIP:BioStrategyLong_Pos1
-"Dr. Trax bekämpft seine Feinde mit ätzenden Chemikalien."
+"Dr. Thrax bekämpft seine Feinde ausschließlich mit giftigen Biowaffen."
 END
 
 GUI:BioClassNumber_Pos1
@@ -14127,7 +14139,7 @@ GUI:BioDefeatedEntry_Pos1
 END
 
 GUI:BioVictoriousEntry_Pos1
-"Sie haben meine Säurewaffen unterschätzt. Tja, das haben Sie jetzt davon, General!"
+"Sie haben meine Chemiewaffen unterschätzt. Tja, das haben Sie jetzt davon, General!"
 END
 
 GUI:BioNameEntry_Pos2
@@ -14139,7 +14151,7 @@ GUI:BioDOBEntry_Pos2
 END
 
 GUI:BioBirthplaceEntry_Pos2
-"Base Ox, Chengdu, Asien"
+"Base Ox, Chengdu, China"
 END
 
 GUI:BioStrategyEntry_Pos2
@@ -14179,7 +14191,7 @@ GUI:BioDOBEntry_Pos3
 END
 
 GUI:BioBirthplaceEntry_Pos3
-"Camp Franklin, WA-Kernland"
+"Camp Franklin, USA"
 END
 
 GUI:BioStrategyEntry_Pos3
@@ -14207,7 +14219,7 @@ GUI:BioDefeatedEntry_Pos3
 END
 
 GUI:BioVictoriousEntry_Pos3
-"Wie gesagt. Gegen meine Superwaffen haben Sie keine Chance.\nVersuchen wir's noch einmal?"
+"Wie gesagt. Gegen meine Superwaffen haben Sie keine Chance.\nVersuchen wir es noch einmal?"
 END
 
 GUI:BioNameEntry_Pos4
@@ -14219,7 +14231,7 @@ GUI:BioDOBEntry_Pos4
 END
 
 GUI:BioBirthplaceEntry_Pos4
-"Base Rat, Jinan, Asien"
+"Base Rat, Jinan, China"
 END
 
 GUI:BioStrategyEntry_Pos4
@@ -14243,7 +14255,7 @@ GUI:BioClassNumber_Pos4
 END
 
 GUI:BioDefeatedEntry_Pos4
-"Sie haben meine Panzer besiegt, General.\nAber die Tigerin wird Sie zerquetschen wir ein Insekt!"
+"Sie haben meine Panzer besiegt, General.\nAber die Tigerin wird Sie zerquetschen wie ein Insekt!"
 END
 
 GUI:BioVictoriousEntry_Pos4
@@ -14259,7 +14271,7 @@ GUI:BioDOBEntry_Pos5
 END
 
 GUI:BioBirthplaceEntry_Pos5
-"Fort Union, Redwax Beach, WA-Kernland"
+"Fort Union, Rotholz Küste, Kalifornien, USA"
 END
 
 GUI:BioStrategyEntry_Pos5
@@ -14275,7 +14287,7 @@ GUI:BioBranchEntry_Pos5
 END
 
 TOOLTIP:BioStrategyLong_Pos5
-"\"Nadelspitze\" Townes vernichtet seine Gegner mit modernen Laserwaffen."
+"General \"Nadelspitze\" Townes vernichtet seine Gegner mit modernen Laserwaffen."
 END
 
 GUI:BioClassNumber_Pos5
@@ -14299,7 +14311,7 @@ GUI:BioDOBEntry_Pos6
 END
 
 GUI:BioBirthplaceEntry_Pos6
-"Tirplis, Limbuya"
+"Tripoli, Lybien"
 END
 
 GUI:BioStrategyEntry_Pos6
@@ -14323,7 +14335,7 @@ GUI:BioClassNumber_Pos6
 END
 
 GUI:BioDefeatedEntry_Pos6
-"Meine Cyborgs werden mir diese Niederlage nicht verzeihen, General.\nSie haben mit ihren genialen Taktiken meine Verschrottung unterzeichnet..."
+"Meine Männer werden mir diese Niederlage nicht verzeihen, General.\nSie haben mit ihren genialen Taktiken mein Todesurteil unterzeichnet..."
 END
 
 GUI:BioVictoriousEntry_Pos6
@@ -14339,11 +14351,11 @@ GUI:BioDOBEntry_Pos7
 END
 
 GUI:BioBirthplaceEntry_Pos7
-"Base Snake, Dragon City, Asien"
+"Base Snake, Peking, China"
 END
 
 GUI:BioStrategyEntry_Pos7
-"Cyborg-Divisionen"
+"Infanterie-Divisionen"
 END
 
 GUI:BioRankEntry_Pos7
@@ -14355,7 +14367,7 @@ GUI:BioBranchEntry_Pos7
 END
 
 TOOLTIP:BioStrategyLong_Pos7
-"General \"Amboss\" Shin Fai zwingt seine Feinde mit gut ausgebildeten Cyborg-Truppen in die Knie."
+"General \"Amboss\" Shin Fai zwingt seine Feinde mit gut ausgebildeten Infanterie in die Knie."
 END
 
 GUI:BioClassNumber_Pos7
@@ -14367,7 +14379,7 @@ GUI:BioDefeatedEntry_Pos7
 END
 
 GUI:BioVictoriousEntry_Pos7
-"Wir haben hübsche Uniformen … kommen Sie doch zu uns … es wird Ihnen gefallen.\nOder auch nicht."
+"Wir haben hübsche Uniformen ... kommen Sie doch zu uns ... es wird Ihnen gefallen.\nOder auch nicht."
 END
 
 GUI:BioNameEntry_Pos8
@@ -14395,7 +14407,7 @@ GUI:BioBranchEntry_Pos8
 END
 
 TOOLTIP:BioStrategyLong_Pos8
-"General Rodall \"Wumms\" Juhziz lehrt seine Gegner mit gewaltigen Explosionen das Fürchten."
+"Rodall \"Wumms\" Juhziz lehrt seine Gegner mit gewaltigen Explosionen das Fürchten."
 END
 
 GUI:BioClassNumber_Pos8
@@ -14419,7 +14431,7 @@ GUI:BioDOBEntry_Pos9
 END
 
 GUI:BioBirthplaceEntry_Pos9
-"Base Dragon, Lang-Hang, Asien"
+"Base Dragon, Lanzhou, China"
 END
 
 GUI:BioStrategyEntry_Pos9
@@ -14467,7 +14479,7 @@ GUI:BioStrategyEntry_Pos10
 END
 
 GUI:BioRankEntry_Pos10
-"GUI:BioRankEntry_Pos10"
+"."
 END
 
 GUI:BioBranchEntry_Pos10
@@ -14631,7 +14643,7 @@ ACADEMY:TryBuildingRadar
 END
 
 ACADEMY:BuildMorePeons
-"Alle Generäle sollten eine einfache Regel beherzigen: Die unteren Ränge sind das Rückgrat einer Armee. Ohne Bulldozer und Arbeitsbots kannst du keinen Stützpunkt errichten. Diese Einheiten legen den Grundstein für deine zukünftigen Triumphe. Vergiss das nie!"
+"Alle Generäle sollten eine einfache Regel beherzigen: Die unteren Ränge sind das Rückgrat einer Armee. Ohne Bulldozer und Arbeiter kannst du keinen Stützpunkt errichten. Diese Einheiten legen den Grundstein für deine zukünftigen Triumphe. Vergiss das nie!"
 END
 
 ACADEMY:TryCapturingStructures
@@ -14647,7 +14659,7 @@ ACADEMY:TryUsingSuperweapons
 END
 
 ACADEMY:TryGarrisoningAStructure
-"Cyborgs sind auf offenem Feld sehr effektiv, sie können sich aber auch in Zivilgebäuden verschanzen. Wähle die gewünschten Cyborgs dazu aus und schicke sie in ein leeres Gebäude. Dort sind sie in Sicherheit, bis deine Gegner mit Blendgranaten, Säuretraktoren oder Drachenpanzern anrücken."
+"Infanterie ist auf offenem Feld sehr effektiv. Doch der Schutz von Gebäuden ist nicht zu verachten. Besetzte Gebäude mit deinen Truppen und sie können nur noch von Rangern mit Blendgranaten, Drachenpanzern und Toxintraktoren direkt angegriffen werden."
 END
 
 ACADEMY:IdleBuildingUnits
@@ -14667,15 +14679,15 @@ ACADEMY:RanOutOfPower
 END
 
 ACADEMY:BuildMoreGatherers
-"Baue reichlich Arbeitsbots, Versorgungs-LKWs oder Chinooks, um die Rohstoffversorgung deiner Armee zu sichern. Klicke einfach auf ein Nachschub- oder Geheimlager, um zusätzliche Einheiten zu bauen. Auf diese Weise kannst du deine Rohstoffreserven aufstocken."
+"Baue reichlich Arbeiter, Versorgungs-LKWs oder Chinooks, um die Rohstoffversorgung deiner Armee zu sichern. Klicke einfach auf ein Nachschub- oder Geheimlager, um zusätzliche Einheiten zu bauen. Auf diese Weise kannst du deine Rohstoffreserven aufstocken."
 END
 
 ACADEMY:BuildAHero
-"Infiltratoren, Kommandobots und Black Bots können eine Schlacht entscheiden, da sie perfekt getarnt und für deine Gegner nicht zu sehen sind. Auf dem Radar ist die Position dieser Einheiten mit einem Fadenkreuz markiert. Da du immer nur eine Helden-Einheit bauen darfst, solltest du ihre Bedeutung nicht unterschätzen!"
+"Jarmen Kell, Colonel Burton und Black Lotus können eine Schlacht entscheiden, da sie perfekt getarnt und für deine Gegner nicht zu sehen sind. Auf dem Radar ist die Position dieser Einheiten mit einem Fadenkreuz markiert. Da du immer nur einen Helden haben darfst, solltest du ihre Bedeutung nicht unterschätzen!"
 END
 
 ACADEMY:PickStrategyCenterPlan
-"Das Strategiezentrum der WA ist sehr nützlich. Wähle eine Strategie, die deinem Schlachtplan (Zerstörung, Bombardement oder Stellung halten) entspricht. Die Wahl des richtigen Schlachtplanes hat schon so manchen Krieg entschieden. Darüber hinaus stehen für das Strategiezentrum zahlreiche Upgrades zur Verfügung."
+"Das Strategiezentrum der WA ist sehr nützlich. Wähle eine Strategie (Zerstörung, Bombardement oder Stellung halten), die deinem Schlachtplan entspricht. Die Wahl des richtigen Schlachtplanes hat schon so manchen Krieg entschieden. Darüber hinaus stehen für das Strategiezentrum zahlreiche Upgrades zur Verfügung."
 END
 
 ACADEMY:UseTunnelNetwork
@@ -14691,7 +14703,7 @@ ACADEMY:UseSecondaryIncomeMethods
 END
 
 ACADEMY:ClearBuildings
-"Befestigte Gebäude sind schwer zu knacken ... es sei denn, du kennst ein paar Tricks. Rüste deine Ranger mit Blendgranaten aus, baue Säuretraktoren oder säubere die Gebäude mit Drachenpanzern. Mit ihren Bunker Buster-Bomben kann die WA übrigens sogar Tunnelsysteme räumen."
+"Befestigte Gebäude sind schwer zu knacken... es sei denn, du kennst ein paar Tricks. Rüste deine Ranger mit Blendgranaten aus, baue Toxin-Traktoren oder säubere die Gebäude mit Drachenpanzern. Mit ihren Bunker Buster-Bomben kann die WA übrigens sogar Tunnelsysteme räumen."
 END
 
 ACADEMY:PickUpSalvage
@@ -14707,11 +14719,11 @@ ACADEMY:MultipleSupplyCenters
 END
 
 ACADEMY:GarrionVehicle
-"Bestimmte Einheiten können Fahrzeuge entführen. Wenn du ein feindliches Fahrzeug mit einem Entführer oder einer fahrenden Bombe kaperst, kannst du unerkannt in feindliche Gebiete vorstoßen."
+"Bestimmte Einheiten können Fahrzeuge entführen. Wenn du ein feindliches Fahrzeug mit einem Entführer oder einem Terroristen kaperst, kannst du unerkannt in feindliche Gebiete vorstoßen."
 END
 
 ACADEMY:UseSelectionHotkeys
-"Schnelltasten erleichtern die Befehligung deiner Streitkräfte ungemein. Mit \"E\"' kannst du alle Einheiten eines Typs auf dem Bildschirm auswählen. Willst du alle Einheiten auf dem Schlachtfeld auswählen, drücke die Taste zweimal. Mit \"Q\" wählst du alle Einheiten auf der Karte aus. \"W\" wählt alle Lufteinheiten auf der Karte aus. Versuche es."
+"Schnelltasten erleichtern die Befehligung deiner Streitkräfte ungemein. Mit \"E\" kannst du alle Einheiten eines Typs auf dem Bildschirm auswählen. Willst du alle Einheiten auf dem Schlachtfeld auswählen, drücke die Taste zweimal. Mit \"Q\" wählst du alle Einheiten auf der Karte aus. \"W\" wählt alle Lufteinheiten auf der Karte aus. Versuche es."
 END
 
 ACADEMY:AlternateMouseInterface
@@ -14719,15 +14731,15 @@ ACADEMY:AlternateMouseInterface
 END
 
 ACADEMY:DoubleClickAttackMoveGuard
-"Wir haben die Steuerung deiner Truppen vereinfacht. Wähle die gewünschten Einheiten einfach aus und doppelklicke auf die Zielposition. Die Einheiten rücken nun zum Zielgebiet vor und bewachen es. Du kannst diese Funktion im Optionen-Menü aktivieren"
+"Wir haben die Steuerung deiner Truppen vereinfacht. Wähle die gewünschten Einheiten einfach aus und doppelklicke auf die Zielposition. Die Einheiten rücken nun zum Zielgebiet vor und bewachen es. Du kannst diese Funktion im Optionen-Menü aktivieren."
 END
 
 ACADEMY:BuildBarracksSooner
-"Nur wenn du frühzeitig eine Kaserne errichtest, kannst du eine ausgewogene Armee aufbauen. Cyborgs haben schon so manche Schlacht entschieden. Vergiss das nicht!"
+"Nur wenn du frühzeitig eine Kaserne errichtest, kannst du eine ausgewogene Armee aufbauen. Truppen haben schon so manche Schlacht entschieden. Vergiss das nicht!"
 END
 
 ACADEMY:BuildWarFactorySooner
-"Cyborgs und Flugzeuge sind schön und gut, aber es geht nichts über einen ordentlichen Panzer. Baue daher frühzeitig eine Waffenfabrik oder einen Waffenhändler."
+"Truppen und Flugzeuge sind schön und gut, aber es geht nichts über einen ordentlichen Panzer. Baue daher frühzeitig eine Waffenfabrik oder einen Waffenhändler."
 END
 
 ACADEMY:BuildTechStructureSooner
@@ -14739,11 +14751,11 @@ ACADEMY:NoIncome
 END
 
 ACADEMY:ClearMines
-"Sprengfallen sind der Albtraum deiner Gegner. Lediglich Bulldozer und Arbeitsbots können diese lästigen Minen unschädlich machen."
+"Sprengfallen sind der Albtraum deiner Gegner. Lediglich Bulldozer und Arbeiter können diese lästigen Minen unschädlich machen."
 END
 
 ACADEMY:UnmannedVehicles
-"Einige Einheiten können die Fahrer feindlicher Fahrzeuge gezielt ausschalten. Anschließend können Sie das Fahrzeug mit Ihren Cyborgs entführen. Machen Sie eine Spritztour auf Kosten des Gegners!"
+"Einige Einheiten können die Fahrer feindlicher Fahrzeuge gezielt ausschalten. Anschließend können Sie das Fahrzeug mit Ihren Einheiten entführen. Machen Sie eine Spritztour auf Kosten des Gegners!"
 END
 
 ACADEMY:DisguisedUnits
@@ -14755,7 +14767,7 @@ ACADEMY:StealthUpgrade
 END
 
 ACADEMY:Firestorm
-"Feuern mehrere MiGs oder Infernalgeschütze auf ein Ziel, kann der Asiatische Pakt einen Feuersturm entfesseln. Je besser du deine Angriffe koordinierst, desto effektiver bist du!"
+"Feuern mehrere MiG's oder Infernalgeschütze auf ein Ziel, kann der Asiatische Pakt einen Feuersturm entfesseln. Je besser du deine Angriffe koordinierst, desto effektiver bist du!"
 END
 
 GUI:HeatEffects
@@ -24581,7 +24593,7 @@ TOOLTIP:Community
 END
 
 CONTROLBAR:Nuke_ToolTipChinaBuildHelix
-"Transporthubschrauber.\nKann mit Abwehreinrichtungen und Atombomben bestückt werden.\n\nStärken: Panzer, leichte Fahrzeuge\nSchwächen: Raketen-Truppen, Flugabwehrgeschütze"
+"Transporthubschrauber.\nKann mit Abwehreinrichtungen und Atombomben bestückt werden.\n\nStärken: Panzer und leichte Fahrzeuge\nSchwächen: Raketentruppen und Flugabwehrgeschütze"
 END
 
 MAP:CHI01xListeningPostHint01
@@ -24601,7 +24613,7 @@ CONTROLBAR:SupW_ToolTipUSABuildPatriotBattery
 END
 
 MAP:USA03xBurtonSurvive
-"NACHRICHT:\nDer Kommandobot muss überleben!"
+"NACHRICHT:\nColonel Burton muss überleben!"
 END
 
 MAP:MD_GLA04_GatherHint
@@ -24613,7 +24625,7 @@ MAP:MD_GLA04_HospitalHint
 END
 
 MAP:MD_GLA04_TractorsHint
-"TIPP:\nSäuretraktoren können Einheiten in befestigten Gebäuden zerstören."
+"TIPP:\nToxin-Traktoren können Einheiten in befestigten Gebäuden töten."
 END
 
 OBJECT:AssaultTroopTransport
@@ -24629,7 +24641,7 @@ UPGRADE:IsotopeStability
 END
 
 CONTROLBAR:Infa_ToolTipChinaUpgradeRedGuardCaptureBuilding
-"Mit den Minigun-Cyborgs können Sie feindliche und Hightech-Gebäude erobern."
+"Mit den Minigunner können Sie feindliche und Hightech-Gebäude erobern."
 END
 
 OBJECT:Lazr_PatriotBattery
@@ -24637,15 +24649,15 @@ OBJECT:Lazr_PatriotBattery
 END
 
 SCIENCE:Infa_ChinaRedGuardTraining
-"Minigun-Training"
+"Minigunner-Ausbildung"
 END
 
 CONTROLBAR:Infa_ToolTipChinaScienceRedGuardTraining
-"Alle neuen Minigun-Cyborgs sind Eliteeinheiten."
+"Alle neuen Minigunner sind Eliteeinheiten."
 END
 
 CONTROLBAR:ToolTipChinaBuildNuclearMissileLauncherBoss
-"Feuert eine Atomrakete ab. Produziert wichtige asiatische Upgrades.\n\nEnergiebedarf: 10 Countdown: 6:00"
+"Feuert eine Atomrakete ab. Produziert wichtige asiatische Upgrades.\n\nEnergiebedarf: 10\nCountdown: 6:00"
 END
 
 CONTROLBAR:ToolTipUSABuildParticleCannonBoss
@@ -24657,7 +24669,7 @@ CONTROLBAR:ToolTipGLABuildCombatBikeTerrorist
 END
 
 CONTROLBAR:ToolTipChinaBuildSuperHacker
-"Deaktiviert feindliche Gebäude und Fahrzeuge mit Computerviren und hackt sich zur Geldbeschaffung ins Internet. Ist getarnt.\n\nStärken: Gebäude\nSchwächen: Cyborgs und Fahrzeuge."
+"Deaktiviert feindliche Gebäude und Fahrzeuge mit Computerviren und hackt sich zur Geldbeschaffung ins Internet. Ist getarnt.\n\nStärken: Gebäude\nSchwächen: Infanterie und Fahrzeuge"
 END
 
 UPGRADE:Demo_SuicideBomb
@@ -24677,7 +24689,7 @@ CAMPAIGN:CHALLENGE_0
 END
 
 CAMPAIGN:CHALLENGE_1
-"Generalsherausforderung \"Säure\""
+"Generalsherausforderung \"Chemiewaffen\""
 END
 
 CAMPAIGN:CHALLENGE_2
@@ -24697,11 +24709,11 @@ CAMPAIGN:CHALLENGE_5
 END
 
 CAMPAIGN:CHALLENGE_6
-"Generalsherausforderung \"Undercover\""
+"Generalsherausforderung \"Tarnung\""
 END
 
 CAMPAIGN:CHALLENGE_7
-"Generalsherausforderung \"Cyborgs\""
+"Generalsherausforderung \"Infanterie\""
 END
 
 CAMPAIGN:CHALLENGE_8
@@ -24769,7 +24781,7 @@ OBJECT:Ox
 END
 
 CONTROLBAR:TooltipUpgradeChinaTacticalNukeMig
-"MiGs können kleine Atombomben abwerfen."
+"MiG's können kleine Atombomben abwerfen."
 END
 
 CONTROLBAR:UpgradeChinaTacticalNukeMig
@@ -24777,7 +24789,7 @@ CONTROLBAR:UpgradeChinaTacticalNukeMig
 END
 
 CONTROLBAR:Boss_ToolTipChinaBuildBarracks
-"Bildet Cyborgs aus."
+"Bildet Truppen aus."
 END
 
 CONTROLBAR:Boss_ToolTipChinaBuildAirField
@@ -24785,7 +24797,7 @@ CONTROLBAR:Boss_ToolTipChinaBuildAirField
 END
 
 CONTROLBAR:Boss_ToolTipChinaBuildBunker
-"Bietet Platz für 5 Cyborgs"
+"Bietet Platz für 5 Soldaten"
 END
 
 CONTROLBAR:Boss_ToolTipChinaBuildWarFactory
@@ -24797,19 +24809,19 @@ CONTROLBAR:Boss_ToolTipChinaBuildSupplyCenter
 END
 
 CONTROLBAR:Infa_TooltipParaDrop
-"Wirft Minigun-Cyborgs ab.\n\nCountdown: 4:00"
+"Wirft Minigunner ab.\n\nCountdown: 4:00"
 END
 
 CONTROLBAR:Infa_ConstructChinaInfantryHacker
-"&Super-Hacker"
+"&Super Hacker"
 END
 
 CONTROLBAR:Infa_ToolTipChinaBuildHacker
-"Getarnt. Deaktiviert feindliche Gebäude und Fahrzeuge mit Computerviren und hackt sich zur Geldbeschaffung ins Internet.\n\nStärken: Gebäude\nSchwächen: Cyborgs und Fahrzeuge"
+"Getarnt. Deaktiviert feindliche Gebäude und Fahrzeuge mit Computerviren und hackt sich zur Geldbeschaffung ins Internet.\n\nStärken: Gebäude\nSchwächen: Infanterie und Fahrzeuge"
 END
 
 CONTROLBAR:Infa_ConstructChinaInfantryBlackLotus
-"&Super-Bot"
+"&Black Lotus"
 END
 
 CONTROLBAR:Infa_ConstructChinaVehicleListeningOutpost
@@ -24825,7 +24837,7 @@ CONTROLBAR:Infa_ConstructChinaVehicleHelix
 END
 
 CONTROLBAR:Infa_ToolTipChinaBuildHelix
-"Transporthubschrauber.\nKann mit Abwehreinrichtungen und Napalmbomben bestückt werden.\n\nStärken: Panzer, leichte Fahrzeuge\nSchwächen: Raketen-Truppen, Flugabwehrgeschütze"
+"Transporthubschrauber.\nKann mit Abwehreinrichtungen und Napalmbomben bestückt werden.\n\nStärken: Panzer und leichte Fahrzeuge\nSchwächen: Raketentruppen und Flugabwehrgeschütze"
 END
 
 OBJECT:Infa_Helix
@@ -24833,7 +24845,7 @@ OBJECT:Infa_Helix
 END
 
 CONTROLBAR:Infa_ToolTipChinaScienceInfantryParadrop
-"Setzt Minigun-Cyborgs im Zielgebiet ab.\n\nStufe 1: 5 Minigun-Cyborgs\nStufe 2: 10 Minigun-Cyborgs\nStufe 3: 15 Minigun-Cyborgs\n\nProduktionsstätte:\nKommandozentrale"
+"Setzt Minigunner im Zielgebiet ab.\n\nStufe 1: 5 Minigunner\nStufe 2: 10 Minigunner\nStufe 3: 15 Minigunner\n\nProduktionsstätte: Kommandozentrale"
 END
 
 CONTROLBAR:UpgradeSuicideBomb
@@ -24845,7 +24857,7 @@ CONTROLBAR:ToolTipGLAUpgradeSuicideBomb
 END
 
 OBJECT:MiniGunner
-"Minigun-Cyborg"
+"Minigunner"
 END
 
 OBJECT:AirF_Chinook
@@ -24877,7 +24889,7 @@ CONTROLBAR:Boss_ToolTipUSABuildPowerPlant
 END
 
 CONTROLBAR:Nuke_ToolTipChinaBuildListeningOutpost
-"Transporter. Entdeckt feindliche Einheiten.\n\nStärken: Cyborgs, Gebäude\nSchwächen: Panzer, Flugzeuge"
+"Transporter. Entdeckt feindliche Einheiten.\n\nStärken: Infanterie und Gebäude\nSchwächen: Panzer und Flugzeuge"
 END
 
 CONTROLBAR:Nuke_ConstructChinaVehicleListeningOutpost
@@ -24885,11 +24897,11 @@ CONTROLBAR:Nuke_ConstructChinaVehicleListeningOutpost
 END
 
 CONTROLBAR:Infa_ToolTipChinaBuildTroopCrawler
-"Transportfahrzeug mit 8 Minigun-Cyborgs. Ortet unsichtbare Einheiten.\n\nStärken: Cyborgs und Gebäude\nSchwächen: Panzer und Flugzeuge"
+"Transportfahrzeug mit 8 Minigunner. Ortet unsichtbare Einheiten.\n\nStärken: Infanterie und Gebäude\nSchwächen: Panzer und Flugzeuge"
 END
 
 CONTROLBAR:Infa_ToolTipChinaBuildListeningOutpost
-"Transportfahrzeug mit 8 Cyborgs. Ortet unsichtbare Einheiten.\n\nStärken: Cyborgs und Gebäude\nSchwächen: Panzer und Flugzeuge"
+"Transportfahrzeug mit 8 Soldaten. Ortet unsichtbare Einheiten.\n\nStärken: Infanterie und Gebäude\nSchwächen: Panzer und Flugzeuge"
 END
 
 CONTROLBAR:Infa_ConstructChinaBunker
@@ -24897,7 +24909,7 @@ CONTROLBAR:Infa_ConstructChinaBunker
 END
 
 CONTROLBAR:Infa_ToolTipChinaBuildBunker
-"Bietet Platz für 10 asiatische Cyborgs.\nUpgrade für Minenfelder."
+"Bietet Platz für 10 Soldaten.\nUpgrade für Minenfelder."
 END
 
 OBJECT:Infa_Bunker
@@ -24909,39 +24921,39 @@ CONTROLBAR:ToolTipGLAScienceSneakAttack
 END
 
 CONTROLBAR:Chem_ConstructGLAInfantryRebel
-"&Säure-Cyborg"
+"Toxin-&Rebell"
 END
 
 CONTROLBAR:Chem_ToolTipGLABuildRebel
-"Attackiert mit einer starken Säure. Stärken: Cyborgs\nSchwächen: Panzer, leichte Fahrzeuge"
+"Attackiert mit einem starken Toxin.\n\nStärken: Infanterie\nSchwächen: Panzer und leichte Fahrzeuge"
 END
 
 OBJECT:Chem_Rebel
-"Säure-Cyborg"
+"Toxin-Rebell"
 END
 
 OBJECT:Chem_Terrorist
-"Säure-Bombe"
+"Toxin-Terrorist"
 END
 
 CONTROLBAR:Chem_ConstructGLAInfantryTerrorist
-"&Säure-Bombe"
+"Toxin-&Terrorist"
 END
 
 CONTROLBAR:Chem_ToolTipGLABuildTerrorist
-"Fahrende Bombe.\n\nExplodiert in einer Säurewolke."
+"Terrorist.\n\nExplodiert in einer Giftwolke."
 END
 
 CONTROLBAR:Chem_ConstructGLATunnelNetwork
-"&Säure-Tunnelsystem"
+"Toxin-&Tunnelsystem"
 END
 
 OBJECT:Chem_TunnelNetwork
-"Säure-Tunnelsystem"
+"Toxin-Tunnelsystem"
 END
 
 CONTROLBAR:Chem_ToolTipGLABuildTunnelNetwork
-"Abwehreinrichtung mit unterirdischem Tunnel. Greift mit einer starken Säure an. Einheiten können das Tunnel-System betreten und an anderer Stelle wieder verlassen."
+"Abwehreinrichtung mit unterirdischem Tunnel. Greift mit einem starken Toxin an.\nEinheiten können das Tunnel-System betreten und an anderer Stelle wieder verlassen."
 END
 
 CONTROLBAR:UpgradeStealthComanche
@@ -24949,7 +24961,7 @@ CONTROLBAR:UpgradeStealthComanche
 END
 
 CONTROLBAR:ToolTipAirFUpgradeComancheStealth
-"Comanche mit Tarn-Upgrade"
+"Der Comanche wird mit Tarnkappen-Technologie\nausgestattet."
 END
 
 OBJECT:Entrance
@@ -24993,7 +25005,7 @@ OBJECT:Lazr_Tank
 END
 
 CONTROLBAR:Lazr_ToolTipUSABuildCrusader
-"Stärken: Fahrzeuge, Gebäude\nSchwächen: Flugzeuge, Raketen-Bots"
+"Stärken: Fahrzeuge und Gebäude\nSchwächen: Flugzeuge und Raketentruppen"
 END
 
 CONTROLBAR:ToolTipChinaBuildEmperor
@@ -25029,15 +25041,15 @@ MAP:MD-USA04_Hint11
 END
 
 MAP:MD-USA06Warning17
-"WARNUNG:\nDr. Trax ist für seine Schleichangriffe durch Tunnelsysteme berüchtigt"
+"WARNUNG:\nDr. Thrax ist für seine Schleichangriffe durch Tunnelsysteme berüchtigt."
 END
 
 MD_GLA05-MilitaryBriefing:String_1
-"\nDer Angriff auf den AP-Stützpunkt hat begonnen!\nBald gehört die Basis uns!"
+"\nDer Angriff auf den AP-Stützpunkt hat begonnen!\nBald gehört er uns!"
 END
 
 MAP:MD_CHI03-Title-01
-"Gubkor, irgendwo auf dem Kontinent\n'Befreiung'"
+"Coburg, irgendwo auf dem Kontinent\n'Befreiung'"
 END
 
 MAP:MD_CHI03-Info-MissionObjective-01
@@ -25073,7 +25085,7 @@ CONTROLBAR:Chem_ToolTipGLAUpgradeAPBullets
 END
 
 GUI:BioFeatures_USA
-"MOAB\nRaketenabwehrsysteme\nBunker Buster\nHellfire-Drohne\nSpectre\nÜberwachungsdrohne\nMikrowellenpanzer\nAvenger\nGeschützstellung"
+"Mutter aller Bomben\nRaketenabwehrsysteme\nBunker Buster\nHellfire-Drohne\nSpectre\nÜberwachungsdrohne\nMikrowellenpanzer\nAvenger\nGeschützstellung"
 END
 
 GUI:BioFeatures_GLA
@@ -25081,7 +25093,7 @@ GUI:BioFeatures_GLA
 END
 
 GUI:BioFeatures_China
-"Helix\nHorchposten\nNeutronenminen\nBoost\nWeb-Zentrum\nLangstreckenbomber\nECM-Panzer\n"
+"Helix\nHorchposten\nNeutronenminen\nBoost\nWeb-Zentrum\nLangstreckenbomber\nECM-Panzer"
 END
 
 GUI:BioFeatures_Pos0
@@ -25089,7 +25101,7 @@ GUI:BioFeatures_Pos0
 END
 
 GUI:BioFeatures_Pos1
-"Säure-Cyborgs\nSäure-Tunnelsysteme\nSäure-Bombe\nGamma-Upgrade\nPanzer starten mit Säuregranaten\nBeta-Upgrade-Säure\nKeine getarnten Einheiten"
+"Toxin-Rebellen\nToxin-Tunnelsysteme\nAnthraxbombe\nAnthrax Gamma-Upgrade\nPanzer starten mit Toxin-Granaten\nAnthrax Beta-Upgrade\nKeine getarnten Einheiten"
 END
 
 GUI:BioFeatures_Pos2
@@ -25097,7 +25109,7 @@ GUI:BioFeatures_Pos2
 END
 
 GUI:BioFeatures_Pos3
-"Aurora Alpha\nEMP-Patriot\nVerbesserte Brennstäbe\nPartikelkanonen sind preiswerter\nFahrzeuge kosten mehr\nKeine Panzer"
+"Aurora Alpha Bomber\nEMP-Patriots\nVerbesserte Brennstäbe\nPartikelkanonen sind preiswerter\nFahrzeuge kosten mehr\nKeine Panzer"
 END
 
 GUI:BioFeatures_Pos4
@@ -25109,11 +25121,11 @@ GUI:BioFeatures_Pos5
 END
 
 GUI:BioFeatures_Pos6
-"Tarnnetz-Upgrade für alle Gebäude\nGetarnte Cyborgs\nHat von Anfang an Tarnnetze\nBeginnt mit Entführer\nEntführer sind immer getarnt\nGPS-Störsender früher verfügbar\nGPS-Störsenders lädt schneller"
+"Tarnnetz-Upgrade für alle Gebäude\nGetarnte Rebellen\nHat von Anfang an Tarnnetze\nBeginnt mit Entführer\nEntführer sind immer getarnt\nGPS-Störsender früher verfügbar\nGPS-Störsender lädt schneller"
 END
 
 GUI:BioFeatures_Pos7
-"Truppentransporter\nHelix\nHorchposten\nBefestigte Bunker\nMinigun-Cyborgs\nSuper-Bots\nSuper-Hacker\nMinigun-Cyborg-Abwurf\nAlle Cyborgs sind Veteranen"
+"Truppentransporter\nHelix\nHorchposten\nBefestigte Bunker\nMinigunner\nBlack Lotus ist eine Eliteeinheit\nSuper Hacker\nMinigunner-Abwurf\nAlle Infanterieeinheiten sind Veteranen"
 END
 
 GUI:BioFeatures_Pos8
@@ -25121,7 +25133,7 @@ GUI:BioFeatures_Pos8
 END
 
 GUI:BioFeatures_Pos9
-"Nur das Beste vom Besten\nAlle Helden\nAlle Superwaffen\nVerschiedene Generalsfähigkeiten\nEinheiten werden von allen Kriegsparteien angeworben\nFortschrittliche Abwehrsysteme\n"
+"Nur das Beste vom Besten\nAlle Helden\nAlle Superwaffen\nVerschiedene Generalsfähigkeiten\nEinheiten werden von allen Kriegsparteien angeworben\nFortschrittliche Abwehrsysteme"
 END
 
 GUI:BioFeatures_Pos10
@@ -25177,7 +25189,7 @@ OBJECT:CINE_TreeBirds
 END
 
 TOOLTIP:NoUserMaps
-"Inoffizielle Karten sind in Spielen mit Statistikaufzeichnungen nicht zulässig"
+"Inoffizielle Karten sind in Spielen mit Statistikaufzeichnungen nicht zulässig."
 END
 
 GUI:FireWallPort
@@ -25189,7 +25201,7 @@ TOOLTIP:FireWallPort
 END
 
 CONTROLBAR:Tank_TooltipUpgradeChinaOverlordGattlingCannon
-"Dieser Emperor wird mit einer Gatling-Kanone aufgerüstet"
+"Dieser Emperor wird mit einer Gatling-Kanone aufgerüstet."
 END
 
 OBJECT:Tank_Overlord
@@ -25213,7 +25225,7 @@ CONTROLBAR:SabotageBuilding
 END
 
 CONTROLBAR:ToolTipGLASabotageBuilding
-"Kann feindliche Gebäude vorübergehend deaktivieren.\n\nStärken: Feindliche Gebäude\nSchwächen: Cyborgs, Späher"
+"Kann feindliche Gebäude vorübergehend deaktivieren.\n\nStärken: Feindliche Gebäude\nSchwächen: Infanterie und Aufklärungseinheiten"
 END
 
 SCIENCE:Nuke_ChinaCarpetBomb
@@ -25245,11 +25257,11 @@ OBJECT:Demo_DemoTrap
 END
 
 CONTROLBAR:Nuke_ToolTipChinaBuildPowerPlant
-"Asiatisches Kraftwerk. Kann vorübergehend überlastet werden\n\nEnergieausstoß: 18"
+"Asiatisches Kraftwerk.\nKann vorübergehend überlastet werden\n\nEnergieausstoß: 18"
 END
 
 CONTROLBAR:Nuke_ToolTipChinaScienceCarpetBomb
-"Fordert einen Bomber an, der das Zielgebiet mit Atomwaffen attackiert.\nProduktionsstätte: Kommandozentrale"
+"Fordert einen Bomber an, der das Zielgebiet mit Atomwaffen attackiert.\n\nProduktionsstätte: Kommandozentrale"
 END
 
 CONTROLBAR:Nuke_TooltipCarpetBomb
@@ -25285,7 +25297,7 @@ OBJECT:Nuke_CarpetBomb
 END
 
 CONTROLBAR:Slth_ConstructGLAInfantryRebel
-"Getarnter MG-Cybo&rg"
+"Getarnter &Rebell"
 END
 
 GUI:AdjustGameSpeed
@@ -25321,15 +25333,15 @@ MAP:TwoRoads
 END
 
 CONTROLBAR:Chem_TooltipFireRebelAmbush
-"Säure-Cyborg-Angriff\n\nCountdown: 4:00"
+"Toxin-Rebellen-Angriff\n\nCountdown: 4:00"
 END
 
 CONTROLBAR:AirF_ToolTipUSABuildAurora
-"Überschall-Angriffe machen den Aurora-Bomber unverwundbar gegen feindliches Feuer. Nach dem Angriff wird der Bomber um 50% langsamer.\n\nStärken: Gebäude\nSchwächen: Abfangjäger und Flugabwehrgeschütze"
+"Überschall-Angriffe machen den Aurora-Bomber unverwundbar gegen feindliches Feuer.\nNach dem Angriff wird der Bomber um 50% langsamer.\n\nStärken: Gebäude\nSchwächen: Abfangjäger und Flugabwehrgeschütze"
 END
 
 CONTROLBAR:Chem_ToolTipGLAScienceRebelAmbush
-"Bereiten Sie einen Hinterhalt mit Säure-Cyborgs vor.\n\nStufe 1: 4 Säure-Cyborgs\nStufe 2: 8 Säure-Cyborgs\nStufe 3: 16 Säure-Cyborgs\n\nProduktionsstätte:\nKommandozentrale"
+"Bereiten Sie einen Hinterhalt mit Toxin-Rebellen vor.\n\nStufe 1: 4 Toxin-Rebellen\nStufe 2: 8 Toxin-Rebellen\nStufe 3: 16 Toxin-Rebellen\n\nProduktionsstätte: Kommandozentrale"
 END
 
 CREDITS:PackagingProjectManager
