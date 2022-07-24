@@ -1,4 +1,4 @@
-﻿GUI:GameOptions
+GUI:GameOptions
 "Spieloptionen"
 END
 
@@ -643,15 +643,15 @@ GUI:ErrorCopyingFile
 END
 
 GUI:LoadReplay
-"Wiederholung laden"
+"Laden"
 END
 
 GUI:DeleteReplay
-"Wiederholung löschen"
+"Löschen"
 END
 
 GUI:CopyReplay
-"Wiederholung kopieren"
+"Kopieren"
 END
 
 GUI:ErrorDeletingFile
@@ -1579,15 +1579,15 @@ GUI:MoveScrollAnchor
 END
 
 GUI:GroupRoom1
-"1 vs. 1"
+"1 vs 1"
 END
 
 GUI:GroupRoom2
-"2 vs. 2"
+"2 vs 2"
 END
 
 GUI:GroupRoom3
-"3 vs. 3"
+"3 vs 3"
 END
 
 GUI:Email
@@ -1939,7 +1939,7 @@ Buddy:AddNotification
 END
 
 Buddy:MessageNotification
-"%hs sagt:\n\"%s…\""
+"%hs sagt:\n\"%s...\""
 END
 
 GUI:Com/Tac
@@ -2039,7 +2039,7 @@ GUI:ScreenshotCaptureDescription
 END
 
 GUI:Null
-""
+"."
 END
 
 GUI:CRCMismatch
@@ -2075,7 +2075,7 @@ QM:POOLSIZE
 END
 
 QM:LOOKINGFORBOT
-"Verbindung zum MatchMaker von Generäle - Die Stunde Null wird hergestellt ..."
+"Verbindung zum MatchMaker von Generäle - Die Stunde Null wird hergestellt..."
 END
 
 QM:SENTINFO
@@ -2083,7 +2083,7 @@ QM:SENTINFO
 END
 
 QM:WIDENINGSEARCH
-"Weitet Suche nach möglichen Gegnern aus ..."
+"Weitet Suche nach möglichen Gegnern aus..."
 END
 
 QM:MATCHED
@@ -3135,11 +3135,11 @@ GUI:SELECTION
 END
 
 GUI:TAUNT
-"GUI:TAUNT"
+"Spott"
 END
 
 GUI:MISC
-"GUI:MISC"
+"Sonstige"
 END
 
 GUI:DEBUG
@@ -3747,11 +3747,11 @@ Mouse:PlaceBeacon
 END
 
 SCRIPT:TestString
-"This is like a test string, dude."
+"This is like a test string, dude"
 END
 
 SCRIPT:LongTestString
-"This is like a really long test string, dude. It makes sure that the word wrap and the spacing works."
+"This is like a really long test string, dude. It makes sure that the word wrap and the spacing works"
 END
 
 SCIENCE:GeneralName
@@ -3975,7 +3975,7 @@ CONTROLBAR:FireBomb
 END
 
 CONTROLBAR:UnderConstructionDesc
-"Konstruktion zu\n%.f%% fertig."
+"Fortschritt: %.0f%%"
 END
 
 CONTROLBAR:OCLTimerDesc
@@ -6391,83 +6391,83 @@ MAP:CHI02Open
 END
 
 SCRIPT:CHI02AudioHolder01
-"SCRIPT:CHI02AudioHolder01"
+"<Rotgardist spricht>\n'General, wir sind alles, was von der Angriffstruppe übrig ist! Wir müssen eine Kommandozentrale bauen und das Radar hochfahren, um neue Befehle zu erhalten.'"
 END
 
 SCRIPT:CHI02AudioHolder02
-"SCRIPT:CHI02AudioHolder02"
+"<Rotgardist spricht>\n'General, wenn wir unser Radar nicht hochfahren, können wir keine Informationen über die Position des Feindes erhalten. Wir brauchen dieses Radar.'"
 END
 
 SCRIPT:CHI02AudioHolder03
-"SCRIPT:CHI02AudioHolder03"
+"<'EVA' spricht>\n'General, Sie leben!?! Wir dachten, wir hätten Sie verloren, als die Brücke einstürzte. Nun, Sie sind noch nicht außer Gefahr, also fangen wir an.'"
 END
 
 SCRIPT:CHI02AudioHolder04
-"SCRIPT:CHI02AudioHolder04"
+"<'EVA' spricht>\n'Als erstes müssen Sie Ihre Basis fertigstellen. Die Kaserne, der Reaktor und das Versorgungszentrum sind für Ihr Überleben unerlässlich, also schließen Sie den Bau sofort ab. Ich werde Sie erneut kontaktieren, sobald Ihre Basis fertig ist.'"
 END
 
 SCRIPT:CHI02AudioHolder05
-"SCRIPT:CHI02AudioHolder05"
+"<'EVA' spricht>\n'Ausgezeichnet, Ihre Basis ist komplett, bis auf eine Waffenfabrik. Wir müssen Ihnen jetzt eine besorgen. Hier sollte es eine überschüssige Basis geben – mit einer Waffenfabrik.'"
 END
 
 SCRIPT:CHI02AudioHolder06
-"SCRIPT:CHI02AudioHolder06"
+"<'EVA' spricht>\n'Ich weiß nicht, in welchem Zustand sich die Basis befindet, aber sie sollte es Ihnen ermöglichen, gepanzerte Einheiten zu bauen, um Ihren Kampf zu unterstützen. Kommen Sie so schnell wie möglich, General.'"
 END
 
 SCRIPT:CHI02AudioHolder07
-"SCRIPT:CHI02AudioHolder07"
+"<'EVA' spricht>\n'Jetzt kennen wir den Grund der IBG, nach Hongkong zu kommen: Sie zielen auf Schlüsselgebäude in der ganzen Stadt. Unser Hauptziel ist es, alle Streitkräfte der IBG zu vernichten, aber wenn wir sie auch davon abhalten könnten, diese Gebäude zu zerstören, wären unsere Anführer sehr dankbar.'"
 END
 
 SCRIPT:CHI02AudioHolder08
-"SCRIPT:CHI02AudioHolder08"
+"<'EVA' spricht>\n'Wenn Sie Ihr Radar in Betrieb halten können, kann ich die Terroristen für Sie verfolgen und Ihnen Ihre möglichen Ziele nennen.'"
 END
 
 SCRIPT:CHI02AudioHolder09
-"SCRIPT:CHI02AudioHolder09"
+"<'EVA' spricht>\n'General, ein Terrorist verlässt das Kongresszentrum und ist mit genügend Sprengstoff ausgestattet, um ein Gebäude zum Einsturz zu bringen! Ich werde den Terroristen auf Ihrem Radar rot markieren. Ich werde seine möglichen Ziele gelb markieren. Halte ihn auf, bevor er eines dieser Ziele erreicht!'"
 END
 
 SCRIPT:CHI02AudioHolder10
-"SCRIPT:CHI02AudioHolder10"
+"<'EVA' spricht>\n'Ein weiterer Terrorist hat das Kongresszentrum verlassen! Ich markiere seinen Standort rot. Seine möglichen Ziele sind gelb markiert. Halten Sie ihn auf, General.'"
 END
 
 SCRIPT:CHI02AudioHolder11
-"SCRIPT:CHI02AudioHolder11"
+"<'EVA' spricht>\n'General, dieses Gebäude ist ein Terroristenziel – wir müssen es schützen!'"
 END
 
 SCRIPT:CHI02AudioHolder12
-"SCRIPT:CHI02AudioHolder12"
+"<'EVA' spricht>\n'General, die Terroristen haben das Kongresszentrum übernommen! Sie müssen das Kongresszentrum und die dazugehörigen Parkhäuser zerstören, um die terroristische Bedrohung zu stoppen.'"
 END
 
 SCRIPT:CHI02AudioHolder13
-"SCRIPT:CHI02AudioHolder13"
+"<'EVA' spricht>\n'Ausgezeichnet, Sie haben die überschüssige Basis erreicht. Hmm, es ist nicht viel zu sehen, aber es wird Ihnen erlauben, Panzer und mehr Waffenfabriken zu bauen, wenn Sie es brauchen.'"
 END
 
 SCRIPT:CHI02AudioHolder14
-"SCRIPT:CHI02AudioHolder14"
+"<'EVA' spricht>\n'Die terroristische Bedrohung ist beendet. Gute Arbeit, General.'"
 END
 
 SCRIPT:CHI02AudioHolder15
-"SCRIPT:CHI02AudioHolder15"
+"<'EVA' spricht>\n'General, ich habe gepanzerte IBG-Einheiten in Bewegung entdeckt. Sie kamen nicht vom Kongresszentrum, also muss die IBG irgendwo in Hongkong eine andere Basis haben. Finde diese Basis und zerstöre sie!'"
 END
 
 SCRIPT:CHI02AudioHolder16
-"SCRIPT:CHI02AudioHolder16"
+"<'EVA' spricht>\n'General, die IBG hat ihre Toxin-Traktoren mitgebracht. Du kennst sie an dem grünen Schlamm, den sie versprühen. Halten Sie Ihre Infanterieeinheiten von ihnen fern und setzen Sie Ihre Panzer ein, um mit dieser neuen Bedrohung fertig zu werden.'"
 END
 
 SCRIPT:CHI02AudioHolder17
-"SCRIPT:CHI02AudioHolder17"
+"<'EVA' spricht>\n'Gute Arbeit, General, Sie haben die Toxin-Basis zerstört. Jetzt sollten sie keine Toxin-Traktoren mehr bauen können.'"
 END
 
 SCRIPT:CHI02AudioHolder18
-"SCRIPT:CHI02AudioHolder18"
+"<'EVA' spricht>\n'Warten Sie, General, vor Ihnen ist eine große Truppe. Ich fordere einen EMP-Streik, um das Gebiet zu räumen, Bereitschaft.'"
 END
 
 SCRIPT:CHI02AudioHolder19
-"SCRIPT:CHI02AudioHolder19"
+"<'EVA' spricht>\n'Das sollte Ihnen einen klaren Weg zu ihrer Basis geben. Bringen wir das zu Ende, General.'"
 END
 
 SCRIPT:CHI02AudioHolder20
-"SCRIPT:CHI02AudioHolder20"
+"<AutoFerry Kapitän spricht>\n'Endlich ist das Militär da! Diese Terroristen ruinieren mein Geschäft! Wenn Sie Ihre Truppen an Bord bringen, bringe ich Sie zum Kongresszentrum. Sie können sich durch die Hintertür schleichen und sie überraschen. Drücken Sie einfach die Transport-Taste, wenn Sie bereit sind.'"
 END
 
 SCRIPT:CHI02Box01
@@ -6511,7 +6511,7 @@ MAP:CHI03Obj3
 END
 
 MAP:CHI03AudioHolder01
-"MAP:CHI03AudioHolder01"
+"<Rotgardist spricht> 'General, der Wasserstand ist gesunken! IBG-Streitkräfte überqueren den Fluss!'"
 END
 
 MAP:CHI06Open
@@ -6719,7 +6719,7 @@ SCRIPT:TrainingUnits
 END
 
 SCRIPT:TrainingPower
-"Du hast den Fusionsreaktor der WA befreit. Die WA und AP versorgen ihre Stützpunkte mit Atomenergie. Die Energieleiste zeigt das Energieniveau deines Stützpunktes an. Hast du zu wenig Energie, fallen die Defensivsysteme und das Radar deiner Basis aus."
+"Du hast den Fusionsreaktor der Westlichen Allianz befreit. Die Westliche Allianz und der Asiatische Pakt versorgen ihre Stützpunkte mit Atomenergie. Die Energieleiste zeigt das Energieniveau deines Stützpunktes an. Hast du zu wenig Energie, fallen die Defensivsysteme und das Radar deiner Basis aus."
 END
 
 SCRIPT:TrainingAbilities
@@ -7122,10 +7122,6 @@ CONTROLBAR:ToolTipGLAUpgradeScorpionRocket
 "Der Skorpion wird mit einer Rakete bestückt."
 END
 
-CONTROLBAR:ToolTipGLAUpgradeBuggyAmmor
-"Alle Raketenbuggys haben 25% mehr Munition."
-END
-
 CONTROLBAR:ToolTipGLAUpgradeAPRockets
 "Alle Raketenangriffe verursachen 25% mehr Schaden."
 END
@@ -7151,7 +7147,7 @@ CONTROLBAR:ToolTipGLAUpgradeCamouflage
 END
 
 CONTROLBAR:ToolTipGLAUpgradeTranqDarts
-"Rebellen können feindliche Infanterie gefangen nehmen."
+"Rebellen können feindliche Soldaten gefangen nehmen."
 END
 
 CONTROLBAR:ToolTipGLAUpgradeArmTheMob
@@ -8059,7 +8055,7 @@ Buddy:Disconnected
 END
 
 GUI:SandboxMode
-"Startet Sandkasten-Modus …"
+"Startet Sandkasten-Modus ..."
 END
 
 GUI:BookmarkXSet
@@ -8726,12 +8722,8 @@ TOOLTIP:BattleHonorBlitz5
 "Blitzkrieg-Orden\nDer Spieler hat die Computergegner in 5 Minuten (oder schneller) geschlagen."
 END
 
-TOOLTIP:BattleHonorStreak3Disabled
-"Siegesmedaille\nFür diese Auszeichnung musst du 3 Spiele in Folge gewinnen."
-END
-
 TOOLTIP:BattleHonorLoyaltyUSADisabled
-"Loyalitätsorden der Westlichen Allianz\nKämpfe 20 oder mehr Spiele in Folge für die WA!"
+"Loyalitätsorden der WA\nKämpfe 20 oder mehr Spiele in Folge für die WA!"
 END
 
 TOOLTIP:BattleHonorLoyaltyChinaDisabled
@@ -8764,10 +8756,6 @@ END
 
 TOOLTIP:BattleHonorCampaignGLADisabled
 "Ehrenmedaille der IBG\nMeistere die IBG-Kampagne. Meistere die Kampagne auf dem höchsten Schwierigkeitsgrad, um die höchste Medaille zu erhalten"
-END
-
-TOOLTIP:BattleHonorBlitz10Disabled
-"Blitzkrieg-Orden\nGewinne in 10 Minuten (oder schneller) gegen Computergegner!"
 END
 
 TOOLTIP:BattleHonorChallengeDisabled
@@ -9011,7 +8999,7 @@ MAP:GLA05Open
 END
 
 SCRIPT:GLA05Directive03
-"WARNUNG:\nWA Bomber im Anflug.\nBauen Sie Stinger-Stellungen, um den Stützpunkt zu verteidigen."
+"WARNUNG:\nWA-Bomber im Anflug.\nBauen Sie Stinger-Stellungen, um den Stützpunkt zu verteidigen."
 END
 
 SCRIPT:GLA05Directive04
@@ -9019,7 +9007,7 @@ SCRIPT:GLA05Directive04
 END
 
 SCRIPT:GLA05Directive05
-"WARNUNG:\nWA Bomber im Anflug.\nSchießen Sie die feindlichen Maschinen mit Stinger-Raketen und Vierlingsgeschützen ab."
+"WARNUNG:\nWA-Bomber im Anflug.\nSchießen Sie die feindlichen Maschinen mit Stinger-Raketen und Vierlingsgeschützen ab."
 END
 
 MAP:GLA08Open
@@ -9579,7 +9567,7 @@ GUI:ScatterDescription
 END
 
 OBJECT:TrainWreckBridge
-"Zerstörte Eisenbahnbrücke."
+"Zerstörte Eisenbahnbrücke"
 END
 
 MAP:BarrenBadlands
@@ -9735,11 +9723,11 @@ SCRIPT:USA02RescueCounter
 END
 
 GUI:AddCash
-"+%d $"
+"$%d"
 END
 
 GUI:LoseCash
-"-%d $"
+"-$%d"
 END
 
 RADAR:HarvesterUnderAttack
@@ -9835,7 +9823,7 @@ OBJECT:HongKong
 END
 
 OBJECT:HubeiProvince
-"Drei Schluchten\nDamm"
+"Drei Schluchten Damm"
 END
 
 OBJECT:Tangula
@@ -11063,7 +11051,7 @@ CREDITS:DevelopmentTitle2
 END
 
 CREDITS:EAPacificDevTeam2
-"Development Team"
+"Command & Conquer Generäle - Die Stunde Null"
 END
 
 GUI:MustHaveAdminRights
@@ -11087,7 +11075,7 @@ GUI:AdditionalLocalizationManagement
 END
 
 GUI:GroupRoom4
-"4 vs. 4"
+"4 vs 4"
 END
 
 GUI:GroupRoom5
@@ -11131,11 +11119,11 @@ GUI:ControlOptions
 END
 
 GUI:ClassicMouse
-"Klassische Mausbelegung"
+"Klassische Maus"
 END
 
 GUI:AlternateMouse
-"Alternative Mausbelegung"
+"Alternative Maus"
 END
 
 TOOLTIP:AlternateMouse
@@ -13287,7 +13275,7 @@ MD_GLA05-MilitaryBriefing:String_16
 END
 
 MD_GLA05-MilitaryBriefing:String_17
-"TIPP:\nBauen Sie eine Kommandozentrale der IBG,\ndamit Sie Ihre Generalsfähigkeiten einsetzen können."
+"TIPP:\nBauen Sie eine IBG-Kommandozentrale,\ndamit Sie Ihre Generalsfähigkeiten einsetzen können."
 END
 
 MD_GLA05-MilitaryBriefing:String_18
@@ -14467,7 +14455,7 @@ GUI:BioNameEntry_Pos10
 END
 
 GUI:BioDOBEntry_Pos10
-"TBD"
+"33"
 END
 
 GUI:BioBirthplaceEntry_Pos10
@@ -14483,15 +14471,15 @@ GUI:BioRankEntry_Pos10
 END
 
 GUI:BioBranchEntry_Pos10
-"GUI:BioBranchEntry_Pos10"
+"."
 END
 
 TOOLTIP:BioStrategyLong_Pos10
-"TOOLTIP:BioStrategyLong_Pos10"
+"."
 END
 
 GUI:BioClassNumber_Pos10
-"GUI:BioClassNumber_Pos10"
+"."
 END
 
 GUI:BioDefeatedEntry_Pos10
@@ -14519,19 +14507,19 @@ GUI:BioStrategyEntry_Pos11
 END
 
 GUI:BioRankEntry_Pos11
-"GUI:BioRankEntry_Pos11"
+"."
 END
 
 GUI:BioBranchEntry_Pos11
-"GUI:BioBranchEntry_Pos11"
+"."
 END
 
 TOOLTIP:BioStrategyLong_Pos11
-"TOOLTIP:BioStrategyLong_Pos11"
+"."
 END
 
 GUI:BioClassNumber_Pos11
-"GUI:BioClassNumber_Pos11"
+"."
 END
 
 GUI:BioDefeatedEntry_Pos11
@@ -15623,23 +15611,23 @@ DIALOGEVENT:MisCHI01xChat01Subtitle
 END
 
 DIALOGEVENT:MisCHI01xChat02Subtitle
-"*Toxin Tractors! They're trying to poison us allwe need support!"
+"*Toxin Tractors! They're trying to poison us all... we need support!"
 END
 
 DIALOGEVENT:MisCHI01xChat03Subtitle
-"*LookOil Derricksshould we capture them?"
+"*Look... Oil Derricks... should we capture them?"
 END
 
 DIALOGEVENT:MisCHI01xChat04Subtitle
-"*GLA in your home? Apply a little fireno more GLA"
+"*GLA in your home? Apply a little fire... no more GLA"
 END
 
 DIALOGEVENT:MisCHI01xChat05Subtitle
-"*The GLA are rebuilding over therestand ready to attack"
+"*The GLA are rebuilding over there... stand ready to attack"
 END
 
 DIALOGEVENT:MisCHI01xChat06Subtitle
-"*We will win this dayeveryone advance"
+"*We will win this day... everyone advance..."
 END
 
 DIALOGEVENT:MisCHI01xCin01aSubtitle
@@ -15659,11 +15647,11 @@ DIALOGEVENT:MisCHI01xCin01dSubtitle
 END
 
 DIALOGEVENT:MisCHI01xCin02Subtitle
-"*The missiles are prepared and ready for launchfinal countdown started"
+"*The missiles are prepared and ready for launch... final countdown started"
 END
 
 DIALOGEVENT:MisCHI01xCin03Subtitle
-"*321 Missiles are away"
+"*3... 2... 1... Missiles are away"
 END
 
 DIALOGEVENT:MisCHI01xCin04Subtitle
@@ -15671,15 +15659,15 @@ DIALOGEVENT:MisCHI01xCin04Subtitle
 END
 
 DIALOGEVENT:MisCHI01xCin05Subtitle
-"*It is pretty when used for the right reasons"
+"*It is pretty when used for the right reasons..."
 END
 
 DIALOGEVENT:MisCHI01xCin06Subtitle
-"*GLA survivors are running to town for coverthey must be stopped!"
+"*GLA survivors are running to town for cover... they must be stopped!"
 END
 
 DIALOGEVENT:MisCHI01xCin07Subtitle
-"*We are in positionbomb bay doors open"
+"*We are in position... bomb bay doors open..."
 END
 
 DIALOGEVENT:MisCHI01xCin08Subtitle
@@ -15779,15 +15767,15 @@ DIALOGEVENT:MisCHI02xChat01Subtitle
 END
 
 DIALOGEVENT:MisCHI02xChat02Subtitle
-"*We're taking fire on the right flanksupport is needed here"
+"*We're taking fire on the right flank... support is needed here"
 END
 
 DIALOGEVENT:MisCHI02xChat03Subtitle
-"*They are behind usdirect all fire to the south!"
+"*They are behind us... direct all fire to the south!"
 END
 
 DIALOGEVENT:MisCHI02xChat04Subtitle
-"*GLA base in rangeall teams ready to attack, General"
+"*GLA base in range... all teams ready to attack, General"
 END
 
 DIALOGEVENT:MisCHI02xChat05Subtitle
@@ -15803,15 +15791,15 @@ DIALOGEVENT:MisCHI02xChat07Subtitle
 END
 
 DIALOGEVENT:MisCHI02xChat08Subtitle
-"*Rolling out the carpetof bombs. Heheh"
+"*Rolling out the carpet... of bombs. Heheh"
 END
 
 DIALOGEVENT:MisCHI02xChat09Subtitle
-"*Enemy air defenses are thick herewe are taking heavy damage"
+"*Enemy air defenses are thick here... we are taking heavy damage"
 END
 
 DIALOGEVENT:MisCHI02xChat10Subtitle
-"*Stinger sites have locked onto uswe are in trouble!"
+"*Stinger sites have locked onto us... we are in trouble!"
 END
 
 DIALOGEVENT:MisCHI02xChat11Subtitle
@@ -15903,11 +15891,11 @@ DIALOGEVENT:MisCHI02xCin06aSubtitle
 END
 
 DIALOGEVENT:MisCHI02xCin07Subtitle
-"*The Command Centerthey got the Command Center"
+"*The Command Center... they got the Command Center"
 END
 
 DIALOGEVENT:MisCHI02xCin08Subtitle
-"*We held remaining forces report in"
+"*We held... remaining forces report in..."
 END
 
 DIALOGEVENT:MisCHI02xCin09Subtitle
@@ -15951,11 +15939,11 @@ DIALOGEVENT:MisCHI02xXO05aSubtitle
 END
 
 DIALOGEVENT:MisCHI02xXO06Subtitle
-"*WarningGLA forces moving towards the bunkers"
+"*Warning... GLA forces moving towards the bunkers"
 END
 
 DIALOGEVENT:MisCHI02xXO06aSubtitle
-"*WarningGLA forces are moving towards the power plant!"
+"*Warning... GLA forces are moving towards the power plant!"
 END
 
 DIALOGEVENT:MisCHI02xXO07Subtitle
@@ -15979,7 +15967,7 @@ DIALOGEVENT:MisChi03RedChat19Subtitle
 END
 
 DIALOGEVENT:MisCHI03xBrf01Subtitle
-"*Greetings, Commander. Now that we have thwarted the GLA's counterattack, it is time to press our advantage!"
+"*Greetings, General. Now that we have thwarted the GLA's counterattack, it is time to press our advantage!"
 END
 
 DIALOGEVENT:MisCHI03xBrf02Subtitle
@@ -16007,7 +15995,7 @@ DIALOGEVENT:MisCHI03xBrf10Subtitle
 END
 
 DIALOGEVENT:MisCHI03xChat01Subtitle
-"*They must have a camouflaged Tunnel Network near here"
+"*They must have a camouflaged Tunnel Network near here..."
 END
 
 DIALOGEVENT:MisCHI03xChat02Subtitle
@@ -16031,7 +16019,7 @@ DIALOGEVENT:MisCHI03xChat06Subtitle
 END
 
 DIALOGEVENT:MisCHI03xChat07Subtitle
-"*I wonder what's across the river"
+"*I wonder what's across the river..."
 END
 
 DIALOGEVENT:MisCHI03xChat08Subtitle
@@ -16071,7 +16059,7 @@ DIALOGEVENT:MisCHI03xXO11Subtitle
 END
 
 DIALOGEVENT:MisCHI03xXO12Subtitle
-"*Our Dragon Tanks will be a high priority targetguard them well"
+"*Our Dragon Tanks will be a high priority target... guard them well"
 END
 
 DIALOGEVENT:MisCHI03xXO13Subtitle
@@ -16095,7 +16083,7 @@ DIALOGEVENT:MisCHI03xXO19Subtitle
 END
 
 DIALOGEVENT:MisCHI03xXO20Subtitle
-"*You're making good progress, Commander. Much of the city is now free of GLA control"
+"*You're making good progress, General. Much of the city is now free of GLA control"
 END
 
 DIALOGEVENT:MisCHI03xXO21Subtitle
@@ -16227,7 +16215,7 @@ DIALOGEVENT:MisCHI04xXO07Subtitle
 END
 
 DIALOGEVENT:MisCHI04xXO08Subtitle
-"*Waitthey're not targeting us"
+"*Wait... they're not targeting us..."
 END
 
 DIALOGEVENT:MisCHI04xXO09Subtitle
@@ -16291,11 +16279,11 @@ DIALOGEVENT:MisCHI04xXO23Subtitle
 END
 
 DIALOGEVENT:MisCHI04xXO24Subtitle
-"*Our defenses have been breached commander, we have failed the mission"
+"*Our defenses have been breached, General, we have failed the mission"
 END
 
 DIALOGEVENT:MisCHI04xXO25Subtitle
-"*Commander, our forces from the south have arrived. Out mission was a success"
+"*General, our forces from the south have arrived. Our mission was a success"
 END
 
 DIALOGEVENT:MisCHI04xXO26Subtitle
@@ -16371,7 +16359,7 @@ DIALOGEVENT:MisCHI05xCin01Subtitle
 END
 
 DIALOGEVENT:MisCHI05xCin02Subtitle
-"*No sir, the last message received was at 02:00nothing since"
+"*No sir, the last message received was at 02:00... nothing since"
 END
 
 DIALOGEVENT:MisCHI05xCin03Subtitle
@@ -16387,7 +16375,7 @@ DIALOGEVENT:MisCHI05xCin06Subtitle
 END
 
 DIALOGEVENT:MisCHI05xCin07Subtitle
-"*Our base has been breached.all units to your stations! Where are those Chinese we were promised!?"
+"*Our base has been breached... all units to your stations! Where are those Chinese we were promised!?"
 END
 
 DIALOGEVENT:MisCHI05xCin08Subtitle
@@ -16467,7 +16455,7 @@ DIALOGEVENT:MisCHI05xXO16Subtitle
 END
 
 DIALOGEVENT:MisCHI05xXO17Subtitle
-"*General, we have many driverless vehicles in the fieldsend units to recapture them"
+"*General, we have many driverless vehicles in the field... send units to recapture them"
 END
 
 DIALOGEVENT:MisCHI05xXO18Subtitle
@@ -16599,7 +16587,7 @@ DIALOGEVENT:MisGLA01xCin13Subtitle
 END
 
 DIALOGEVENT:MisGLA01xCin14Subtitle
-"*This is scout team. We detect no enemy presence. Wait"
+"*This is scout team. We detect no enemy presence. Wait..."
 END
 
 DIALOGEVENT:MisGLA01xCin15Subtitle
@@ -16764,7 +16752,7 @@ DIALOGEVENT:MisGLA02xCin03Subtitle
 END
 
 DIALOGEVENT:MisGLA02xCin04Subtitle
-"*What the?"
+"*What the...?"
 END
 
 DIALOGEVENT:MisGLA02xCin05Subtitle
@@ -16916,7 +16904,7 @@ DIALOGEVENT:MisGLA02xKen31Subtitle
 END
 
 DIALOGEVENT:MisGLA02xKen32Subtitle
-"*Tunnel sneak attacks offer further tactical advantages"
+"*Tunnel sneak attacks offer further tactical advantages..."
 END
 
 DIALOGEVENT:MisGLA02xKen33Subtitle
@@ -16932,7 +16920,7 @@ DIALOGEVENT:MisGLA03Kenwar15Subtitle
 END
 
 DIALOGEVENT:MisGLA03xBrf01Subtitle
-"*Welcome, Commander!"
+"*Welcome, General!"
 END
 
 DIALOGEVENT:MisGLA03xBrf02Subtitle
@@ -17008,7 +16996,7 @@ DIALOGEVENT:MisGLA03xCin03Subtitle
 END
 
 DIALOGEVENT:MisGLA03xKen01Subtitle
-"*Our Hijackers could take that tank easily"
+"*Our Hijackers could take that tank easily..."
 END
 
 DIALOGEVENT:MisGLA03xKen02Subtitle
@@ -17552,7 +17540,7 @@ DIALOGEVENT:MisGLA05xCin02Subtitle
 END
 
 DIALOGEVENT:MisGLA05xCin03Subtitle
-"*The Chinese base We must strike now! Their Base will soon be ours!"
+"*The Chinese base... We must strike now! Their Base will soon be ours!"
 END
 
 DIALOGEVENT:MisGLA05xJarmen01Subtitle
@@ -17564,7 +17552,7 @@ DIALOGEVENT:MisGLA05xJarmen02Subtitle
 END
 
 DIALOGEVENT:MisGLA05xJarmen03Subtitle
-"*Heh heh heh heh heh (Sinister Laugh) That will teach them"
+"*Heh heh heh heh heh... (Sinister Laugh) That will teach them"
 END
 
 DIALOGEVENT:MisGLA05xJarmen04Subtitle
@@ -17604,7 +17592,7 @@ DIALOGEVENT:MisGLA05xKen06Subtitle
 END
 
 DIALOGEVENT:MisGLA05xKen07Subtitle
-"*More attacks from the air! We must build more air defenses"
+"*More attacks from the air! We must build more air defenses..."
 END
 
 DIALOGEVENT:MisGLA05xKen08Subtitle
@@ -17612,11 +17600,11 @@ DIALOGEVENT:MisGLA05xKen08Subtitle
 END
 
 DIALOGEVENT:MisGLA05xKen09Subtitle
-"*The new toxin agent we borrowed from the US will be especially effective against their own forces"
+"*The new toxin agent we “borrowed” from the US will be especially effective against their own forces"
 END
 
 DIALOGEVENT:MisGLA05xKen10Subtitle
-"*First the Mediterranean fleet, then an attack upon US soiland now begins our European domination"
+"*First the Mediterranean fleet, then an attack upon US soil... and now begins our European domination"
 END
 
 DIALOGEVENT:MisGLA05xKen11Subtitle
@@ -17624,7 +17612,7 @@ DIALOGEVENT:MisGLA05xKen11Subtitle
 END
 
 DIALOGEVENT:MisGLA05xKen12Subtitle
-"*Almost there The U.S. will pay dearly for their transgressions against our people"
+"*Almost there... The U.S. will pay dearly for their transgressions against our people"
 END
 
 DIALOGEVENT:MisGLA05xKen13Subtitle
@@ -17668,7 +17656,7 @@ DIALOGEVENT:MisGLA05xKen22Subtitle
 END
 
 DIALOGEVENT:MisGLA05xKen23Subtitle
-"*Rebuild the base quicklyWe must prepare for more attacks!"
+"*Rebuild the base quickly... We must prepare for more attacks!"
 END
 
 DIALOGEVENT:MisGLA05xKen24Subtitle
@@ -17940,7 +17928,7 @@ DIALOGEVENT:MisUSA01xChat14Subtitle
 END
 
 DIALOGEVENT:MisUSA01xCin01Subtitle
-"*All units clear the launch area. Launch is scheduled in t-minus"
+"*All units clear the launch area. Launch is scheduled in t-minus..."
 END
 
 DIALOGEVENT:MisUSA01xCin02Subtitle
@@ -18276,7 +18264,7 @@ DIALOGEVENT:MisUSA03xBurton02Subtitle
 END
 
 DIALOGEVENT:MisUSA03xBurton03Subtitle
-"*You'll wait for me? All right, Lotus, let's race"
+"*You'll wait for me? All right, Lotus, let's race..."
 END
 
 DIALOGEVENT:MisUSA03xBurton04Subtitle
@@ -18284,11 +18272,11 @@ DIALOGEVENT:MisUSA03xBurton04Subtitle
 END
 
 DIALOGEVENT:MisUSA03xBurton05Subtitle
-"*All right, I see the POW camplooks like they have a Tunnel Network that passes under the river"
+"*All right, I see the POW camp... looks like they have a Tunnel Network that passes under the river"
 END
 
 DIALOGEVENT:MisUSA03xBurton06Subtitle
-"*Nice work, LotusTunnels down herejust take care of a couple guards and I'll have everyone freed"
+"*Nice work, Lotus... Tunnels down here... just take care of a couple guards and I'll have everyone freed"
 END
 
 DIALOGEVENT:MisUSA03xBurton07Subtitle
@@ -18296,7 +18284,7 @@ DIALOGEVENT:MisUSA03xBurton07Subtitle
 END
 
 DIALOGEVENT:MisUSA03xBurton08Subtitle
-"*General, I'm in position near the second POW Campthere's a Tunnel Network and guards out front. I could slip past them into the compound if I climbed down the cliffs on the south end of the camp"
+"*General, I'm in position near the second POW Camp... there's a Tunnel Network and guards out front. I could slip past them into the compound if I climbed down the cliffs on the south end of the camp"
 END
 
 DIALOGEVENT:MisUSA03xBurton09Subtitle
@@ -18304,7 +18292,7 @@ DIALOGEVENT:MisUSA03xBurton09Subtitle
 END
 
 DIALOGEVENT:MisUSA03xBurton10Subtitle
-"*That's the last of themsecond POW Camp is securedsomeone should tell Lotus to hurry upI don't want to be kept waiting at the Lab"
+"*That's the last of them... second POW Camp is secured... someone should tell Lotus to hurry up... I don't want to be kept waiting at the Lab"
 END
 
 DIALOGEVENT:MisUSA03xBurton11Subtitle
@@ -18316,35 +18304,35 @@ DIALOGEVENT:MisUSA03xBurton12Subtitle
 END
 
 DIALOGEVENT:MisUSA03xBurton13Subtitle
-"*Doesn't look like they were expecting mea little C4 here and there and I'll make short work of this placejust say the word, General"
+"*Doesn't look like they were expecting me... a little C4 here and there and I'll make short work of this place... just say the word, General"
 END
 
 DIALOGEVENT:MisUSA03xBurton14Subtitle
-"*I should be safe moving through the villagejust need to watch out for any Radar Vans monitoring the area. Wish I had a couple Flash Bangs"
+"*I should be safe moving through the village... just need to watch out for any Radar Vans monitoring the area. Wish I had a couple Flash Bangs"
 END
 
 DIALOGEVENT:MisUSA03xBurton15Subtitle
-"*This is it! I'm moving into position above the Labdon't keep me waiting Lotus, its cold up here"
+"*This is it! I'm moving into position above the Lab... don't keep me waiting Lotus, its cold up here"
 END
 
 DIALOGEVENT:MisUSA03xBurton16Subtitle
-"*Charges setsay when, Lotus"
+"*Charges set... say when, Lotus"
 END
 
 DIALOGEVENT:MisUSA03xBurton17Subtitle
-"*Well, Lotus, you're fastI'll give you that. I'll be there as soon as I can"
+"*Well, Lotus, you're fast... I'll give you that. I'll be there as soon as I can"
 END
 
 DIALOGEVENT:MisUSA03xBurton18Subtitle
-"*AlrightI'm at the mountainTell me when your download finishes, Lotus, and I'll bury that lab where no one will ever find it again"
+"*Alright... I'm at the mountain... Tell me when your download finishes, Lotus, and I'll bury that lab where no one will ever find it again"
 END
 
 DIALOGEVENT:MisUSA03xChat01Subtitle
-"*Garrisoneat Flash Bang"
+"*Garrison... eat Flash Bang"
 END
 
 DIALOGEVENT:MisUSA03xChat02Subtitle
-"*There they areremember, short controlled bursts"
+"*There they are... remember, short controlled bursts"
 END
 
 DIALOGEVENT:MisUSA03xChat03Subtitle
@@ -18352,11 +18340,11 @@ DIALOGEVENT:MisUSA03xChat03Subtitle
 END
 
 DIALOGEVENT:MisUSA03xChat04Subtitle
-"*We're taking firewe need some support here!"
+"*We're taking fire... we need some support here!"
 END
 
 DIALOGEVENT:MisUSA03xCin01Subtitle
-"*This is Spirit, I am rolling in over the target area"
+"*This is Spirit, I am rolling in over the target area..."
 END
 
 DIALOGEVENT:MisUSA03xCin02Subtitle
@@ -18368,11 +18356,11 @@ DIALOGEVENT:MisUSA03xCin03Subtitle
 END
 
 DIALOGEVENT:MisUSA03xCin04Subtitle
-"*This is Spirit, bomb bay doors open bombs are away"
+"*This is Spirit, bomb bay doors open... bombs are away"
 END
 
 DIALOGEVENT:MisUSA03xCin05Subtitle
-"*Spirit to Infiltrator, your LZ is clearGood Luck"
+"*Spirit to Infiltrator, your LZ is clear... Good Luck"
 END
 
 DIALOGEVENT:MisUSA03xCin06Subtitle
@@ -18380,15 +18368,15 @@ DIALOGEVENT:MisUSA03xCin06Subtitle
 END
 
 DIALOGEVENT:MisUSA03xCin07Subtitle
-"*On stationeverybody out who's staying"
+"*On station... everybody out who's staying"
 END
 
 DIALOGEVENT:MisUSA03xCin08Subtitle
-"*Thanks for the lift boyssee you soon"
+"*Thanks for the lift boys... see you soon..."
 END
 
 DIALOGEVENT:MisUSA03xCin09Subtitle
-"*Your small Chinooks are efficientbut I prefer the strength of our Helixes..."
+"*Your small Chinooks are efficient... but I prefer the strength of our Helixes..."
 END
 
 DIALOGEVENT:MisUSA03xDrvr01Subtitle
@@ -18432,7 +18420,7 @@ DIALOGEVENT:MisUSA03xEva08Subtitle
 END
 
 DIALOGEVENT:MisUSA03xEva09Subtitle
-"*General, the GLA's Lab is directly north of your current position. There are a number of GLA defenses still along your routebe careful"
+"*General, the GLA's Lab is directly north of your current position. There are a number of GLA defenses still along your route... be careful"
 END
 
 DIALOGEVENT:MisUSA03xEva10Subtitle
@@ -18456,11 +18444,11 @@ DIALOGEVENT:MisUSA03xEva14Subtitle
 END
 
 DIALOGEVENT:MisUSA03xEva15Subtitle
-"*General, the GLA have upgraded their tank shells to contain poisons. Be careful."
+"*General, the GLA have upgraded their tank shells to contain poisons. Be careful."
 END
 
 DIALOGEVENT:MisUSA03xEva16Subtitle
-"*I'm showing a GLA patrol in that village, Generalas well as a number of enemy forces garrisoned throughout the village"
+"*I'm showing a GLA patrol in that village, General... as well as a number of enemy forces garrisoned throughout the village"
 END
 
 DIALOGEVENT:MisUSA03xEva17Subtitle
@@ -18468,15 +18456,15 @@ DIALOGEVENT:MisUSA03xEva17Subtitle
 END
 
 DIALOGEVENT:MisUSA03xEva18Subtitle
-"*That was incredible General. Looks like the GLA won't be using that facility anymoreand it seems Black Lotus downloaded some vital info about the source of this lab. For now, let's regroup and see what she was able to find out. Great work"
+"*That was incredible General. Looks like the GLA won't be using that facility anymore... and it seems Black Lotus downloaded some vital info about the source of this lab. For now, let's regroup and see what she was able to find out. Great work"
 END
 
 DIALOGEVENT:MisUSA03xLotus01Subtitle
-"*The scorpion is disabledI will take care of matters across the river. Wait until I am across and then destroy the bridge"
+"*The scorpion is disabled... I will take care of matters across the river. Wait until I am across and then destroy the bridge"
 END
 
 DIALOGEVENT:MisUSA03xLotus02Subtitle
-"*It is now. Don't worry, I'll wait for you at the labdo hurry"
+"*It is now. Don't worry, I'll wait for you at the lab... do hurry"
 END
 
 DIALOGEVENT:MisUSA03xLotus03Subtitle
@@ -18484,7 +18472,7 @@ DIALOGEVENT:MisUSA03xLotus03Subtitle
 END
 
 DIALOGEVENT:MisUSA03xLotus04Subtitle
-"*General, could you ask Col Burton to please hurry to the POW campI'm tired of waiting on him"
+"*General, could you ask Col Burton to please hurry to the POW camp... I'm tired of waiting on him"
 END
 
 DIALOGEVENT:MisUSA03xLotus05Subtitle
@@ -18492,7 +18480,7 @@ DIALOGEVENT:MisUSA03xLotus05Subtitle
 END
 
 DIALOGEVENT:MisUSA03xLotus06Subtitle
-"*Generalmy forces are moving on the final GLA positions this side of the river. Please inform Col Burton that he should hurryI would prefer not to wait too long for him to catch up"
+"*General... my forces are moving on the final GLA positions this side of the river. Please inform Col Burton that he should hurry... I would prefer not to wait too long for him to catch up"
 END
 
 DIALOGEVENT:MisUSA03xLotus07Subtitle
@@ -18500,7 +18488,7 @@ DIALOGEVENT:MisUSA03xLotus07Subtitle
 END
 
 DIALOGEVENT:MisUSA03xLotus08Subtitle
-"*I'm here, Colonelyou win. The GLA put up a stronger fight than I had anticipated. Beginning download"
+"*I'm here, Colonel... you win. The GLA put up a stronger fight than I had anticipated. Beginning download"
 END
 
 DIALOGEVENT:MisUSA03xLotus09Subtitle
@@ -18508,7 +18496,7 @@ DIALOGEVENT:MisUSA03xLotus09Subtitle
 END
 
 DIALOGEVENT:MisUSA03xLotus10Subtitle
-"*General. I am ready and waiting at the Labwhenever the Colonel would like to arrive and finish this mission"
+"*General. I am ready and waiting at the Lab... whenever the Colonel would like to arrive and finish this mission"
 END
 
 DIALOGEVENT:MisUSA03xLotus11Subtitle
@@ -18576,7 +18564,7 @@ DIALOGEVENT:MisUSA04xBrf01Subtitle
 END
 
 DIALOGEVENT:MisUSA04xBrf02Subtitle
-"*Dr. Thrax is a wanted criminalresponsible for notorious terror crimes against the US military. He must be brought to justice"
+"*Dr. Thrax is a wanted criminal... responsible for notorious terror crimes against the US military. He must be brought to justice"
 END
 
 DIALOGEVENT:MisUSA04xBrf03Subtitle
@@ -18588,7 +18576,7 @@ DIALOGEVENT:MisUSA04xBrf04Subtitle
 END
 
 DIALOGEVENT:MisUSA04xBrf05Subtitle
-"*The Intel we retrieved from the Secret Lab proves the GLA have seized these oil fields to help fund the nefarious Dr. Thrax. They may destroy them, rather then let you recapture them. Beware General, the GLA have started using Booby Trapsuse Dozers to remove BOOBY TRAPS safely"
+"*The Intel we retrieved from the Secret Lab proves the GLA have seized these oil fields to help fund the nefarious Dr. Thrax. They may destroy them, rather then let you recapture them. Beware General, the GLA have started using Booby Traps... use Dozers to remove BOOBY TRAPS safely"
 END
 
 DIALOGEVENT:MisUSA04xChat01Subtitle
@@ -18732,23 +18720,23 @@ DIALOGEVENT:MisUSA04xCIA03Subtitle
 END
 
 DIALOGEVENT:MisUSA04xCin01Subtitle
-"*Satcom, this is Charlie 5. Approaching TARGET, no hostiles sightedwaitTARGET is in sight, Satcomover"
+"*Satcom, this is Charlie 5. Approaching TARGET, no hostiles sighted... wait... TARGET is in sight, Satcom... over"
 END
 
 DIALOGEVENT:MisUSA04xCin02Subtitle
-"*Roger that 5You are a go, over"
+"*Roger that 5... You are a go, over"
 END
 
 DIALOGEVENT:MisUSA04xCin03Subtitle
-"*Roger Satcompayload is awayleaving hotzone! Over"
+"*Roger Satcom... payload is away... leaving hotzone! Over"
 END
 
 DIALOGEVENT:MisUSA04xCin04Subtitle
-"*Roger that 5, out. Victor 3 you are go for IMMEDIATE dropover"
+"*Roger that 5, out. Victor 3 you are go for IMMEDIATE drop... over"
 END
 
 DIALOGEVENT:MisUSA04xCin05Subtitle
-"*Roger Satcomapproaching target area"
+"*Roger Satcom... approaching target area..."
 END
 
 DIALOGEVENT:MisUSA04xCin06Subtitle
@@ -18760,7 +18748,7 @@ DIALOGEVENT:MisUSA04xCin07Subtitle
 END
 
 DIALOGEVENT:MisUSA04xCin08Subtitle
-"*Careful not to get slimed, boyschem weapons sighted"
+"*Careful not to get slimed, boys... chem weapons sighted"
 END
 
 DIALOGEVENT:MisUSA04xCin09Subtitle
@@ -18784,7 +18772,7 @@ DIALOGEVENT:MisUSA04xCin13Subtitle
 END
 
 DIALOGEVENT:MisUSA04xCin14Subtitle
-"*Airstrip secured, GeneralReinforcements en route"
+"*Airstrip secured, General... Reinforcements en route"
 END
 
 DIALOGEVENT:MisUSA04xEva01Subtitle
@@ -18864,7 +18852,7 @@ DIALOGEVENT:MisUSA04xEva19Subtitle
 END
 
 DIALOGEVENT:MisUSA04xEva20Subtitle
-"*Sir, the enemy's Radar Vans are sweeping for our pathfindersbe careful"
+"*Sir, the enemy's Radar Vans are sweeping for our pathfinders... be careful"
 END
 
 DIALOGEVENT:MisUSA04xEva21Subtitle
@@ -19016,35 +19004,35 @@ DIALOGEVENT:MisUSA05xEva09Subtitle
 END
 
 DIALOGEVENT:MisUSA05xEva10Subtitle
-"*Missile launch in 5 minutes Your final offensive should commence now"
+"*Missile launch in 5 minutes... Your final offensive should commence now"
 END
 
 DIALOGEVENT:MisUSA05xEva11Subtitle
-"*Missile launch in 4 minutes"
+"*Missile launch in 4 minutes..."
 END
 
 DIALOGEVENT:MisUSA05xEva12Subtitle
-"*Missile launch in 3 minutes"
+"*Missile launch in 3 minutes..."
 END
 
 DIALOGEVENT:MisUSA05xEva13Subtitle
-"*Missile launch in 2 minutes"
+"*Missile launch in 2 minutes..."
 END
 
 DIALOGEVENT:MisUSA05xEva14Subtitle
-"*Missile launch in 1 minute We must move in now!"
+"*Missile launch in 1 minute... We must move in now!"
 END
 
 DIALOGEVENT:MisUSA05xEva15Subtitle
-"*30 seconds until missile lauch It's almost too late General!"
+"*30 seconds until missile lauch... It's almost too late General!"
 END
 
 DIALOGEVENT:MisUSA05xEva16Subtitle
-"*10 seconds until missile lauch"
+"*10 seconds until missile lauch..."
 END
 
 DIALOGEVENT:MisUSA05xEva17Subtitle
-"*5 4 3 2 1 (gasp) Toxin Missile Launch detected General"
+"*5... 4... 3... 2... 1... (gasp) Toxin Missile Launch detected General"
 END
 
 DIALOGEVENT:MisUSA05xEva18Subtitle
@@ -19052,7 +19040,7 @@ DIALOGEVENT:MisUSA05xEva18Subtitle
 END
 
 DIALOGEVENT:MisUSA05xEva19Subtitle
-"*The first Missile Silo has been captured and the HazMat decontamination team is en-route. One to go Commander"
+"*The first Missile Silo has been captured and the HazMat decontamination team is en-route. One to go General"
 END
 
 DIALOGEVENT:MisUSA05xEva20Subtitle
@@ -19120,7 +19108,7 @@ DIALOGEVENT:MisUSA05xEva35Subtitle
 END
 
 DIALOGEVENT:MisUSA05xThrax01Subtitle
-"*You are too late infidel, the launch is commencing to cleanse your lands in pestilence. Hahahaha"
+"*You are too late infidel, the launch is commencing to cleanse your lands in pestilence. Hahahaha..."
 END
 
 DIALOGEVENT:MisUSA05xThrax02Subtitle
@@ -19196,7 +19184,7 @@ DIALOGEVENT:MisUSA08Chatter12Subtitle
 END
 
 DIALOGEVENT:MisUSA08Chatter14Subtitle
-"*Alright boyslet's go!"
+"*Alright boys... let's go!"
 END
 
 DIALOGEVENT:MisUSA08Cin03Subtitle
@@ -19280,7 +19268,7 @@ DIALOGEVENT:Taunts_BossChi018Subtitle
 END
 
 DIALOGEVENT:Taunts_BossChi019Subtitle
-"*The dance of battle is strange and briefand this battle with you has been strangely brief"
+"*The dance of battle is strange and brief... and this battle with you has been strangely brief"
 END
 
 DIALOGEVENT:Taunts_BossChi020Subtitle
@@ -19360,7 +19348,7 @@ DIALOGEVENT:Taunts_BossChi038Subtitle
 END
 
 DIALOGEVENT:Taunts_BossChi039Subtitle
-"*I'll have to rebuild that War Factory now. You would be wise to exploit my momentary weaknessit won't last"
+"*I'll have to rebuild that War Factory now. You would be wise to exploit my momentary weakness... it won't last"
 END
 
 DIALOGEVENT:Taunts_BossChi040Subtitle
@@ -19512,7 +19500,7 @@ DIALOGEVENT:Taunts_BossChi076Subtitle
 END
 
 DIALOGEVENT:Taunts_BossChi077Subtitle
-"*So many defensesI see you have proper respect for your enemy"
+"*So many defenses... I see you have proper respect for your enemy"
 END
 
 DIALOGEVENT:Taunts_BossChi078Subtitle
@@ -19528,7 +19516,7 @@ DIALOGEVENT:Taunts_BossChi080Subtitle
 END
 
 DIALOGEVENT:Taunts_BossChi081Subtitle
-"*Your base grows large, Generalripe for a nuclear strike"
+"*Your base grows large, General... ripe for a nuclear strike"
 END
 
 DIALOGEVENT:Taunts_BossChi082Subtitle
@@ -19680,7 +19668,7 @@ DIALOGEVENT:Taunts_BossGLA006Subtitle
 END
 
 DIALOGEVENT:Taunts_BossGLA007Subtitle
-"*You will never even see my forces, Generaluntil it is too late"
+"*You will never even see my forces, General... until it is too late"
 END
 
 DIALOGEVENT:Taunts_BossGLA008Subtitle
@@ -19712,11 +19700,11 @@ DIALOGEVENT:Taunts_BossGLA014Subtitle
 END
 
 DIALOGEVENT:Taunts_BossGLA015Subtitle
-"*ToxinexplosivesstealthAny one of these you have defeated, but all three? All is lost, General. You should surrenderfor the good of your men"
+"*Toxin... explosives... stealth... Any one of these you have defeated, but all three? All is lost, General. You should surrender... for the good of your men"
 END
 
 DIALOGEVENT:Taunts_BossGLA016Subtitle
-"*Your world has made you soft, General. Mine has made me strong"
+"*Your world has made you soft, General. Mine has made me strong..."
 END
 
 DIALOGEVENT:Taunts_BossGLA017Subtitle
@@ -19756,7 +19744,7 @@ DIALOGEVENT:Taunts_BossGLA025Subtitle
 END
 
 DIALOGEVENT:Taunts_BossGLA026Subtitle
-"*General, my subject require my attentionhow much longer do you intend to dance around like a clown?"
+"*General, my subject require my attention... how much longer do you intend to dance around like a clown?"
 END
 
 DIALOGEVENT:Taunts_BossGLA027Subtitle
@@ -19864,7 +19852,7 @@ DIALOGEVENT:Taunts_BossGLA052Subtitle
 END
 
 DIALOGEVENT:Taunts_BossGLA053Subtitle
-"*Ah, a flanking attackcrude, but at least it is a strategy"
+"*Ah, a flanking attack... crude, but at least it is a strategy"
 END
 
 DIALOGEVENT:Taunts_BossGLA054Subtitle
@@ -19876,7 +19864,7 @@ DIALOGEVENT:Taunts_BossGLA055Subtitle
 END
 
 DIALOGEVENT:Taunts_BossGLA056Subtitle
-"*I see you've found my extra suppliesand I stress, my extra supplies. Leave them now"
+"*I see you've found my extra supplies... and I stress, my extra supplies. Leave them now"
 END
 
 DIALOGEVENT:Taunts_BossGLA057Subtitle
@@ -19900,7 +19888,7 @@ DIALOGEVENT:Taunts_BossGLA061Subtitle
 END
 
 DIALOGEVENT:Taunts_BossGLA062Subtitle
-"*Our land is without powertoo bad your base cannot run without its dependence"
+"*Our land is without power... too bad your base cannot run without its dependence"
 END
 
 DIALOGEVENT:Taunts_BossGLA063Subtitle
@@ -19940,7 +19928,7 @@ DIALOGEVENT:Taunts_BossGLA071Subtitle
 END
 
 DIALOGEVENT:Taunts_BossGLA072Subtitle
-"*Your base has grown large, Generalperhaps too large"
+"*Your base has grown large, General... perhaps too large"
 END
 
 DIALOGEVENT:Taunts_BossGLA073Subtitle
@@ -19968,7 +19956,7 @@ DIALOGEVENT:Taunts_BossGLA078Subtitle
 END
 
 DIALOGEVENT:Taunts_BossGLA079Subtitle
-"*Jarmen Kell? He dares to stand against me?! My vengence will be mostunpleasant"
+"*Jarmen Kell? He dares to stand against me?! My vengence will be most... unpleasant"
 END
 
 DIALOGEVENT:Taunts_BossGLA080Subtitle
@@ -20004,7 +19992,7 @@ DIALOGEVENT:Taunts_BossGLA087Subtitle
 END
 
 DIALOGEVENT:Taunts_BossGLA088Subtitle
-"*Defeated by a foolthe humiliation is too great to bearplease leave me to my torment"
+"*Defeated by a fool... the humiliation is too great to bear... please leave me to my torment"
 END
 
 DIALOGEVENT:Taunts_BossGLA089Subtitle
@@ -20044,7 +20032,7 @@ DIALOGEVENT:Taunts_BossGLA097Subtitle
 END
 
 DIALOGEVENT:Taunts_BossGLA098Subtitle
-"*Yes, you can now see why you have lostthe numbers speak for themselves"
+"*Yes, you can now see why you have lost... the numbers speak for themselves"
 END
 
 DIALOGEVENT:Taunts_BossGLA099Subtitle
@@ -20060,7 +20048,7 @@ DIALOGEVENT:Taunts_BossGLA101Subtitle
 END
 
 DIALOGEVENT:Taunts_BossGLA102Subtitle
-"*This will be your final battle, General. May whatever gods you pray to have mercy on youbecause I will not"
+"*This will be your final battle, General. May whatever gods you pray to have mercy on you... because I will not"
 END
 
 DIALOGEVENT:Taunts_BossGLA103Subtitle
@@ -20088,7 +20076,7 @@ DIALOGEVENT:Taunts_BossUSA005Subtitle
 END
 
 DIALOGEVENT:Taunts_BossUSA006Subtitle
-"*Here we come, Kidtry not to wet yourself, okay?"
+"*Here we come, Kid... try not to wet yourself, okay?"
 END
 
 DIALOGEVENT:Taunts_BossUSA007Subtitle
@@ -20112,7 +20100,7 @@ DIALOGEVENT:Taunts_BossUSA011Subtitle
 END
 
 DIALOGEVENT:Taunts_BossUSA012Subtitle
-"*So, about your funeralopen casket or closed?"
+"*So, about your funeral... open casket or closed?"
 END
 
 DIALOGEVENT:Taunts_BossUSA013Subtitle
@@ -20128,7 +20116,7 @@ DIALOGEVENT:Taunts_BossUSA015Subtitle
 END
 
 DIALOGEVENT:Taunts_BossUSA016Subtitle
-"*This is your idea of strategy? Of tactics? \"Tank blob\" is the best you can come up with? Patheticjust pathetic"
+"*This is your idea of strategy? Of tactics? \"Tank blob\" is the best you can come up with? Pathetic... just pathetic..."
 END
 
 DIALOGEVENT:Taunts_BossUSA017Subtitle
@@ -20144,7 +20132,7 @@ DIALOGEVENT:Taunts_BossUSA019Subtitle
 END
 
 DIALOGEVENT:Taunts_BossUSA020Subtitle
-"*I got more medals than you've got teeth, Boywhich won't be saying much after I get done knocking them out for you"
+"*I got more medals than you've got teeth, Boy... which won't be saying much after I get done knocking them out for you"
 END
 
 DIALOGEVENT:Taunts_BossUSA021Subtitle
@@ -20184,7 +20172,7 @@ DIALOGEVENT:Taunts_BossUSA029Subtitle
 END
 
 DIALOGEVENT:Taunts_BossUSA030Subtitle
-"*You can tell me.. We're just Generals here Do your men know you're incompetent?"
+"*You can tell me.. We're just Generals here... Do your men know you're incompetent?"
 END
 
 DIALOGEVENT:Taunts_BossUSA031Subtitle
@@ -20376,7 +20364,7 @@ DIALOGEVENT:Taunts_BossUSA077Subtitle
 END
 
 DIALOGEVENT:Taunts_BossUSA078Subtitle
-"*Oh, look at thishere comes the tank blob. Not gonna work against me, Son"
+"*Oh, look at this... here comes the tank blob. Not gonna work against me, Son"
 END
 
 DIALOGEVENT:Taunts_BossUSA079Subtitle
@@ -20452,7 +20440,7 @@ DIALOGEVENT:Taunts_BossUSA096Subtitle
 END
 
 DIALOGEVENT:Taunts_BossUSA097Subtitle
-"*HuhI guess it's over. Nice work, Kid. I guess you took me down a peg or two"
+"*Huh... I guess it's over. Nice work, Kid. I guess you took me down a peg or two"
 END
 
 DIALOGEVENT:Taunts_BossUSA098Subtitle
@@ -20512,7 +20500,7 @@ DIALOGEVENT:Taunts_Demo002Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo003Subtitle
-"*General, I have a delivery for yousign for it, won't you?"
+"*General, I have a delivery for you... sign for it, won't you?"
 END
 
 DIALOGEVENT:Taunts_Demo004Subtitle
@@ -20520,7 +20508,7 @@ DIALOGEVENT:Taunts_Demo004Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo005Subtitle
-"*Did your building just blow up? HmmI wonder how that happened?"
+"*Did your building just blow up? Hmm... I wonder how that happened?"
 END
 
 DIALOGEVENT:Taunts_Demo006Subtitle
@@ -20528,19 +20516,19 @@ DIALOGEVENT:Taunts_Demo006Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo007Subtitle
-"*My Terrorists have learned to disguise themselves asoops, have I said too much?"
+"*My Terrorists have learned to disguise themselves as... oops, have I said too much?"
 END
 
 DIALOGEVENT:Taunts_Demo008Subtitle
-"*You might notice that my explosives pack a bit more punchI hope you appreciate our attention to quality"
+"*You might notice that my explosives pack a bit more punch... I hope you appreciate our attention to quality"
 END
 
 DIALOGEVENT:Taunts_Demo009Subtitle
-"*Look how quickly the Scud Launcher destoys a building nowjust wait, it's amazing"
+"*Look how quickly the Scud Launcher destoys a building now... just wait, it's amazing"
 END
 
 DIALOGEVENT:Taunts_Demo010Subtitle
-"*First, all is silencethen \"boom!\"ahhdon't you just love it, General?"
+"*First, all is silence... then \"boom!\"... ahh... don't you just love it, General?"
 END
 
 DIALOGEVENT:Taunts_Demo011Subtitle
@@ -20552,15 +20540,15 @@ DIALOGEVENT:Taunts_Demo012Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo013Subtitle
-"*My troops are coming to assault your basemake them feel welcome"
+"*My troops are coming to assault your base... make them feel welcome"
 END
 
 DIALOGEVENT:Taunts_Demo014Subtitle
-"*Please ignore my workers, General; they're just burying someummgarbage for me"
+"*Please ignore my workers, General; they're just burying some... umm... garbage for me"
 END
 
 DIALOGEVENT:Taunts_Demo015Subtitle
-"*Oh, General, you must see thisit's the bomb. <childish laugh>"
+"*Oh, General, you must see this... it's the bomb. <childish laugh>"
 END
 
 DIALOGEVENT:Taunts_Demo016Subtitle
@@ -20592,7 +20580,7 @@ DIALOGEVENT:Taunts_Demo022Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo023Subtitle
-"*There are few units that can detect my demolitionsdo you know which ones they are?"
+"*There are few units that can detect my demolitions... do you know which ones they are?"
 END
 
 DIALOGEVENT:Taunts_Demo024Subtitle
@@ -20604,11 +20592,11 @@ DIALOGEVENT:Taunts_Demo025Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo026Subtitle
-"*Awwyour Tech Building went boom"
+"*Aww... your Tech Building went boom"
 END
 
 DIALOGEVENT:Taunts_Demo027Subtitle
-"*We've destroyed your BarracksI hope no one was in there"
+"*We've destroyed your Barracks... I hope no one was in there"
 END
 
 DIALOGEVENT:Taunts_Demo028Subtitle
@@ -20628,7 +20616,7 @@ DIALOGEVENT:Taunts_Demo031Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo032Subtitle
-"*We've destroyed so many of your buildings, GeneralI appreaciate you building more for our ammusement"
+"*We've destroyed so many of your buildings, General... I appreaciate you building more for our ammusement"
 END
 
 DIALOGEVENT:Taunts_Demo033Subtitle
@@ -20660,7 +20648,7 @@ DIALOGEVENT:Taunts_Demo039Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo040Subtitle
-"*You're cutting my men down before they can place their demolitionsthat doesn't seem right, does it, General?"
+"*You're cutting my men down before they can place their demolitions... that doesn't seem right, does it, General?"
 END
 
 DIALOGEVENT:Taunts_Demo041Subtitle
@@ -20672,7 +20660,7 @@ DIALOGEVENT:Taunts_Demo042Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo043Subtitle
-"*Good, General, capture the Oil Refinerythey blow-up so dramatically"
+"*Good, General, capture the Oil Refinery... they blow-up so dramatically"
 END
 
 DIALOGEVENT:Taunts_Demo044Subtitle
@@ -20708,7 +20696,7 @@ DIALOGEVENT:Taunts_Demo051Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo052Subtitle
-"*Careful, General; this looks like a good place for an ambushoops, too late"
+"*Careful, General; this looks like a good place for an ambush... oops, too late"
 END
 
 DIALOGEVENT:Taunts_Demo053Subtitle
@@ -20740,7 +20728,7 @@ DIALOGEVENT:Taunts_Demo059Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo060Subtitle
-"*A Scud StormI seeWell, perhaps it is time to build one of my own"
+"*A Scud Storm... I see... Well, perhaps it is time to build one of my own"
 END
 
 DIALOGEVENT:Taunts_Demo061Subtitle
@@ -20756,19 +20744,19 @@ DIALOGEVENT:Taunts_Demo063Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo064Subtitle
-"*Tanksso many tanks. I'll enjoy watching your tanks hit my traps, General"
+"*Tanks... so many tanks. I'll enjoy watching your tanks hit my traps, General"
 END
 
 DIALOGEVENT:Taunts_Demo065Subtitle
-"*Stop building planes, Generalyou'll miss the genius of my traps"
+"*Stop building planes, General... you'll miss the genius of my traps"
 END
 
 DIALOGEVENT:Taunts_Demo066Subtitle
-"*With that many infantry you're sure to set-off my Demo Traps. I'd tell them to spread out when crossing the field, Generalor not"
+"*With that many infantry you're sure to set-off my Demo Traps. I'd tell them to spread out when crossing the field, General... or not"
 END
 
 DIALOGEVENT:Taunts_Demo067Subtitle
-"*So many buildings Your base is a perfect target for my explosives, General. Thank you"
+"*So many buildings... Your base is a perfect target for my explosives, General. Thank you"
 END
 
 DIALOGEVENT:Taunts_Demo068Subtitle
@@ -20792,7 +20780,7 @@ DIALOGEVENT:Taunts_Demo072Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo073Subtitle
-"*Black Lotusjust because you can detect my traps do not think I am now vulnerable"
+"*Black Lotus... just because you can detect my traps do not think I am now vulnerable"
 END
 
 DIALOGEVENT:Taunts_Demo074Subtitle
@@ -20800,11 +20788,11 @@ DIALOGEVENT:Taunts_Demo074Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo075Subtitle
-"*Do not build any more Air Fields, GeneralI don't like them"
+"*Do not build any more Air Fields, General... I don't like them"
 END
 
 DIALOGEVENT:Taunts_Demo076Subtitle
-"*The War Factory builds vehiclesvehicles that will set-off my Demo Traps"
+"*The War Factory builds vehicles... vehicles that will set-off my Demo Traps"
 END
 
 DIALOGEVENT:Taunts_Demo077Subtitle
@@ -20824,7 +20812,7 @@ DIALOGEVENT:Taunts_Demo080Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo081Subtitle
-"*No one has beaten my traps, General, and you won't be the firstyou'll see"
+"*No one has beaten my traps, General, and you won't be the first... you'll see"
 END
 
 DIALOGEVENT:Taunts_Demo082Subtitle
@@ -20848,7 +20836,7 @@ DIALOGEVENT:Taunts_Demo086Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo087Subtitle
-"*I have so many explosives leftmore explosives than you have forces I'm afraid"
+"*I have so many explosives left... more explosives than you have forces I'm afraid"
 END
 
 DIALOGEVENT:Taunts_Demo088Subtitle
@@ -20868,7 +20856,7 @@ DIALOGEVENT:Taunts_Demo091Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo092Subtitle
-"*Please, General--enter my battlefieldbut watch where to step"
+"*Please, General--enter my battlefield... but watch where to step"
 END
 
 DIALOGEVENT:Taunts_Demo093Subtitle
@@ -20880,7 +20868,7 @@ DIALOGEVENT:Taunts_Demo094Subtitle
 END
 
 DIALOGEVENT:Taunts_Demo095Subtitle
-"*Here we see the battlefield--openuntouched by battlea blank slate for our little..."
+"*Here we see the battlefield--open... untouched by battle... a blank slate for our little..."
 END
 
 DIALOGEVENT:Taunts_Demo096Subtitle
@@ -20908,11 +20896,11 @@ DIALOGEVENT:Taunts_Grainger004Subtitle
 END
 
 DIALOGEVENT:Taunts_Grainger005Subtitle
-"*Will you look at thatUS military spending at its best"
+"*Will you look at that... US military spending at its best"
 END
 
 DIALOGEVENT:Taunts_Grainger006Subtitle
-"*(Singingbadly)and the rockets' red glare, the bombs bursting in air"
+"*(Singing... badly)... and the rockets' red glare, the bombs bursting in air..."
 END
 
 DIALOGEVENT:Taunts_Grainger007Subtitle
@@ -20940,7 +20928,7 @@ DIALOGEVENT:Taunts_Grainger012Subtitle
 END
 
 DIALOGEVENT:Taunts_Grainger013Subtitle
-"*It's awfully quiet out thereyou didn't leave did you, General?"
+"*It's awfully quiet out there... you didn't leave did you, General?"
 END
 
 DIALOGEVENT:Taunts_Grainger014Subtitle
@@ -20952,7 +20940,7 @@ DIALOGEVENT:Taunts_Grainger015Subtitle
 END
 
 DIALOGEVENT:Taunts_Grainger016Subtitle
-"*Shhdid you hear that? I wouldn't worry, it's probably nothing"
+"*Shh... did you hear that? I wouldn't worry, it's probably nothing"
 END
 
 DIALOGEVENT:Taunts_Grainger017Subtitle
@@ -20960,7 +20948,7 @@ DIALOGEVENT:Taunts_Grainger017Subtitle
 END
 
 DIALOGEVENT:Taunts_Grainger018Subtitle
-"*You've forced me to use tanksI hate using tanks"
+"*You've forced me to use tanks... I hate using tanks"
 END
 
 DIALOGEVENT:Taunts_Grainger019Subtitle
@@ -21008,7 +20996,7 @@ DIALOGEVENT:Taunts_Grainger029Subtitle
 END
 
 DIALOGEVENT:Taunts_Grainger030Subtitle
-"*This is General Grainger to Aircraft Carrier Olympia: Send reinforcementsrepeat: send reinforcements"
+"*This is General Grainger to Aircraft Carrier Olympia: Send reinforcements... repeat: send reinforcements"
 END
 
 DIALOGEVENT:Taunts_Grainger031Subtitle
@@ -21244,7 +21232,7 @@ DIALOGEVENT:Taunts_Grainger088Subtitle
 END
 
 DIALOGEVENT:Taunts_Grainger089Subtitle
-"*You've forced me to use tanksI hate using tanks"
+"*You've forced me to use tanks... I hate using tanks"
 END
 
 DIALOGEVENT:Taunts_Grainger090Subtitle
@@ -21368,7 +21356,7 @@ DIALOGEVENT:Taunts_Infantry026Subtitle
 END
 
 DIALOGEVENT:Taunts_Infantry027Subtitle
-"*Awwwe've knocked over your little Tech Building. Boo-hoo"
+"*Aww... we've knocked over your little Tech Building. Boo-hoo"
 END
 
 DIALOGEVENT:Taunts_Infantry028Subtitle
@@ -21400,7 +21388,7 @@ DIALOGEVENT:Taunts_Infantry034Subtitle
 END
 
 DIALOGEVENT:Taunts_Infantry035Subtitle
-"*NO! Not my Barracks! We will build another, Generalthen you will pay"
+"*NO! Not my Barracks! We will build another, General... then you will pay"
 END
 
 DIALOGEVENT:Taunts_Infantry036Subtitle
@@ -21500,7 +21488,7 @@ DIALOGEVENT:Taunts_Infantry059Subtitle
 END
 
 DIALOGEVENT:Taunts_Infantry060Subtitle
-"*You've wasted all your resources fighting my menbut I still have more men"
+"*You've wasted all your resources fighting my men... but I still have more men"
 END
 
 DIALOGEVENT:Taunts_Infantry061Subtitle
@@ -21508,7 +21496,7 @@ DIALOGEVENT:Taunts_Infantry061Subtitle
 END
 
 DIALOGEVENT:Taunts_Infantry062Subtitle
-"*Build your Scud Storm--it will only hit a few of my menthe rest will destroy you"
+"*Build your Scud Storm--it will only hit a few of my men... the rest will destroy you"
 END
 
 DIALOGEVENT:Taunts_Infantry063Subtitle
@@ -21528,7 +21516,7 @@ DIALOGEVENT:Taunts_Infantry066Subtitle
 END
 
 DIALOGEVENT:Taunts_Infantry067Subtitle
-"*So many planesno matter, my horde and bring down your planes too"
+"*So many planes... no matter, my horde and bring down your planes too"
 END
 
 DIALOGEVENT:Taunts_Infantry068Subtitle
@@ -21576,7 +21564,7 @@ DIALOGEVENT:Taunts_Infantry078Subtitle
 END
 
 DIALOGEVENT:Taunts_Infantry079Subtitle
-"*My men are trained in groups of threehow fast can you train your men?"
+"*My men are trained in groups of three... how fast can you train your men?"
 END
 
 DIALOGEVENT:Taunts_Infantry080Subtitle
@@ -21644,7 +21632,7 @@ DIALOGEVENT:Taunts_Infantry095Subtitle
 END
 
 DIALOGEVENT:Taunts_Infantry096Subtitle
-"*We have nice uniforms in the hordeit won't be so badyou might even like it. But I doubt it"
+"*We have nice uniforms in the horde... it won't be so bad... you might even like it. But I doubt it"
 END
 
 DIALOGEVENT:Taunts_Infantry097Subtitle
@@ -21720,7 +21708,7 @@ DIALOGEVENT:Taunts_Laser016Subtitle
 END
 
 DIALOGEVENT:Taunts_Laser017Subtitle
-"*Charging lasersplease wait, General"
+"*Charging lasers... please wait, General"
 END
 
 DIALOGEVENT:Taunts_Laser018Subtitle
@@ -21780,7 +21768,7 @@ DIALOGEVENT:Taunts_Laser031Subtitle
 END
 
 DIALOGEVENT:Taunts_Laser032Subtitle
-"*My lasers have destroyed so many of your buildingshow do you keep fighting?"
+"*My lasers have destroyed so many of your buildings... how do you keep fighting?"
 END
 
 DIALOGEVENT:Taunts_Laser033Subtitle
@@ -21864,7 +21852,7 @@ DIALOGEVENT:Taunts_Laser052Subtitle
 END
 
 DIALOGEVENT:Taunts_Laser053Subtitle
-"*Yes, come straight through my front-door, Generalif you dare"
+"*Yes, come straight through my front-door, General... if you dare"
 END
 
 DIALOGEVENT:Taunts_Laser054Subtitle
@@ -21908,7 +21896,7 @@ DIALOGEVENT:Taunts_Laser063Subtitle
 END
 
 DIALOGEVENT:Taunts_Laser064Subtitle
-"*If you build a Particle Cannon and I destroy it with a Particle Beamis that irony?"
+"*If you build a Particle Cannon and I destroy it with a Particle Beam... is that irony?"
 END
 
 DIALOGEVENT:Taunts_Laser065Subtitle
@@ -21956,7 +21944,7 @@ DIALOGEVENT:Taunts_Laser075Subtitle
 END
 
 DIALOGEVENT:Taunts_Laser076Subtitle
-"*I hope Jarmen Kell isn't using a laser scope on his rifleit wouldn't work against me"
+"*I hope Jarmen Kell isn't using a laser scope on his rifle... it wouldn't work against me"
 END
 
 DIALOGEVENT:Taunts_Laser077Subtitle
@@ -21988,7 +21976,7 @@ DIALOGEVENT:Taunts_Laser083Subtitle
 END
 
 DIALOGEVENT:Taunts_Laser084Subtitle
-"*I've calculated every variable, yet you're winninghow is this possible?"
+"*I've calculated every variable, yet you're winning... how is this possible?"
 END
 
 DIALOGEVENT:Taunts_Laser085Subtitle
@@ -22044,7 +22032,7 @@ DIALOGEVENT:Taunts_Laser097Subtitle
 END
 
 DIALOGEVENT:Taunts_Laser098Subtitle
-"*Now I dare you to cross itcome and get me, General"
+"*Now I dare you to cross it... come and get me, General"
 END
 
 DIALOGEVENT:Taunts_Nuke001Subtitle
@@ -22169,7 +22157,7 @@ DIALOGEVENT:Taunts_Nuke030Subtitle
 END
 
 DIALOGEVENT:Taunts_Nuke031Subtitle
-"*My War Factory! What have you done?! My precious tanksgone..."
+"*My War Factory! What have you done?! My precious tanks... gone..."
 END
 
 DIALOGEVENT:Taunts_Nuke032Subtitle
@@ -22237,7 +22225,7 @@ DIALOGEVENT:Taunts_Nuke047Subtitle
 END
 
 DIALOGEVENT:Taunts_Nuke048Subtitle
-"*Please, build more tanks, General; even they will melteventually"
+"*Please, build more tanks, General; even they will melt... eventually"
 END
 
 DIALOGEVENT:Taunts_Nuke049Subtitle
@@ -22277,7 +22265,7 @@ DIALOGEVENT:Taunts_Nuke057Subtitle
 END
 
 DIALOGEVENT:Taunts_Nuke058Subtitle
-"*And now for my final attack. Hold on, General, you're going to like thiswait, no you won't"
+"*And now for my final attack. Hold on, General, you're going to like this... wait, no you won't"
 END
 
 DIALOGEVENT:Taunts_Nuke059Subtitle
@@ -22357,7 +22345,7 @@ DIALOGEVENT:Taunts_Nuke077Subtitle
 END
 
 DIALOGEVENT:Taunts_Nuke078Subtitle
-"*(enemy lost all silo) You have destroyed all of my siloswhy, General? Why?!"
+"*(enemy lost all silo) You have destroyed all of my silos... why, General? Why?!"
 END
 
 DIALOGEVENT:Taunts_Nuke079Subtitle
@@ -22441,7 +22429,7 @@ DIALOGEVENT:Taunts_Stealth001Subtitle
 END
 
 DIALOGEVENT:Taunts_Stealth002Subtitle
-"*Here comes my next attacktry to be ready this time, General"
+"*Here comes my next attack... try to be ready this time, General"
 END
 
 DIALOGEVENT:Taunts_Stealth003Subtitle
@@ -22501,7 +22489,7 @@ DIALOGEVENT:Taunts_Stealth016Subtitle
 END
 
 DIALOGEVENT:Taunts_Stealth017Subtitle
-"*General, perhaps you could introduce me to Black Lotus. I'm a great admirer of heruh, work"
+"*General, perhaps you could introduce me to Black Lotus. I'm a great admirer of her... uh, work"
 END
 
 DIALOGEVENT:Taunts_Stealth018Subtitle
@@ -22525,11 +22513,11 @@ DIALOGEVENT:Taunts_Stealth022Subtitle
 END
 
 DIALOGEVENT:Taunts_Stealth023Subtitle
-"*My men are all over the battlefield, General...hidden from viewready to strike"
+"*My men are all over the battlefield, General...hidden from view... ready to strike"
 END
 
 DIALOGEVENT:Taunts_Stealth024Subtitle
-"*Stealth is my allyand your enemy"
+"*Stealth is my ally... and your enemy"
 END
 
 DIALOGEVENT:Taunts_Stealth025Subtitle
@@ -22745,7 +22733,7 @@ DIALOGEVENT:Taunts_Stealth077Subtitle
 END
 
 DIALOGEVENT:Taunts_Stealth078Subtitle
-"*By all means, General, garrison that buildingmy snipers can possibly hit them in there"
+"*By all means, General, garrison that building... my snipers can possibly hit them in there"
 END
 
 DIALOGEVENT:Taunts_Stealth079Subtitle
@@ -22753,7 +22741,7 @@ DIALOGEVENT:Taunts_Stealth079Subtitle
 END
 
 DIALOGEVENT:Taunts_Stealth080Subtitle
-"*Ah the beautiful Black Lotus. Perhaps after you're defeated, General, she'll agree to join me"
+"*Ah... the beautiful Black Lotus. Perhaps after you're defeated, General, she'll agree to join me"
 END
 
 DIALOGEVENT:Taunts_Stealth081Subtitle
@@ -22789,11 +22777,11 @@ DIALOGEVENT:Taunts_Stealth088Subtitle
 END
 
 DIALOGEVENT:Taunts_Stealth089Subtitle
-"*Enjoy your advantage for now, Generalyou'll make a mistake soon and I'll turn the tide of this battle"
+"*Enjoy your advantage for now, General... you'll make a mistake soon and I'll turn the tide of this battle"
 END
 
 DIALOGEVENT:Taunts_Stealth090Subtitle
-"*So it endsyou've defeated me, General, but someday I'll have my revenge. Watch your back, General"
+"*So it ends... you've defeated me, General, but someday I'll have my revenge. Watch your back, General"
 END
 
 DIALOGEVENT:Taunts_Stealth091Subtitle
@@ -22833,7 +22821,7 @@ DIALOGEVENT:Taunts_Stealth099Subtitle
 END
 
 DIALOGEVENT:Taunts_Stealth100Subtitle
-"*My men will not accept this defeat from their leader, General. You have signed my death warrant with your superior tactics"
+"*My men will not accept this defeat from their leader, General. You have signed my death warrant with your superior tactics..."
 END
 
 DIALOGEVENT:Taunts_Stealth101Subtitle
@@ -22841,11 +22829,11 @@ DIALOGEVENT:Taunts_Stealth101Subtitle
 END
 
 DIALOGEVENT:Taunts_Stealth102Subtitle
-"*And another who stood against me falls"
+"*And another who stood against me falls..."
 END
 
 DIALOGEVENT:Taunts_Stealth103Subtitle
-"*And so it will be for you, General--no warning, no mercy"
+"*And so it will be for you, General--no warning, no mercy..."
 END
 
 DIALOGEVENT:Taunts_Stealth104Subtitle
@@ -22869,7 +22857,7 @@ DIALOGEVENT:Taunts_Tank004Subtitle
 END
 
 DIALOGEVENT:Taunts_Tank005Subtitle
-"*Mmmcan you feel the thunderous song of approaching armor, General?"
+"*Mmm... can you feel the thunderous song of approaching armor, General?"
 END
 
 DIALOGEVENT:Taunts_Tank006Subtitle
@@ -22885,7 +22873,7 @@ DIALOGEVENT:Taunts_Tank008Subtitle
 END
 
 DIALOGEVENT:Taunts_Tank009Subtitle
-"*Soon, the field will fill with tanksmy tanks"
+"*Soon, the field will fill with tanks... my tanks"
 END
 
 DIALOGEVENT:Taunts_Tank010Subtitle
@@ -22893,7 +22881,7 @@ DIALOGEVENT:Taunts_Tank010Subtitle
 END
 
 DIALOGEVENT:Taunts_Tank011Subtitle
-"*Nice base, Generalcare to surrender it?"
+"*Nice base, General... care to surrender it?"
 END
 
 DIALOGEVENT:Taunts_Tank012Subtitle
@@ -22909,7 +22897,7 @@ DIALOGEVENT:Taunts_Tank014Subtitle
 END
 
 DIALOGEVENT:Taunts_Tank015Subtitle
-"*Tanksbuild more tanks"
+"*Tanks... build more tanks..."
 END
 
 DIALOGEVENT:Taunts_Tank016Subtitle
@@ -22917,11 +22905,11 @@ DIALOGEVENT:Taunts_Tank016Subtitle
 END
 
 DIALOGEVENT:Taunts_Tank017Subtitle
-"*Ah, this is the part of the battle I enjoy the mostthe part just before I finish off my enemy"
+"*Ah, this is the part of the battle I enjoy the most... the part just before I finish off my enemy"
 END
 
 DIALOGEVENT:Taunts_Tank018Subtitle
-"*Tanks: move fasterbefore our opponent considers an actual attack"
+"*Tanks: move faster... before our opponent considers an actual attack"
 END
 
 DIALOGEVENT:Taunts_Tank019Subtitle
@@ -22929,7 +22917,7 @@ DIALOGEVENT:Taunts_Tank019Subtitle
 END
 
 DIALOGEVENT:Taunts_Tank020Subtitle
-"*I'm going to take this time to construct more defensesno, wait, I'll build more tanks instead"
+"*I'm going to take this time to construct more defenses... no, wait, I'll build more tanks instead"
 END
 
 DIALOGEVENT:Taunts_Tank021Subtitle
@@ -22969,7 +22957,7 @@ DIALOGEVENT:Taunts_Tank029Subtitle
 END
 
 DIALOGEVENT:Taunts_Tank030Subtitle
-"*You cannot believe your luck will hold out much longercan you, General?"
+"*You cannot believe your luck will hold out much longer... can you, General?"
 END
 
 DIALOGEVENT:Taunts_Tank031Subtitle
@@ -22997,7 +22985,7 @@ DIALOGEVENT:Taunts_Tank036Subtitle
 END
 
 DIALOGEVENT:Taunts_Tank037Subtitle
-"*You've lost a lot of buildings, Generalisn't it time to surrender?"
+"*You've lost a lot of buildings, General... isn't it time to surrender?"
 END
 
 DIALOGEVENT:Taunts_Tank038Subtitle
@@ -23025,7 +23013,7 @@ DIALOGEVENT:Taunts_Tank043Subtitle
 END
 
 DIALOGEVENT:Taunts_Tank044Subtitle
-"*You've destroyed my Command CenterI am impressed, General...few survive this long"
+"*You've destroyed my Command Center... I am impressed, General...few survive this long"
 END
 
 DIALOGEVENT:Taunts_Tank045Subtitle
@@ -23089,11 +23077,11 @@ DIALOGEVENT:Taunts_Tank059Subtitle
 END
 
 DIALOGEVENT:Taunts_Tank060Subtitle
-"*I would suggest restoring your power, Generalbefore we turn it off permanently"
+"*I would suggest restoring your power, General... before we turn it off permanently"
 END
 
 DIALOGEVENT:Taunts_Tank061Subtitle
-"*Your supply pile looks lownow nothing can stop us"
+"*Your supply pile looks low... now nothing can stop us"
 END
 
 DIALOGEVENT:Taunts_Tank062Subtitle
@@ -23105,7 +23093,7 @@ DIALOGEVENT:Taunts_Tank063Subtitle
 END
 
 DIALOGEVENT:Taunts_Tank064Subtitle
-"*And now this war has gone nuclearexcellent"
+"*And now this war has gone nuclear... excellent"
 END
 
 DIALOGEVENT:Taunts_Tank065Subtitle
@@ -23113,7 +23101,7 @@ DIALOGEVENT:Taunts_Tank065Subtitle
 END
 
 DIALOGEVENT:Taunts_Tank066Subtitle
-"*So many base defenses, Generalall so useless"
+"*So many base defenses, General... all so useless"
 END
 
 DIALOGEVENT:Taunts_Tank067Subtitle
@@ -23185,7 +23173,7 @@ DIALOGEVENT:Taunts_Tank083Subtitle
 END
 
 DIALOGEVENT:Taunts_Tank084Subtitle
-"*General, my forces outnumber yoursit is only a matter to time now"
+"*General, my forces outnumber yours... it is only a matter to time now"
 END
 
 DIALOGEVENT:Taunts_Tank085Subtitle
@@ -23237,7 +23225,7 @@ DIALOGEVENT:Taunts_Tank096Subtitle
 END
 
 DIALOGEVENT:Taunts_Tank097Subtitle
-"*Tanks are the key to any victoryas you well know"
+"*Tanks are the key to any victory... as you well know"
 END
 
 DIALOGEVENT:Taunts_Tank098Subtitle
@@ -23249,7 +23237,7 @@ DIALOGEVENT:Taunts_Tank099Subtitle
 END
 
 DIALOGEVENT:Taunts_Tank100Subtitle
-"*And these are just my Battlemasters, Generaljust wait until the Overlord join the battle"
+"*And these are just my Battlemasters, General... just wait until the Overlord join the battle"
 END
 
 DIALOGEVENT:Taunts_Tank101Subtitle
@@ -23305,7 +23293,7 @@ DIALOGEVENT:Taunts_Toxin012Subtitle
 END
 
 DIALOGEVENT:Taunts_Toxin013Subtitle
-"*Oh, you're going to like this, General. No, waitno you won't"
+"*Oh, you're going to like this, General. No, wait... no you won't"
 END
 
 DIALOGEVENT:Taunts_Toxin014Subtitle
@@ -23313,7 +23301,7 @@ DIALOGEVENT:Taunts_Toxin014Subtitle
 END
 
 DIALOGEVENT:Taunts_Toxin015Subtitle
-"*Silent but deadly"
+"*Silent... but deadly..."
 END
 
 DIALOGEVENT:Taunts_Toxin016Subtitle
@@ -23321,7 +23309,7 @@ DIALOGEVENT:Taunts_Toxin016Subtitle
 END
 
 DIALOGEVENT:Taunts_Toxin017Subtitle
-"*The suspense it's killing you!"
+"*The suspense... it's killing you!"
 END
 
 DIALOGEVENT:Taunts_Toxin018Subtitle
@@ -23337,7 +23325,7 @@ DIALOGEVENT:Taunts_Toxin020Subtitle
 END
 
 DIALOGEVENT:Taunts_Toxin021Subtitle
-"*Anthrax it does a body bad"
+"*Anthrax... it does a body bad"
 END
 
 DIALOGEVENT:Taunts_Toxin022Subtitle
@@ -23345,7 +23333,7 @@ DIALOGEVENT:Taunts_Toxin022Subtitle
 END
 
 DIALOGEVENT:Taunts_Toxin023Subtitle
-"*And breathe in out and again feel better?"
+"*And breathe in... out... and again... feel better?"
 END
 
 DIALOGEVENT:Taunts_Toxin024Subtitle
@@ -23357,11 +23345,11 @@ DIALOGEVENT:Taunts_Toxin025Subtitle
 END
 
 DIALOGEVENT:Taunts_Toxin026Subtitle
-"*We have a clogged toxin nozzle, Generalgive me a second to fix it"
+"*We have a clogged toxin nozzle, General... give me a second to fix it"
 END
 
 DIALOGEVENT:Taunts_Toxin027Subtitle
-"*You'll come for the toxin, but you'll staybecause you're dead!"
+"*You'll come for the toxin, but you'll stay... because you're dead!"
 END
 
 DIALOGEVENT:Taunts_Toxin028Subtitle
@@ -23425,11 +23413,11 @@ DIALOGEVENT:Taunts_Toxin042Subtitle
 END
 
 DIALOGEVENT:Taunts_Toxin043Subtitle
-"*Stop destroying my buildings, General, or I will make thingsunpleasant for you"
+"*Stop destroying my buildings, General, or I will make things... unpleasant for you"
 END
 
 DIALOGEVENT:Taunts_Toxin044Subtitle
-"*You've destroyed my Command Center! Ah well, I always hated my commanders anywaynow it's just you and me, General"
+"*You've destroyed my Command Center! Ah well, I always hated my commanders anyway... now it's just you and me, General"
 END
 
 DIALOGEVENT:Taunts_Toxin045Subtitle
@@ -23473,7 +23461,7 @@ DIALOGEVENT:Taunts_Toxin054Subtitle
 END
 
 DIALOGEVENT:Taunts_Toxin055Subtitle
-"*I don't think you want those supplies, they aren't  ready yet"
+"*I don't think you want those supplies, they aren't... ready yet"
 END
 
 DIALOGEVENT:Taunts_Toxin056Subtitle
@@ -23489,7 +23477,7 @@ DIALOGEVENT:Taunts_Toxin058Subtitle
 END
 
 DIALOGEVENT:Taunts_Toxin059Subtitle
-"*Watch out, General, that bridge might not be safebut then, what is around here?"
+"*Watch out, General, that bridge might not be safe... but then, what is around here?"
 END
 
 DIALOGEVENT:Taunts_Toxin060Subtitle
@@ -23509,7 +23497,7 @@ DIALOGEVENT:Taunts_Toxin063Subtitle
 END
 
 DIALOGEVENT:Taunts_Toxin064Subtitle
-"*Your resource pile has grown small,General. I don't think you have enough left to stop my next attackexcellent"
+"*Your resource pile has grown small,General. I don't think you have enough left to stop my next attack... excellent..."
 END
 
 DIALOGEVENT:Taunts_Toxin065Subtitle
@@ -23521,7 +23509,7 @@ DIALOGEVENT:Taunts_Toxin066Subtitle
 END
 
 DIALOGEVENT:Taunts_Toxin067Subtitle
-"*A Nuke Silo? I would not have expected you to use toxic radiationperhaps we could work together sometime"
+"*A Nuke Silo? I would not have expected you to use toxic radiation... perhaps we could work together sometime"
 END
 
 DIALOGEVENT:Taunts_Toxin068Subtitle
@@ -23545,11 +23533,11 @@ DIALOGEVENT:Taunts_Toxin072Subtitle
 END
 
 DIALOGEVENT:Taunts_Toxin073Subtitle
-"*Your base has grown large, Generala perfect target for my Scud Storm"
+"*Your base has grown large, General... a perfect target for my Scud Storm..."
 END
 
 DIALOGEVENT:Taunts_Toxin074Subtitle
-"*Yes, fire your Scud Stormvisit your useless toxins upon my base"
+"*Yes, fire your Scud Storm... visit your useless toxins upon my base"
 END
 
 DIALOGEVENT:Taunts_Toxin075Subtitle
@@ -23569,7 +23557,7 @@ DIALOGEVENT:Taunts_Toxin078Subtitle
 END
 
 DIALOGEVENT:Taunts_Toxin079Subtitle
-"*Black Lotus? You know, of course, that the black lotus is a poisonous flowerI think that's in one of my toxinsbut I digress"
+"*Black Lotus? You know, of course, that the black lotus is a poisonous flower... I think that's in one of my toxins... but I digress..."
 END
 
 DIALOGEVENT:Taunts_Toxin080Subtitle
@@ -23589,7 +23577,7 @@ DIALOGEVENT:Taunts_Toxin083Subtitle
 END
 
 DIALOGEVENT:Taunts_Toxin084Subtitle
-"*Sell off allyour buildings, Generaland send your men to me"
+"*Sell off allyour buildings, General... and send your men to me"
 END
 
 DIALOGEVENT:Taunts_Toxin085Subtitle
@@ -23637,11 +23625,11 @@ DIALOGEVENT:Taunts_Toxin095Subtitle
 END
 
 DIALOGEVENT:Taunts_Toxin096Subtitle
-"*No! No. I am defeated. Now where is that cyanide capsule"
+"*No! No. I am defeated. Now where is that cyanide capsule..."
 END
 
 DIALOGEVENT:Taunts_Toxin097Subtitle
-"*That button was covered with poisonyou're already dead"
+"*That button was covered with poison... you're already dead"
 END
 
 DIALOGEVENT:Taunts_Toxin098Subtitle
@@ -23669,7 +23657,7 @@ DIALOGEVENT:Taunts_Toxin103Subtitle
 END
 
 DIALOGEVENT:Taunts_Toxin104Subtitle
-"*And do not worry about hurting the civilian population, General; they have long since fled this valley of toxic death. Our little war will play-out uninterruptedand your delicate sensibilities will not be taxed"
+"*And do not worry about hurting the civilian population, General; they have long since fled this valley of toxic death. Our little war will play-out uninterrupted... and your delicate sensibilities will not be taxed"
 END
 
 DIALOGEVENT:Taunts_Toxin105Subtitle
@@ -23757,11 +23745,11 @@ DIALOGEVENT:Taunts_Turtle008Subtitle
 END
 
 DIALOGEVENT:Taunts_Turtle009Subtitle
-"*I really don't think you're going to be able to stop this next attackdo you?"
+"*I really don't think you're going to be able to stop this next attack... do you?"
 END
 
 DIALOGEVENT:Taunts_Turtle010Subtitle
-"*Here comes another attackoh, and almost all of my Generals Powers are ready to gowhich one do you want to see first?"
+"*Here comes another attack... oh, and almost all of my Generals Powers are ready to go... which one do you want to see first?"
 END
 
 DIALOGEVENT:Taunts_Turtle011Subtitle
@@ -23769,7 +23757,7 @@ DIALOGEVENT:Taunts_Turtle011Subtitle
 END
 
 DIALOGEVENT:Taunts_Turtle012Subtitle
-"*All units: Attack pattern alpha! Just kiddingwho would call something \"alpha\"?"
+"*All units: Attack pattern alpha! Just kidding... who would call something \"alpha\"?"
 END
 
 DIALOGEVENT:Taunts_Turtle013Subtitle
@@ -23801,7 +23789,7 @@ DIALOGEVENT:Taunts_Turtle019Subtitle
 END
 
 DIALOGEVENT:Taunts_Turtle020Subtitle
-"*My greatest \"super weapon\" is my brainwouldn't you agree, General?"
+"*My greatest \"super weapon\" is my brain... wouldn't you agree, General?"
 END
 
 DIALOGEVENT:Taunts_Turtle021Subtitle
@@ -23813,7 +23801,7 @@ DIALOGEVENT:Taunts_Turtle022Subtitle
 END
 
 DIALOGEVENT:Taunts_Turtle023Subtitle
-"*I've been analyzing you tactics and I'm just amazeddo you even have any tactics, General?"
+"*I've been analyzing you tactics and I'm just amazed... do you even have any tactics, General?"
 END
 
 DIALOGEVENT:Taunts_Turtle024Subtitle
@@ -23837,7 +23825,7 @@ DIALOGEVENT:Taunts_Turtle028Subtitle
 END
 
 DIALOGEVENT:Taunts_Turtle029Subtitle
-"*Maybe we should do this some other timewhen you're not so distractedat least, I hope that's what's wrong. You did say you were a \"general\", right?"
+"*Maybe we should do this some other time... when you're not so distracted... at least, I hope that's what's wrong. You did say you were a \"general\", right?"
 END
 
 DIALOGEVENT:Taunts_Turtle030Subtitle
@@ -23961,7 +23949,7 @@ DIALOGEVENT:Taunts_Turtle059Subtitle
 END
 
 DIALOGEVENT:Taunts_Turtle060Subtitle
-"*So you've managed to crack my defensesthat won't happen again"
+"*So you've managed to crack my defenses... that won't happen again"
 END
 
 DIALOGEVENT:Taunts_Turtle061Subtitle
@@ -24109,7 +24097,7 @@ DIALOGEVENT:Taunts_Turtle096Subtitle
 END
 
 DIALOGEVENT:Taunts_Turtle097Subtitle
-"*My Super Weapons are readyare you?"
+"*My Super Weapons are ready... are you?"
 END
 
 DIALOGEVENT:Taunts_Turtle098Subtitle
@@ -24133,7 +24121,7 @@ DIALOGEVENT:Taunts_Turtle102Subtitle
 END
 
 DIALOGEVENT:Taunts_Turtle103Subtitle
-"*Oh, what's that sound? Now I see a light in the sky... Hmm"
+"*Oh, what's that sound? Now I see a light in the sky... Hmm..."
 END
 
 DIALOGEVENT:Taunts_Turtle104Subtitle
@@ -24141,7 +24129,7 @@ DIALOGEVENT:Taunts_Turtle104Subtitle
 END
 
 DIALOGEVENT:Taunts_Turtle106Subtitle
-"*oh dearI'm sorry, General, but that's just how I like to say, \"hello.\" Well, good luck, General"
+"*... oh dear... I'm sorry, General, but that's just how I like to say, \"hello.\" Well, good luck, General"
 END
 
 DIALOGEVENT:Taunts_Turtle107Subtitle
@@ -24189,7 +24177,7 @@ DIALOGEVENT:UnitDescriptXChina010Subtitle
 END
 
 DIALOGEVENT:UnitDescriptXChina011Subtitle
-"*The MOAB is an upgrade to the US Fuel Air Bomb that includes a stun ability, temporarily shutting down surviving units and structures"
+"*The MOAB is an upgrade to the US Fuel Air Bomb that includes a “stun” ability, temporarily shutting down surviving units and structures"
 END
 
 DIALOGEVENT:UnitDescriptXChina012Subtitle
@@ -24305,7 +24293,7 @@ DIALOGEVENT:UnitDescriptXGLA003Subtitle
 END
 
 DIALOGEVENT:UnitDescriptXGLA004Subtitle
-"*The US Avenger is a powerful laser-base anti-air vehiclebut we have no planes, so the danger from it is minimal"
+"*The US Avenger is a powerful laser-base anti-air vehicle... but we have no planes, so the danger from it is minimal"
 END
 
 DIALOGEVENT:UnitDescriptXGLA005Subtitle
@@ -24337,7 +24325,7 @@ DIALOGEVENT:UnitDescriptXGLA011Subtitle
 END
 
 DIALOGEVENT:UnitDescriptXGLA012Subtitle
-"*The MOAB is an upgrade to the Fuel Air Bomb that includes a stun ability, temporarily shutting down surviving units and structures"
+"*The MOAB is an upgrade to the Fuel Air Bomb that includes a “stun” ability, temporarily shutting down surviving units and structures"
 END
 
 DIALOGEVENT:UnitDescriptXGLA013Subtitle
@@ -24485,7 +24473,7 @@ DIALOGEVENT:UnitDescriptXUSA011Subtitle
 END
 
 DIALOGEVENT:UnitDescriptXUSA012Subtitle
-"*The MOAB is an upgrade to the Fuel Air Bomb that includes a stun ability, temporarily shutting down surviving units and structures"
+"*The MOAB is an upgrade to the Fuel Air Bomb that includes a “stun” ability, temporarily shutting down surviving units and structures"
 END
 
 DIALOGEVENT:UnitDescriptXUSA013Subtitle
@@ -24585,7 +24573,7 @@ DIALOGEVENT:UnitDescriptXUSA036Subtitle
 END
 
 DIALOGEVENT:UnitDescriptXUSA037Subtitle
-"*The Repair Bay is a repair facility for vehicles. Vehicles must dock with the structure in the same way that they must dock with the war factory"
+"*The Repair Bay is a repair facility for vehicles. Vehicles must “dock” with the structure in the same way that they must dock with the war factory"
 END
 
 TOOLTIP:Community
@@ -25698,5 +25686,69 @@ END
 
 CONTROLBAR:AirF_ToolTipUSAScienceCarpetBomb
 "Fordere einen Tarnkappenbomber an, um ein Gebiet zu bombardieren.\n\nProduktionsstätte: Strategiezentrum"
+END
+
+GUI:LoadReplayLong
+""
+END
+
+TOOLTIP:BattleHonorStreak5
+""
+END
+
+TOOLTIP:BattleHonorStreak20
+""
+END
+
+CONTROLBAR:ToolTipGLAUpgradeBuggyAmmor
+"Alle Raketenbuggys haben 25% mehr Munition."
+END
+
+TOOLTIP:BattleHonorStreak3Disabled
+"Siegesmedaille\nFür diese Auszeichnung musst du 3 Spiele in Folge gewinnen."
+END
+
+TOOLTIP:BattleHonorBlitz10Disabled
+"Blitzkrieg-Orden\nGewinne in 10 Minuten (oder schneller) gegen Computergegner!"
+END
+
+CREDITS:SSDevTeam1
+""
+END
+
+CREDITS:SSDevTeam2
+""
+END
+
+CREDITS:SSDevTeam3
+""
+END
+
+GUI:BuddyAddReqMessageSent
+""
+END
+
+GUI:BuddyAddReqMessageRejected
+""
+END
+
+GUI:BuddyAddReqMessageAccepted
+""
+END
+
+TOOLTIP:RefreshGamePlayerList
+""
+END
+
+TOOLTIP:CommunicatorBuddyRadioButton
+""
+END
+
+TOOLTIP:CommunicatorIgnoreRadioButton
+""
+END
+
+GUI:BeaconClear
+""
 END
 
